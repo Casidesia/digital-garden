@@ -22,20 +22,24 @@ properties:
     displayName: Release Date
   formula.Untitled:
     displayName: Release Date
+  note.releaseDate:
+    displayName: Release
 views:
   - type: table
     name: Table
     filters:
       and:
         - status == "done"
+    groupBy:
+      property: coverType
+      direction: DESC
     order:
+      - releaseDate
       - file.name
       - musician
       - coverRoles
-      - coverType
-      - formula.Untitled
     sort:
-      - property: formula.Untitled
+      - property: releaseDate
         direction: ASC
 
 ```
