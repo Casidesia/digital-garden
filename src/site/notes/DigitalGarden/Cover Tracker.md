@@ -15,16 +15,16 @@
 | Kingdom Come                     | May 02, 2026   | \-                 |
 | I Need You ~Yozora no Kanransha~ | May 04, 2026   | September 18, 2026 |
 | Tokimeku Tokimeke                | May 05, 2026   | \-                 |
-| CHO DAI                          | May 07, 2026   | \-                 |
 | Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-                 |
-| Nanchatte Ren'ai                 | May 07, 2026   | \-                 |
 | Osaka Koi no Uta                 | May 07, 2026   | \-                 |
-| Happy Birthday to Me             | May 08, 2026   | \-                 |
+| Nanchatte Ren'ai                 | May 07, 2026   | \-                 |
+| CHO DAI                          | May 07, 2026   | \-                 |
 | SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-                 |
+| Happy Birthday to Me             | May 08, 2026   | \-                 |
 | Junjou Evidence                  | May 11, 2026   | \-                 |
 | Wakatteiru no ni Gomen ne        | May 11, 2026   | \-                 |
-| More! Mi Amore! (Solo)           | May 13, 2026   | \-                 |
 | Seishun Night                    | May 13, 2026   | July 22, 2026      |
+| More! Mi Amore! (Solo)           | May 13, 2026   | \-                 |
 
 { .block-language-dataview}
 ## Waiting
@@ -44,5 +44,33 @@
 | ---------------------------- |
 | Ai to Taiyou ni Tsutsumarete |
 | MELODIES - GAM               |
+
+{ .block-language-dataview}
+
+## Part Done
+| Song                        |
+| --------------------------- |
+| Maji desu ka Ska!           |
+| Kaigan Seisou Danshi        |
+| Seishun Collection          |
+| Kura Sushi Bikkurapon!      |
+| Hooke no Housoku            |
+| Baisekou Daiseikou!         |
+| Go Girl Koi no Victory      |
+| Toki wo Koe Sora wo Koe     |
+| Prison Breaker              |
+| Fiesta! Fiesta!             |
+| Haru no Uta                 |
+| Zenzen Okiagarenai SUNDAY   |
+| Tokyo Blur                  |
+| Teka no Happy               |
+| Aisaretai no ni             |
+| Bot Bakka                   |
+| Onna no Aiso wa Buki ja nai |
+| SaiKIYOU                    |
+| Blah Blah Blah              |
+| FAST PASS                   |
+| Fukyouwaon                  |
+| Naimono Love                |
 
 { .block-language-dataview}
