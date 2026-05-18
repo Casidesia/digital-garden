@@ -5,22 +5,21 @@
 
 
 ```base
+properties:
+  note.musician:
+    displayName: Original Artist
+  file.basename:
+    displayName: Song
 views:
   - type: table
     name: Table
     filters:
       and:
-        - file.inFolder("Covers")
-        - Status == "done"
+        - status == "done"
     order:
       - file.name
       - musician
-      - soloLines
       - coverLink
       - coverRoles
-      - coverType
-      - completedDate
-    sort: []
-    columnSize: {}
 
 ```
