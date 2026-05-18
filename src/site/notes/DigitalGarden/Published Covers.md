@@ -5,6 +5,8 @@
 
 
 ```base
+formulas:
+  Untitled: "releaseDate.toString() "
 properties:
   note.musician:
     displayName: Original Artist
@@ -18,6 +20,8 @@ properties:
     displayName: Collab/Solo
   note.completedDate:
     displayName: Release Date
+  formula.Untitled:
+    displayName: Release Date
 views:
   - type: table
     name: Table
@@ -28,8 +32,11 @@ views:
       - file.name
       - musician
       - coverRoles
-      - completedDate
       - coverType
+      - formula.Untitled
+    sort:
+      - property: formula.Untitled
+        direction: ASC
 
 ```
 
