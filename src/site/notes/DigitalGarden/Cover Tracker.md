@@ -5,8 +5,8 @@
 ## To Record
 | Song                             | Date Assigned  | due                |
 | -------------------------------- | -------------- | ------------------ |
-| Koi wa Magnet                    | \-             | \-                 |
 | Kataomoi                         | \-             | \-                 |
+| Koi wa Magnet                    | \-             | \-                 |
 | FireWorks                        | March 26, 2026 | June 06, 2026      |
 | Fantasy ga Hajimaru              | April 05, 2026 | \-                 |
 | Chance of LOVE                   | April 12, 2026 | \-                 |
@@ -16,9 +16,9 @@
 | I Need You ~Yozora no Kanransha~ | May 04, 2026   | September 18, 2026 |
 | Tokimeku Tokimeke                | May 05, 2026   | \-                 |
 | CHO DAI                          | May 07, 2026   | \-                 |
-| Osaka Koi no Uta                 | May 07, 2026   | \-                 |
 | Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-                 |
 | Nanchatte Ren'ai                 | May 07, 2026   | \-                 |
+| Osaka Koi no Uta                 | May 07, 2026   | \-                 |
 | Happy Birthday to Me             | May 08, 2026   | \-                 |
 | SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-                 |
 | Junjou Evidence                  | May 11, 2026   | \-                 |
@@ -42,7 +42,7 @@
 ## In Progress
 | Song                         |
 | ---------------------------- |
-| MELODIES - GAM               |
 | Ai to Taiyou ni Tsutsumarete |
+| MELODIES - GAM               |
 
 { .block-language-dataview}

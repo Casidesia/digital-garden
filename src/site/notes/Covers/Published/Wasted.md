@@ -3,4 +3,7 @@
 ---
 
 musician: Carrie Underwood
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X7LGxaeTYI0?si=A2B3ncD9A939nkbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Release Date: Jan 30, 2024
+First english release!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7LGxaeTYI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
