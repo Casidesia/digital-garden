@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/covered-artists/morning-musume/","updated":"2026-05-22T14:03:14.662-04:00","dg-note-properties":{"aliases":["Muten Musume"]}}
+{"dg-publish":true,"permalink":"/covers/covered-artists/tanpopo/","updated":"2026-05-22T14:03:45.510-04:00","dg-note-properties":{}}
 ---
 
 
