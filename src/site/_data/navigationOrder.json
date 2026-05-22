@@ -1,23 +1,13 @@
 {
   "/": [
-    "DigitalGarden",
+    "\"home",
+    "\"published",
+    "\"tracker",
     "Covers"
   ],
-  "/DigitalGarden": [
-    "Cover Tracker",
-    "Home",
-    "Published Covers",
-    "Cover Wishlist"
-  ],
-  "/DigitalGarden/Cover Wishlist": [
-    "Abandoned Covers",
-    "Cover Wishlist",
-    "Hello!Project",
-    "Other",
-    "Possible Solos"
-  ],
   "/Covers": [
-    "Published"
+    "Published",
+    "Cover Wishlist"
   ],
   "/Covers/Published": [
     "3,2,1 Breakin out",
@@ -30,5 +20,11 @@
     "Red Line",
     "Tanpopo",
     "Wasted"
+  ],
+  "/Covers/Cover Wishlist": [
+    "Abandoned Covers",
+    "Hello!Project",
+    "Other",
+    "Possible Solos"
   ]
 }
