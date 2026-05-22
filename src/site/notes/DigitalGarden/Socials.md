@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/socials/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"\"socials.md\"","permalink":"/socials/","dg-note-properties":{}}
 ---
 
 
