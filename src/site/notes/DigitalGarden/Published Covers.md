@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/published-covers/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"\"published.md\"","permalink":"/published/","dg-note-properties":{}}
 ---
 
 

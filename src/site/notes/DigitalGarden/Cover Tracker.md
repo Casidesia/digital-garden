@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/cover-tracker/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"\"tracker.md\"","permalink":"/tracker/","dg-note-properties":{}}
 ---
 
 ## To Record
