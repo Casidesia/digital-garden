@@ -4,9 +4,9 @@
 
 | Song                                     | musician                          | notes                               |
 | ---------------------------------------- | --------------------------------- | ----------------------------------- |
-| Senbonzakura                             | \-                                | \-                                  |
-| Otome no Policy                          | \-                                | \-                                  |
 | moshi mo                                 | \-                                | \-                                  |
+| Otome no Policy                          | \-                                | \-                                  |
+| Senbonzakura                             | \-                                | \-                                  |
 | Odo                                      | Ado                               | \-                                  |
 | STARS                                    | Aimi                              | \-                                  |
 | Hatenonaitabi                            | Aina Suzuki                       | \-                                  |
@@ -17,14 +17,14 @@
 | Sugar Song to Bitter Step                | BENI                              | \-                                  |
 | Nascent Sacrifice                        | BIN                               | \-                                  |
 | Every heart                              | BOA                               | \-                                  |
-| SHINE WE ARE!                            | BOA                               | \-                                  |
-| LISTEN TO MY HEART                       | BOA                               | \-                                  |
 | Kimochiha Tsutawaru                      | BOA                               | \-                                  |
+| LISTEN TO MY HEART                       | BOA                               | \-                                  |
+| SHINE WE ARE!                            | BOA                               | \-                                  |
 | Utano Saku Shima                         | caeca                             | \-                                  |
 | TEST ME                                  | CHANMINA                          | \-                                  |
+| Aoi Tori                                 | Chihaya Kisaragi (CV: Asami Imai) | \-                                  |
 | Nemuri Home                              | Chihaya Kisaragi (CV: Asami Imai) | \-                                  |
 | Yakusoku                                 | Chihaya Kisaragi (CV: Asami Imai) | \-                                  |
-| Aoi Tori                                 | Chihaya Kisaragi (CV: Asami Imai) | \-                                  |
 | Departures ~あなたにおくるアイの歌~ (Acoustic Ver.) | EGOIST                            | \-                                  |
 | Namae No Nai Kaibutsu                    | EGOIST                            | \-                                  |
 | rapunzel                                 | emlyn                             | English                             |
@@ -34,9 +34,9 @@
 | Hysteric Bullet                          | GARNIDELIA                        | \-                                  |
 | This is Love                             | Hikaru Utada                      | \-                                  |
 | ANGELUS                                  | Hitomi Shimatani                  | \-                                  |
-| My love (2014 Ver)                       | HONG JIN YOUNG                    | Korean                              |
 | Cheer Up                                 | HONG JIN YOUNG                    | Korean                              |
 | GOOD BYE                                 | HONG JIN YOUNG                    | Korean                              |
+| My love (2014 Ver)                       | HONG JIN YOUNG                    | Korean                              |
 | Get Freedom                              | HYPNOSISMIC -D.R.B-               | \-                                  |
 | Blue Bird                                | ikimonogakari                     | \-                                  |
 | Sakura                                   | ikimonogakari                     | \-                                  |
@@ -45,9 +45,9 @@
 | Here                                     | JUNNA                             | \-                                  |
 | Watashi                                  | Kanon                             | \-                                  |
 | promise '07 Remastering                  | Kohmi Hirose                      | \-                                  |
-| real Emotion                             | Kumi Koda                         | \-                                  |
 | Hey Baby!                                | Kumi Koda                         | \-                                  |
 | Love Me Back                             | Kumi Koda                         | \-                                  |
+| real Emotion                             | Kumi Koda                         | \-                                  |
 | Ye Mingzhu                               | Lanzhu Zhong                      | Some Chinese                        |
 | GL                                       | LiSA                              | \-                                  |
 | Ikenai Borderline                        | MACROSS                           | \-                                  |
@@ -59,21 +59,21 @@
 | Hikari                                   | Ms. OOJA                          | \-                                  |
 | Come                                     | Namie Amuro                       | \-                                  |
 | Kesenai Tsumi                            | Nana Kitade                       | \-                                  |
-| Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
-| SECRET AMBITION                          | Nana Mizuki                       | \-                                  |
-| SCARLET KNIGHT                           | Nana Mizuki                       | \-                                  |
-| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
-| GUILTY                                   | Nana Mizuki                       | \-                                  |
-| EXTERMINATE                              | Nana Mizuki                       | \-                                  |
-| TESTAMENT                                | Nana Mizuki                       | \-                                  |
-| Shin'ai                                  | Nana Mizuki                       | \-                                  |
-| POP MASTER                               | Nana Mizuki                       | \-                                  |
-| innocent starter                         | Nana Mizuki                       | \-                                  |
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
-| Shiunen                                  | Nana Mizuki                       | \-                                  |
-| GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
-| Hakudo                                   | Nana Mizuki                       | \-                                  |
+| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
+| EXTERMINATE                              | Nana Mizuki                       | \-                                  |
 | Fate (Redo)                              | Nana Mizuki                       | \-                                  |
+| GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
+| GUILTY                                   | Nana Mizuki                       | \-                                  |
+| Hakudo                                   | Nana Mizuki                       | \-                                  |
+| innocent starter                         | Nana Mizuki                       | \-                                  |
+| Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
+| POP MASTER                               | Nana Mizuki                       | \-                                  |
+| SCARLET KNIGHT                           | Nana Mizuki                       | \-                                  |
+| SECRET AMBITION                          | Nana Mizuki                       | \-                                  |
+| Shin'ai                                  | Nana Mizuki                       | \-                                  |
+| Shiunen                                  | Nana Mizuki                       | \-                                  |
+| TESTAMENT                                | Nana Mizuki                       | \-                                  |
 | Walk Me Home                             | P!NK                              | \-                                  |
 | Just Wanna xxxx With You                 | Phantom Siita                     | \-                                  |
 | God-ish                                  | philo ver                         | \-                                  |
@@ -82,24 +82,24 @@
 | White Midnight                           | Reol                              | \-                                  |
 | Yoiyoi Konkon                            | REOL                              | \-                                  |
 | Be a Flower                              | Ryokuoushoku Shakai               | \-                                  |
+| Ai no Survivor                           | Sato Masaki                       | \-                                  |
 | Ding Dong                                | Sato Masaki                       | \-                                  |
 | Kachoufuugetsu Shunkashuutou             | Sato Masaki                       | \-                                  |
-| Ai no Survivor                           | Sato Masaki                       | \-                                  |
 | KONTINUUM                                | SennaRin                          | \-                                  |
 | Mamono No Yomeiri                        | SETA                              | \-                                  |
 | MoeChakkaFire                            | Shion Wakayama                    | \-                                  |
-| white light                              | Superfly                          | \-                                  |
 | Bi-li-li Emotion                         | Superfly                          | \-                                  |
-| Escape                                   | Suzuki Airi                       | \-                                  |
-| rescue                                   | Suzuki Airi                       | \-                                  |
-| Mayonaka Merry go Round                  | Suzuki Airi                       | \-                                  |
-| Let The Show Begin                       | Suzuki Airi                       | \-                                  |
+| white light                              | Superfly                          | \-                                  |
 | Break it down                            | Suzuki Airi                       | \-                                  |
+| Escape                                   | Suzuki Airi                       | \-                                  |
+| Let The Show Begin                       | Suzuki Airi                       | \-                                  |
+| Mayonaka Merry go Round                  | Suzuki Airi                       | \-                                  |
+| rescue                                   | Suzuki Airi                       | \-                                  |
 | Kagayaite Kagayaite -My dream goes on-   | Tamura Meimi                      | \-                                  |
 | Romance                                  | Tamura Meimi                      | \-                                  |
 | Defying Gravity                          | Wicked                            | English                             |
-| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Idol                                     | YOASOBI                           | \-                                  |
+| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Tabun                                    | YOASOBI                           | \-                                  |
 | UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |

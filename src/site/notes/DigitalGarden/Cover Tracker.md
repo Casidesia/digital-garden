@@ -14,9 +14,9 @@
 | Kingdom Come                     | May 02, 2026   | \-            |
 | Tokimeku Tokimeke                | May 05, 2026   | \-            |
 | CHO DAI                          | May 07, 2026   | \-            |
-| Osaka Koi no Uta                 | May 07, 2026   | \-            |
-| Nanchatte Ren'ai                 | May 07, 2026   | \-            |
 | Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-            |
+| Nanchatte Ren'ai                 | May 07, 2026   | \-            |
+| Osaka Koi no Uta                 | May 07, 2026   | \-            |
 | Happy Birthday to Me             | May 08, 2026   | \-            |
 | SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-            |
 | Wakatteiru no ni Gomen ne        | May 11, 2026   | \-            |
@@ -46,32 +46,31 @@
 ## Part Done
 | Song                             |
 | -------------------------------- |
+| Baisekou Daiseikou!              |
+| Aisaretai no ni                  |
 | Blah Blah Blah                   |
 | Bot Bakka                        |
-| Aisaretai no ni                  |
-| Baisekou Daiseikou!              |
-| Fiesta! Fiesta!                  |
 | FAST PASS                        |
+| Fiesta! Fiesta!                  |
 | Fukyouwaon                       |
 | Go Girl Koi no Victory           |
-| Hooke no Housoku                 |
 | Haru no Uta                      |
-| Kanashimi Twilight               |
-| Kaigan Seisou Danshi             |
-| Junjou Evidence                  |
+| Hooke no Housoku                 |
 | I Need You ~Yozora no Kanransha~ |
-| Naimono Love                     |
-| Kura Sushi Bikkurapon!           |
-| SaiKIYOU                         |
+| Junjou Evidence                  |
+| Kaigan Seisou Danshi             |
+| Kanashimi Twilight               |
+| Kataomoi                         |
 | Maji desu ka Ska!                |
-| Seishun Night                    |
-| Teka no Happy                    |
+| Naimono Love                     |
 | Onna no Aiso wa Buki ja nai      |
 | Prison Breaker                   |
-| Tokyo Blur                       |
-| Toki wo Koe Sora wo Koe          |
+| SaiKIYOU                         |
 | Seishun Collection               |
+| Seishun Night                    |
+| Teka no Happy                    |
+| Toki wo Koe Sora wo Koe          |
+| Tokyo Blur                       |
 | Zenzen Okiagarenai SUNDAY        |
-| Kataomoi                         |
 
 { .block-language-dataview}

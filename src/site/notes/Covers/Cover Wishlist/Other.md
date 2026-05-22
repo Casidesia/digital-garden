@@ -8,15 +8,15 @@
 | MUSIC                                | 765PRO ALLSTARS             | \-        |
 | Kurumi to Dialogue                   | AKB48                       | \-        |
 | Go Wild                              | ATARASHI GAKKO!             | \-        |
-| Suki Kirai                           | ATARASHII GAKKO!            | \-        |
 | Girl Giri                            | ATARASHII GAKKO!            | \-        |
 | NAINAINAI                            | ATARASHII GAKKO!            | \-        |
-| The Edge                             | ATARASHII GAKKO!            | \-        |
 | Otona Blue                           | ATARASHII GAKKO!            | \-        |
 | Sailor Sail On                       | ATARASHII GAKKO!            | \-        |
+| Suki Kirai                           | ATARASHII GAKKO!            | \-        |
+| The Edge                             | ATARASHII GAKKO!            | \-        |
 | Kiss&Bite Me!                        | AVAM                        | \-        |
-| POP IN 2                             | B Komachi                   | \-        |
 | B no Revenge                         | B Komachi                   | \-        |
+| POP IN 2                             | B Komachi                   | \-        |
 | Beautiful - 3onderboy remix          | BananaLemon                 | \-        |
 | Cutie Panther                        | BiBi                        | \-        |
 | JUMP                                 | BLACKPINK                   | \-        |
@@ -25,18 +25,18 @@
 | Hands Up                             | Cherry Bullet               | Korean    |
 | Dynamic Ryukyu                       | Chuning Candy               | \-        |
 | summertime                           | cinnamons & evening cinema  | \-        |
-| White Angel                          | Fairies                     | \-        |
-| More Kiss                            | Fairies                     | \-        |
 | Beat Generation                      | Fairies                     | \-        |
+| BLING BLING MY LOVE                  | Fairies                     | \-        |
 | HERO                                 | Fairies                     | \-        |
+| Kiss Me Babe                         | Fairies                     | \-        |
+| More Kiss                            | Fairies                     | \-        |
 | No More Distance                     | Fairies                     | \-        |
 | Run with U                           | Fairies                     | \-        |
-| BLING BLING MY LOVE                  | Fairies                     | \-        |
-| Kiss Me Babe                         | Fairies                     | \-        |
 | Synchronized                         | Fairies                     | \-        |
 | Tokimeku Tokyo                       | Fairies                     | \-        |
-| Candy                                | FAKY                        | \-        |
+| White Angel                          | Fairies                     | \-        |
 | Bad Things (English Ver.)            | FAKY                        | \-        |
+| Candy                                | FAKY                        | \-        |
 | GIRLS GOTTA LIVE (ANGERMANS Remix)   | FAKY                        | \-        |
 | On Our Way (Glee Cast Version)       | Glee Cast                   | English   |
 | kimi no shiranai monogatari          | idol Renaissance            | \-        |
@@ -53,15 +53,15 @@
 | Sha La La La                         | ONEPIXCEL                   | \-        |
 | Otomodachi                           | Phantom Siita               | \-        |
 | Zoku Zoku                            | Phantom Siita               | \-        |
-| katasumi                             | PINK CRES.                  | \-        |
-| my name is identity                  | PINK CRES.                  | \-        |
-| fun fun fun                          | PINK CRES.                  | \-        |
-| love candy                           | PINK CRES.                  | \-        |
-| kirei kawaii mirai                   | PINK CRES.                  | \-        |
-| roulette                             | PINK CRES.                  | \-        |
 | etcetera                             | PINK CRES.                  | \-        |
-| Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-        |
+| fun fun fun                          | PINK CRES.                  | \-        |
+| katasumi                             | PINK CRES.                  | \-        |
+| kirei kawaii mirai                   | PINK CRES.                  | \-        |
+| love candy                           | PINK CRES.                  | \-        |
+| my name is identity                  | PINK CRES.                  | \-        |
+| roulette                             | PINK CRES.                  | \-        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-        |
+| Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-        |
 | Leap High                            | PRODUCE JAPAN 101 THE GIRLS | \-        |
 | RIOT                                 | RAISE A SUILEN              | \-        |
 | Home Therapy (feat. Yukimaru Kumaki) | Rei Yasuda                  | \-        |
@@ -72,7 +72,7 @@
 | Itadaki o Mezase                     | UUG                         | \-        |
 | Kimi to iu Kasetsu                   | UUG                         | \-        |
 | Kakatte Kinasai                      | UUG(2)                      | \-        |
-| Zili Zili Love                       | Wasuta                      | \-        |
 | Chiisana Chiisana (2020 ver)         | Wasuta                      | \-        |
+| Zili Zili Love                       | Wasuta                      | \-        |
 
 { .block-language-dataview}
