@@ -6,4 +6,11 @@ Release Date: May 21, 2026
 
 This was an incredibly fun song and we all blended so well!
 
+Members:
+[[Misc/People/online/Rae\|Rae]]
+[[Misc/People/online/mochii\|mochii]]
+[[Misc/People/online/Faithy Waithy\|Faith]]
+[[Misc/People/irl/Casi\|Casi]]
+[[Covers/Published/lilmenchi\|lilmenchi]]
+[[Misc/People/online/Brit\|Brit]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwvCUfXEYZ8?si=Zh87rUQlVFi1VYwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
