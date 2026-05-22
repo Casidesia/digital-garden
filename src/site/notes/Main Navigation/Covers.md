@@ -13,7 +13,7 @@ views:
         - '!file.fullname.contains(".base")'
     groupBy:
       property: coverType
-      direction: ASC
+      direction: DESC
     order:
       - releaseDate
       - file.name
