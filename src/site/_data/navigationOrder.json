@@ -1,9 +1,13 @@
 {
   "/": [
-    "\"home",
-    "\"published",
+    "Main Navigation",
     "\"tracker",
     "Covers"
+  ],
+  "/Main Navigation": [
+    "Home",
+    "Published Covers",
+    "Socials"
   ],
   "/Covers": [
     "Published",
@@ -19,7 +23,8 @@
     "Onna ni Sachi Are",
     "Red Line",
     "Tanpopo",
-    "Wasted"
+    "Wasted",
+    "Kura Sushi Bikkurapon!"
   ],
   "/Covers/Cover Wishlist": [
     "Abandoned Covers",
