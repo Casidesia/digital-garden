@@ -12,77 +12,31 @@ For others: [[DigitalGarden/Cover Tracker\|Cover Tracker]]
 
 
 
-```button
-name Twitch
-type link
-action https://www.twitch.tv/casidesia
-color purple
-```
-
-
+[<img style="float:middle" src="_includes/twitch.webp" width="200">](https://www.twitch.tv/casidesia)
 ^button-twitch
-```button
-name BSky
-type link
-action https://bsky.app/profile/casidesua.bsky.social
-color blue
-```
+
+[<img style="float:middle" src="_includes/bluesky.webp" width="200">](https://bsky.app/profile/casidesia.bsky.social)
 ^button-bsky
-```button
-name Main YouTube Channel
-type link
-action https://www.youtube.com/@CasidesiaVT
-Color red
-```
+
+[<img style="float:middle" src="_includes/mainyt2.webp" width="200">](https://www.youtube.com/@CasidesiaVT)
 ^button-yt-main
-```button
-name Music Channel
-type link
-action https://www.youtube.com/@CasidesiaMusic
-color red
-```
+
+[<img style="float:middle" src="_includes/musicchannel2.webp" width="200">](https://www.youtube.com/@CasidesiaMusic)
 ^button-Yt-music
-```button
-name VOD Channel
-type link
-action https://www.youtube.com/@CasidesiaVOD
-color red
-```
+
+[<img style="float:middle" src="_includes/vodchannel2.webp" width="200">](https://www.youtube.com/@CasidesiaVOD)
 ^button-Yt-vod
-```button
-name Discord
-type link
-action https://discord.gg/YWY9mW53Zu
-color purple
-```
-^button-disxird
-```button
-name VGen
-type link
-action https://vgen.co/Casidesia
-color green
-```
+
+[<img style="float:middle" src="_includes/discord.webp" width="200">](https://discord.gg/YWY9mW53Zu)
+^button-discord
+
+[<img style="float:middle" src="_includes/vgen.webp" width="200">](https://vgen.co/Casidesia)
 ^button-vgen
-```button
-name GitHub
-type link
-action https://github.com/Casidesia
-color purple
-```
+
+[<img style="float:middle" src="_includes/github.webp" width="200">](https://github.com/Casidesia)
 ^button-github
-```button
-name Ko-Fi
-type link
-action https://ko-fi.com/casidesia
-color purple
-```
-^button-github
-```button
-name E-Mail
-type link
-action mailto:casidesia@gmail.com
-color purple
-```
+
+[<img style="float:middle" src="_includes/email.webp" width="200">](mailto:casidesia@gmail.com)
 ^button-email
 
 </div></div>

@@ -46,8 +46,8 @@
 ## Part Done
 | Song                             |
 | -------------------------------- |
-| Baisekou Daiseikou!              |
 | Aisaretai no ni                  |
+| Baisekou Daiseikou!              |
 | Blah Blah Blah                   |
 | Bot Bakka                        |
 | FAST PASS                        |
@@ -57,14 +57,14 @@
 | Haru no Uta                      |
 | Hooke no Housoku                 |
 | I Need You ~Yozora no Kanransha~ |
-| Junjou Evidence                  |
 | Kaigan Seisou Danshi             |
 | Kanashimi Twilight               |
 | Kataomoi                         |
-| Maji desu ka Ska!                |
+| Junjou Evidence                  |
 | Naimono Love                     |
 | Onna no Aiso wa Buki ja nai      |
 | Prison Breaker                   |
+| Maji desu ka Ska!                |
 | SaiKIYOU                         |
 | Seishun Collection               |
 | Seishun Night                    |
