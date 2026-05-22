@@ -44,7 +44,7 @@ views:
       - property: releaseDate
         direction: ASC
     columnSize:
-      note.musician: 141
+      note.musician: 174
 
 ```
 
