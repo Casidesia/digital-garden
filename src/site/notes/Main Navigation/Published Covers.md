@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/published-covers/","updated":"2026-05-22T14:43:41.932-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/published-covers/","updated":"2026-05-22T15:28:15.756-04:00","dg-note-properties":{}}
 ---
 
 Latest Release:
