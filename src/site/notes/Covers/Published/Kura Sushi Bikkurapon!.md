@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/kura-sushi-bikkurapon/","updated":"2026-05-22T13:15:52.898-04:00","dg-note-properties":{"status":"done","priority":"none","due":"2026-05-31","taskSourceType":"taskNotes","category":"cover","coverType":"Collab","musician":"Muten Musume","soloLines":"All","coverRoles":null,"discordServer":"Cover all the H!P","noteType":"[[Cover]]","scheduled":"2026-04-15","Custom":"yes","releaseDate":"2026-05-21"}}
+{"dg-publish":true,"permalink":"/covers/published/kura-sushi-bikkurapon/","updated":"2026-05-22T13:26:18.725-04:00","dg-note-properties":{"status":"done","priority":"none","due":"2026-05-31","taskSourceType":"taskNotes","category":"cover","coverType":"Collab","musician":"[[Muten Musume]]","soloLines":"All","coverRoles":null,"discordServer":"Cover all the H!P","noteType":"[[Cover]]","scheduled":"2026-04-15","Custom":"yes","releaseDate":"2026-05-21"}}
 ---
 
 Release Date: May 21, 2026

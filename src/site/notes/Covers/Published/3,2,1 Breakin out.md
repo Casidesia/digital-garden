@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/3-2-1-breakin-out/","updated":"2026-05-22T13:15:54.796-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","noteType":"[[Cover]]","coverType":"Collab","discordServer":"Historic Hello!Pro","musician":"Morning Musume","coverRoles":null,"scheduled":"2026-03-09","soloLines":["[[Takahashi Ai]]"],"dateModified":"2026-04-21T11:35:18.185-04:00","Custom":"yes","coverLink":"https://youtu.be/3HYccCNReUY","completedDate":"2026-05-16","lyrics":"https://docs.google.com/document/d/1Apmw7gFJTrMUOo6SrxtJiFqfqF7cBygR0LJxmIjp4Lo/edit?tab=t.0","releaseDate":"2026-05-16"}}
+{"dg-publish":true,"permalink":"/covers/published/3-2-1-breakin-out/","updated":"2026-05-22T13:25:55.108-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","noteType":"[[Cover]]","coverType":"Collab","discordServer":"Historic Hello!Pro","musician":"[[Morning Musume]]","coverRoles":null,"scheduled":"2026-03-09","soloLines":["[[Takahashi Ai]]"],"dateModified":"2026-04-21T11:35:18.185-04:00","Custom":"yes","coverLink":"https://youtu.be/3HYccCNReUY","completedDate":"2026-05-16","lyrics":"https://docs.google.com/document/d/1Apmw7gFJTrMUOo6SrxtJiFqfqF7cBygR0LJxmIjp4Lo/edit?tab=t.0","releaseDate":"2026-05-16"}}
 ---
 
 Yesterday Musume release!
