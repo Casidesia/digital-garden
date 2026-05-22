@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/expose-burn-out-w-hakuya/","title":"Expose Burn Out (w Hakuya)","tags":["archived"],"updated":"2026-05-22T13:26:13.574-04:00","dg-note-properties":{"status":"done","coverType":"Collab","noteType":"[[Cover]]","Artist":"RAISE A SUILEN","musician":"[[RAISE A SUILEN]]","coverRoles":["Video"],"category":"cover","dateModified":"2026-04-21T11:30:33.614-04:00","tags":["archived"],"title":"Expose Burn Out (w Hakuya)","priority":"normal","completedDate":"2026-04-21","coverLink":"https://youtu.be/oC-8S55LY1I","releaseDate":"2024-06-04"}}
+{"dg-publish":true,"permalink":"/covers/published/expose-burn-out-w-hakuya/","title":"Expose Burn Out (w Hakuya)","tags":["archived"],"updated":"2026-05-22T14:52:46.827-04:00","dg-note-properties":{"status":"done","coverType":"Collab","noteType":"[[Cover]]","Artist":"RAISE A SUILEN","musician":"[[RAISE A SUILEN]]","coverRoles":["Video"],"category":"cover","dateModified":"2026-04-21T11:30:33.614-04:00","tags":["archived"],"title":"Expose Burn Out (w Hakuya)","priority":"normal","completedDate":"2026-04-21","coverLink":"https://youtu.be/oC-8S55LY1I","releaseDate":"2024-06-04"}}
 ---
 
 Release Date: June 4, 2024

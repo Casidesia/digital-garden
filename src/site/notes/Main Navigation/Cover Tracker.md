@@ -3,24 +3,24 @@
 ---
 
 ## To Record
-| Song                             | Date Assigned  | due           |
-| -------------------------------- | -------------- | ------------- |
-| Koi wa Magnet                    | \-             | \-            |
-| FireWorks                        | March 26, 2026 | June 06, 2026 |
-| Fantasy ga Hajimaru              | April 05, 2026 | \-            |
-| Chance of LOVE                   | April 12, 2026 | \-            |
-| Otodomachi                       | April 28, 2026 | \-            |
-| Jun'ai Crusher                   | May 02, 2026   | \-            |
-| Kingdom Come                     | May 02, 2026   | \-            |
-| Tokimeku Tokimeke                | May 05, 2026   | \-            |
-| CHO DAI                          | May 07, 2026   | \-            |
-| Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-            |
-| Nanchatte Ren'ai                 | May 07, 2026   | \-            |
-| Osaka Koi no Uta                 | May 07, 2026   | \-            |
-| Happy Birthday to Me             | May 08, 2026   | \-            |
-| SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-            |
-| Wakatteiru no ni Gomen ne        | May 11, 2026   | \-            |
-| More! Mi Amore! (Solo)           | May 13, 2026   | \-            |
+| Song                             | Date Assigned  | due             |
+| -------------------------------- | -------------- | --------------- |
+| FireWorks                        | March 26, 2026 | June 06, 2026   |
+| Fantasy ga Hajimaru              | April 05, 2026 | \-              |
+| Chance of LOVE                   | April 12, 2026 | \-              |
+| Otodomachi                       | April 28, 2026 | \-              |
+| Jun'ai Crusher                   | May 02, 2026   | \-              |
+| Kingdom Come                     | May 02, 2026   | \-              |
+| Tokimeku Tokimeke                | May 05, 2026   | \-              |
+| CHO DAI                          | May 07, 2026   | \-              |
+| Koi wa Magnet                    | May 07, 2026   | August 16, 2026 |
+| Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-              |
+| Nanchatte Ren'ai                 | May 07, 2026   | \-              |
+| Osaka Koi no Uta                 | May 07, 2026   | \-              |
+| Happy Birthday to Me             | May 08, 2026   | \-              |
+| SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-              |
+| Wakatteiru no ni Gomen ne        | May 11, 2026   | \-              |
+| More! Mi Amore! (Solo)           | May 13, 2026   | \-              |
 
 { .block-language-dataview}
 ## Waiting
