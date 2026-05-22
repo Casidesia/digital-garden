@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/fate/","tags":["archived"],"updated":"2026-05-22T13:26:27.957-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","Artist":"Nana Mizuki","musician":"[[Nana Mizuki]]","coverRoles":["Video"],"soloLines":"Main","category":"cover","dateModified":"2026-04-21T11:46:09.889-04:00","completedDate":"2023-10-16","tags":["archived"],"coverLink":"https://youtu.be/pHohXWSVDug","releaseDate":"2023-10-16"}}
+{"dg-publish":true,"permalink":"/covers/published/fate/","tags":["archived"],"updated":"2026-05-22T14:25:21.401-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","Artist":"Nana Mizuki","musician":"[[Nana Mizuki]]","coverRoles":["Video"],"soloLines":"Main","category":"cover","dateModified":"2026-04-21T11:46:09.889-04:00","completedDate":"2023-10-16","tags":["archived"],"coverLink":"https://youtu.be/pHohXWSVDug","releaseDate":"2023-10-16"}}
 ---
 
+Original Artist: `INPUT[text:musician]`
 Release date: October 16, 2023
+Staff Roles: Video
 
 My first cover. There are a lot of thoughts about this cover that I only can really mention to those closest to me lol
 
