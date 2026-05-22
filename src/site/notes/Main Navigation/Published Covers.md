@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/published-covers/","updated":"2026-05-22T12:46:00.275-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/published-covers/","updated":"2026-05-22T14:43:41.932-04:00","dg-note-properties":{}}
 ---
 
+Latest Release:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=veksO2ce01ttd0nU&amp;list=PLgeIqO-svJ3MfGo5PcmsO-uCMvfv_nvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ```base
@@ -46,5 +48,3 @@ views:
 
 ```
 
-Latest Release:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=veksO2ce01ttd0nU&amp;list=PLgeIqO-svJ3MfGo5PcmsO-uCMvfv_nvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
