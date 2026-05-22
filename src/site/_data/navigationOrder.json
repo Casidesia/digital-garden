@@ -1,0 +1,34 @@
+{
+  "/": [
+    "DigitalGarden",
+    "Covers"
+  ],
+  "/DigitalGarden": [
+    "Cover Tracker",
+    "Home",
+    "Published Covers",
+    "Cover Wishlist"
+  ],
+  "/DigitalGarden/Cover Wishlist": [
+    "Abandoned Covers",
+    "Cover Wishlist",
+    "Hello!Project",
+    "Other",
+    "Possible Solos"
+  ],
+  "/Covers": [
+    "Published"
+  ],
+  "/Covers/Published": [
+    "3,2,1 Breakin out",
+    "Expose Burn Out (w Hakuya)",
+    "Fate",
+    "Get Up (YTTB)",
+    "LEATHER",
+    "New Future (Short)",
+    "Onna ni Sachi Are",
+    "Red Line",
+    "Tanpopo",
+    "Wasted"
+  ]
+}
