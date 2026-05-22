@@ -12,20 +12,14 @@ formulas:
 properties:
   note.musician:
     displayName: Original Artist
-  file.basename:
-    displayName: Song
   file.name:
     displayName: Song
   note.coverRoles:
     displayName: Roles
   note.coverType:
     displayName: Collab/Solo
-  note.completedDate:
-    displayName: Release Date
-  formula.Untitled:
-    displayName: Release Date
   note.releaseDate:
-    displayName: Release
+    displayName: Release Date
 views:
   - type: table
     name: Table
