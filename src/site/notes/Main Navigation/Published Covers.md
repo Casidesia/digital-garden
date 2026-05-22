@@ -7,8 +7,6 @@ Latest Release:
 
 
 ```base
-formulas:
-  Untitled: "releaseDate.toString() "
 properties:
   note.musician:
     displayName: Original Artist
