@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","created":"2026-05-17T09:42:45.469-04:00","updated":"2026-05-22T12:46:59.883-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","updated":"2026-05-22T12:46:59.883-04:00","dg-note-properties":{}}
 ---
 
 ## To Record

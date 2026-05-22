@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/cover-wishlist/other/","created":"2026-05-21T21:33:55.238-04:00","updated":"2026-05-21T22:26:42.540-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/cover-wishlist/other/","updated":"2026-05-21T22:26:42.540-04:00","dg-note-properties":{}}
 ---
 
 | Song                                 | musician                    | notes     |

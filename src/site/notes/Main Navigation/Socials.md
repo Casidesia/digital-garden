@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/socials/","created":"2026-05-22T10:27:02.452-04:00","updated":"2026-05-22T12:46:06.861-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T12:46:06.861-04:00","dg-note-properties":{}}
 ---
 
 

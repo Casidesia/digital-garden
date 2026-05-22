@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/wasted/","title":"Wasted","tags":["archived"],"created":"2026-01-01T23:19:22.178-05:00","updated":"2026-05-18T10:28:15.417-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"Carrie Underwood","coverRoles":["Vocals"],"soloLines":"Main","category":"cover","title":"Wasted","priority":"normal","dateModified":"2026-04-21T11:46:10.213-04:00","completedDate":"2026-04-21","tags":["archived"],"coverLink":"https://youtu.be/X7LGxaeTYI0","releaseDate":"2024-01-30"}}
+{"dg-publish":true,"permalink":"/covers/published/wasted/","title":"Wasted","tags":["archived"],"updated":"2026-05-22T13:16:20.135-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"Carrie Underwood","coverRoles":["Video"],"soloLines":"Main","category":"cover","title":"Wasted","priority":"normal","dateModified":"2026-04-21T11:46:10.213-04:00","completedDate":"2026-04-21","tags":["archived"],"coverLink":"https://youtu.be/X7LGxaeTYI0","releaseDate":"2024-01-30"}}
 ---
 
 musician: Carrie Underwood

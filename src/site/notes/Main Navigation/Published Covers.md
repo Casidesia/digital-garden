@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/published-covers/","created":"2026-05-17T15:06:22.868-04:00","updated":"2026-05-22T12:46:00.275-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/published-covers/","updated":"2026-05-22T12:46:00.275-04:00","dg-note-properties":{}}
 ---
 
 

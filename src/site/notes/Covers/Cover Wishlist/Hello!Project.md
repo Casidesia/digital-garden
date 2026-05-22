@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/cover-wishlist/hello-project/","created":"2026-05-21T21:33:52.922-04:00","updated":"2026-05-21T22:26:54.575-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/cover-wishlist/hello-project/","updated":"2026-05-21T22:26:54.575-04:00","dg-note-properties":{}}
 ---
 
 
