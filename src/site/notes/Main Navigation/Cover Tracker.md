@@ -5,6 +5,7 @@
 ## To Record
 | Song                             | Date Assigned  | due             |
 | -------------------------------- | -------------- | --------------- |
+| Neverending Shine                | March 04, 2026 | \-              |
 | FireWorks                        | March 26, 2026 | June 06, 2026   |
 | Fantasy ga Hajimaru              | April 05, 2026 | \-              |
 | Chance of LOVE                   | April 12, 2026 | \-              |
