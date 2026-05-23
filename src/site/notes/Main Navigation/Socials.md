@@ -1,20 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T12:46:06.861-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T20:52:40.631-04:00","dg-note-properties":{}}
 ---
 
 
 
-[<img style="float:middle" src="_includes/twitch.webp" width="200">](https://www.twitch.tv/casidesia)
-[<img style="float:middle" src="_includes/bluesky.webp" width="200">](https://bsky.app/profile/casidesia.bsky.social)
-[<img style="float:middle" src="_includes/mainyt2.webp" width="200">](https://www.youtube.com/@CasidesiaVT)
-[<img style="float:middle" src="_includes/musicchannel2.webp" width="200">](https://www.youtube.com/@CasidesiaMusic)
-[<img style="float:middle" src="_includes/vodchannel2.webp" width="200">](https://www.youtube.com/@CasidesiaVOD)
-[<img style="float:middle" src="_includes/discord.webp" width="200">](https://discord.gg/YWY9mW53Zu)
+
 [<img style="float:middle" src="_includes/vgen.webp" width="200">](https://vgen.co/Casidesia)
 [<img style="float:middle" src="_includes/github.webp" width="200">](https://github.com/Casidesia)
 
 
 <div style="display: flex; justify-content: center; cursor: pointer;">
+<a href="https://www.twitch.tv/casidesia" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Twitch
+		</button>
+	</a>
+	<a href="https://bsky.app/profile/casidesia.bsky.social" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			BSky
+		</button>
+	</a>
+	<a href="https://www.youtube.com/@CasidesiaVT" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Main YouTube Channel
+		</button>
+	</a>
+<a href="https://www.youtube.com/@CasidesiaMusic" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Music Cover Channel
+		</button>
+	</a>
+	<a href="https://www.youtube.com/@CasidesiaVOD" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			VOD Channel
+		</button>
+	</a>
+	<a href="https://discord.gg/YWY9mW53Zu" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			Discord
+		</button>
+	</a>
+	<a href="https://vgen.co/Casidesia" target="_blank">
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+			VGen
+		</button>
+	</a>
 	<a href="https://github.com/Casidesia" target="_blank">
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			GitHub
