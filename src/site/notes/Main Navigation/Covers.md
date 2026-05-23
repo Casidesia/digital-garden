@@ -1,26 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-22T20:28:18.015-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-22T20:34:32.923-04:00","dg-note-properties":{}}
 ---
 
 ## Solo
-| Release Date      | Artist                                                           | Song               | Staff Roles                            |
-| ----------------- | ---------------------------------------------------------------- | ------------------ | -------------------------------------- |
-| December 24, 2024 | [[Covers/Covered Artists/ANGERME\|ANGERME]]                   | RED LINE           | <ul><li>Video</li></ul>                |
-| April 22, 2024    | [[Covers/Covered Artists/Changin' My Life\|Changin' My Life]] | New Future (Short) | <ul><li>Video</li><li>Mixing</li></ul> |
-| January 30, 2024  | [[Covers/Covered Artists/Carrie Underwood\|Carrie Underwood]] | Wasted             | <ul><li>Video</li></ul>                |
-| December 30, 2023 | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]     | Onna ni Sachi Are  | <ul><li>Video</li></ul>                |
-| October 16, 2023  | [[Covers/Covered Artists/Nana Mizuki\|Nana Mizuki]]           | Fate               | <ul><li>Video</li></ul>                |
+| File                                                           | Artist                                                           | Staff Roles                            | Release Date      |
+| -------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------- | ----------------- |
+| [[Covers/Published/RED LINE\|RED LINE]]                     | [[Covers/Covered Artists/ANGERME\|ANGERME]]                   | <ul><li>Video</li></ul>                | December 24, 2024 |
+| [[Covers/Published/New Future (Short)\|New Future (Short)]] | [[Covers/Covered Artists/Changin' My Life\|Changin' My Life]] | <ul><li>Video</li><li>Mixing</li></ul> | April 22, 2024    |
+| [[Covers/Published/Wasted\|Wasted]]                         | [[Covers/Covered Artists/Carrie Underwood\|Carrie Underwood]] | <ul><li>Video</li></ul>                | January 30, 2024  |
+| [[Covers/Published/Onna ni Sachi Are\|Onna ni Sachi Are]]   | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]     | <ul><li>Video</li></ul>                | December 30, 2023 |
+| [[Covers/Published/Fate\|Fate]]                             | [[Covers/Covered Artists/Nana Mizuki\|Nana Mizuki]]           | <ul><li>Video</li></ul>                | October 16, 2023  |
 
 { .block-language-dataview}
 ## Collabs
-| Release Date   | Artist                                                       | Song                       | Staff Roles |
-| -------------- | ------------------------------------------------------------ | -------------------------- | ----------- |
-| May 21, 2026   | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | Kura Sushi Bikkurapon!     | \-          |
-| May 16, 2026   | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | 3,2,1 Breakin out          | \-          |
-| May 01, 2026   | [[Covers/Covered Artists/Melon Kinenbi\|Melon Kinenbi]]   | LEATHER                    | \-          |
-| April 15, 2026 | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | Tanpopo (Song)             | Tuning      |
-| April 29, 2025 | NewJeans                                                     | Get Up (YTTB)              | \-          |
-| June 04, 2024  | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | Expose Burn Out (w Hakuya) | Video       |
+| File                                                                           | Artist                                                       | Staff Roles | Release Date   |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | -------------- |
+| [[Covers/Published/Kura Sushi Bikkurapon!\|Kura Sushi Bikkurapon!]]         | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-          | May 21, 2026   |
+| [[Covers/Published/3,2,1 Breakin out\|3,2,1 Breakin out]]                   | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-          | May 16, 2026   |
+| [[Covers/Published/LEATHER\|LEATHER]]                                       | [[Covers/Covered Artists/Melon Kinenbi\|Melon Kinenbi]]   | \-          | May 01, 2026   |
+| [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                         | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | Tuning      | April 15, 2026 |
+| [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                           | NewJeans                                                     | \-          | April 29, 2025 |
+| [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]] | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | Video       | June 04, 2024  |
 
 { .block-language-dataview}
 
