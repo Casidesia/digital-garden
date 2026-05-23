@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/cover-wishlist/abandoned-covers/","updated":"2026-05-17T16:03:49.299-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/cover-wishlist/abandoned-covers/","updated":"2026-05-21T23:02:50.699-04:00","dg-note-properties":{}}
 ---
 
 

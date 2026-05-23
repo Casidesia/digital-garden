@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/covered-artists/","updated":"2026-05-22T14:01:49.215-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/covered-artists/","updated":"2026-05-22T15:00:18.000-04:00","dg-note-properties":{}}
 ---
 
 
