@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T20:55:14.062-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T20:58:51.541-04:00","dg-note-properties":{}}
 ---
 
 
@@ -10,7 +10,7 @@
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			Twitch
 		</button>
-	</a><br/>
+	</a>
 	<a href="https://bsky.app/profile/casidesia.bsky.social" target="_blank">
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			BSky
@@ -20,12 +20,12 @@
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			Main YouTube Channel
 		</button>
-	</a><br/>
+	</a>
 <a href="https://www.youtube.com/@CasidesiaMusic" target="_blank">
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			Music Cover Channel
 		</button>
-	</a><br/>
+	</a>
 	<a href="https://www.youtube.com/@CasidesiaVOD" target="_blank">
 		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			VOD Channel
