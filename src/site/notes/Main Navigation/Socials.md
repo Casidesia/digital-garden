@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T21:16:38.945-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/socials/","updated":"2026-05-22T21:16:59.933-04:00","dg-note-properties":{}}
 ---
 
 
@@ -47,7 +47,7 @@
 		</button>
 	</a><br/>
 	<a href="mailto:casidesia@gmail.com" target="_blank">
-		<button style=" font-size: 15px;  height: fit-content;  background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
+		<button style=" font-size: 15px;  height: fit-content; margin-top: 20px;   background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
 			E-Mail
 		</button>
 	</a>
