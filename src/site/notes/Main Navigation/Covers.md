@@ -11,9 +11,6 @@ views:
       and:
         - file.inFolder("Covers/Published")
         - '!file.fullname.contains(".base")'
-    groupBy:
-      property: coverType
-      direction: DESC
     order:
       - releaseDate
       - file.name

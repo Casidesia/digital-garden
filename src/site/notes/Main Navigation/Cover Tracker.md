@@ -14,9 +14,9 @@
 | Tokimeku Tokimeke                | May 05, 2026   | \-              |
 | CHO DAI                          | May 07, 2026   | \-              |
 | Koi wa Magnet                    | May 07, 2026   | August 16, 2026 |
+| Osaka Koi no Uta                 | May 07, 2026   | \-              |
 | Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-              |
 | Nanchatte Ren'ai                 | May 07, 2026   | \-              |
-| Osaka Koi no Uta                 | May 07, 2026   | \-              |
 | Happy Birthday to Me             | May 08, 2026   | \-              |
 | SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-              |
 | Wakatteiru no ni Gomen ne        | May 11, 2026   | \-              |
@@ -38,8 +38,8 @@
 ## In Progress
 | Song                         |
 | ---------------------------- |
-| Ai to Taiyou ni Tsutsumarete |
 | MELODIES - GAM               |
+| Ai to Taiyou ni Tsutsumarete |
 
 { .block-language-dataview}
 
@@ -47,30 +47,30 @@
 | Song                             |
 | -------------------------------- |
 | Aisaretai no ni                  |
-| Baisekou Daiseikou!              |
 | Blah Blah Blah                   |
+| Baisekou Daiseikou!              |
 | Bot Bakka                        |
 | FAST PASS                        |
-| Fiesta! Fiesta!                  |
-| Fukyouwaon                       |
 | Go Girl Koi no Victory           |
-| Haru no Uta                      |
-| Hooke no Housoku                 |
-| I Need You ~Yozora no Kanransha~ |
+| Fukyouwaon                       |
+| Fiesta! Fiesta!                  |
 | Junjou Evidence                  |
-| Kaigan Seisou Danshi             |
+| Hooke no Housoku                 |
+| Haru no Uta                      |
+| I Need You ~Yozora no Kanransha~ |
 | Kanashimi Twilight               |
-| Kataomoi                         |
-| Maji desu ka Ska!                |
+| Kaigan Seisou Danshi             |
 | Naimono Love                     |
 | Onna no Aiso wa Buki ja nai      |
 | Prison Breaker                   |
 | SaiKIYOU                         |
-| Seishun Collection               |
+| Kataomoi                         |
+| Maji desu ka Ska!                |
 | Seishun Night                    |
 | Teka no Happy                    |
-| Toki wo Koe Sora wo Koe          |
 | Tokyo Blur                       |
+| Seishun Collection               |
 | Zenzen Okiagarenai SUNDAY        |
+| Toki wo Koe Sora wo Koe          |
 
 { .block-language-dataview}

@@ -55,11 +55,11 @@
 | Zoku Zoku                            | Phantom Siita               | \-        |
 | etcetera                             | PINK CRES.                  | \-        |
 | fun fun fun                          | PINK CRES.                  | \-        |
-| katasumi                             | PINK CRES.                  | \-        |
 | kirei kawaii mirai                   | PINK CRES.                  | \-        |
 | love candy                           | PINK CRES.                  | \-        |
-| my name is identity                  | PINK CRES.                  | \-        |
 | roulette                             | PINK CRES.                  | \-        |
+| my name is identity                  | PINK CRES.                  | \-        |
+| katasumi                             | PINK CRES.                  | \-        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-        |
 | Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-        |
 | Leap High                            | PRODUCE JAPAN 101 THE GIRLS | \-        |
