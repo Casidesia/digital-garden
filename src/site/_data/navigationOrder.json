@@ -1,16 +1,19 @@
 {
   "/": [
     "Main Navigation",
-    "\"tracker",
     "Covers"
   ],
   "/Main Navigation": [
     "Home",
-    "Published Covers",
-    "Socials"
+    "Socials",
+    "Covers",
+    "Covered Artists",
+    "Staff Credits",
+    "Cover Tracker"
   ],
   "/Covers": [
     "Published",
+    "Covered Artists",
     "Cover Wishlist"
   ],
   "/Covers/Published": [
@@ -21,10 +24,20 @@
     "LEATHER",
     "New Future (Short)",
     "Onna ni Sachi Are",
-    "Red Line",
-    "Tanpopo",
     "Wasted",
-    "Kura Sushi Bikkurapon!"
+    "Kura Sushi Bikkurapon!",
+    "RED LINE",
+    "Tanpopo (Song)"
+  ],
+  "/Covers/Covered Artists": [
+    "ANGERME",
+    "Carrie Underwood",
+    "Changin' My Life",
+    "Melon Kinenbi",
+    "Morning Musume",
+    "Nana Mizuki",
+    "RAISE A SUILEN",
+    "Tanpopo"
   ],
   "/Covers/Cover Wishlist": [
     "Abandoned Covers",
