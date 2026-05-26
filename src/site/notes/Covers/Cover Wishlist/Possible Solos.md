@@ -7,6 +7,7 @@
 | moshi mo                                 | \-                                | \-                                  |
 | Otome no Policy                          | \-                                | \-                                  |
 | Senbonzakura                             | \-                                | \-                                  |
+| Rashiku Ikimashou                        | \-                                | \-                                  |
 | Odo                                      | Ado                               | \-                                  |
 | STARS                                    | Aimi                              | \-                                  |
 | Hatenonaitabi                            | Aina Suzuki                       | \-                                  |

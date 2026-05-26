@@ -4,10 +4,7 @@
 
 | Song                                 | musician                    | notes                                     |
 | ------------------------------------ | --------------------------- | ----------------------------------------- |
-| Hikari                               | \-                          | \-                                        |
 | Kurumi to Diologue                   | \-                          | \-                                        |
-| Ikenai Borderline                    | \-                          | \-                                        |
-| Rashiku Ikimashou                    | \-                          | \-                                        |
 | Watashi Tachi Wa Zutto... Deshou     | 764PRO ALLSTARS             | \-                                        |
 | MUSIC                                | 765PRO ALLSTARS             | \-                                        |
 | Private Wars                         | A-Rise                      | have a partial done with 1 person missing |
