@@ -6,8 +6,8 @@
 | ---------------------------------------- | --------------------------------- | ----------------------------------- |
 | moshi mo                                 | \-                                | \-                                  |
 | Otome no Policy                          | \-                                | \-                                  |
-| Senbonzakura                             | \-                                | \-                                  |
 | Rashiku Ikimashou                        | \-                                | \-                                  |
+| Senbonzakura                             | \-                                | \-                                  |
 | Odo                                      | Ado                               | \-                                  |
 | STARS                                    | Aimi                              | \-                                  |
 | Hatenonaitabi                            | Aina Suzuki                       | \-                                  |
@@ -61,12 +61,12 @@
 | Come                                     | Namie Amuro                       | \-                                  |
 | Kesenai Tsumi                            | Nana Kitade                       | \-                                  |
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
+| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
-| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
 | Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
 | POP MASTER                               | Nana Mizuki                       | \-                                  |
@@ -101,8 +101,8 @@
 | Defying Gravity                          | Wicked                            | English                             |
 | Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Idol                                     | YOASOBI                           | \-                                  |
-| Tabun                                    | YOASOBI                           | \-                                  |
 | UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
+| Tabun                                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |
 | Fake-Perfect                             | yousti                            | \-                                  |
 | めぐれ                                      | 葉音                                | \-                                  |

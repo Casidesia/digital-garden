@@ -4,7 +4,6 @@
 
 | Song                                 | musician                    | notes                                     |
 | ------------------------------------ | --------------------------- | ----------------------------------------- |
-| Kurumi to Diologue                   | \-                          | \-                                        |
 | Watashi Tachi Wa Zutto... Deshou     | 764PRO ALLSTARS             | \-                                        |
 | MUSIC                                | 765PRO ALLSTARS             | \-                                        |
 | Private Wars                         | A-Rise                      | have a partial done with 1 person missing |
@@ -22,8 +21,8 @@
 | Beautiful - 3onderboy remix          | BananaLemon                 | \-                                        |
 | Cutie Panther                        | BiBi                        | \-                                        |
 | JUMP                                 | BLACKPINK                   | \-                                        |
-| Téir Abhaile Riu                     | Celtic Women                | "English"                                 |
 | Tír na nÓg                           | Celtic Women                | "English"                                 |
+| Téir Abhaile Riu                     | Celtic Women                | "English"                                 |
 | Hands Up                             | Cherry Bullet               | Korean                                    |
 | Dynamic Ryukyu                       | Chuning Candy               | \-                                        |
 | summertime                           | cinnamons & evening cinema  | \-                                        |
@@ -54,15 +53,15 @@
 | BlackCandy                           | misolade-edison             | \-                                        |
 | Nippon Egao Hyakkei                  | Momoiro Clover Z            | \-                                        |
 | Sha La La La                         | ONEPIXCEL                   | \-                                        |
-| Zoku Zoku                            | Phantom Siita               | \-                                        |
 | Otomodachi                           | Phantom Siita               | \-                                        |
+| Zoku Zoku                            | Phantom Siita               | \-                                        |
 | etcetera                             | PINK CRES.                  | \-                                        |
 | fun fun fun                          | PINK CRES.                  | \-                                        |
 | kirei kawaii mirai                   | PINK CRES.                  | \-                                        |
 | love candy                           | PINK CRES.                  | \-                                        |
-| roulette                             | PINK CRES.                  | \-                                        |
 | katasumi                             | PINK CRES.                  | \-                                        |
 | my name is identity                  | PINK CRES.                  | \-                                        |
+| roulette                             | PINK CRES.                  | \-                                        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Leap High                            | PRODUCE JAPAN 101 THE GIRLS | \-                                        |

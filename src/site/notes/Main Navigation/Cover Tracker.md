@@ -3,27 +3,25 @@
 ---
 
 ## To Record
-| Song                             | Date Assigned  | due                |
-| -------------------------------- | -------------- | ------------------ |
-| Neverending Shine                | March 04, 2026 | \-                 |
-| Fantasy ga Hajimaru              | April 05, 2026 | \-                 |
-| Chance of LOVE                   | April 12, 2026 | \-                 |
-| Jun'ai Crusher                   | May 02, 2026   | \-                 |
-| Kingdom Come                     | May 02, 2026   | \-                 |
-| Tokimeku Tokimeke                | May 05, 2026   | \-                 |
-| CHO DAI                          | May 07, 2026   | \-                 |
-| Koi wa Magnet                    | May 07, 2026   | August 16, 2026    |
-| Osaka Koi no Uta                 | May 07, 2026   | \-                 |
-| Nakidasu Kamo Shirenai yo        | May 07, 2026   | \-                 |
-| Nanchatte Ren'ai                 | May 07, 2026   | \-                 |
-| Happy Birthday to Me             | May 08, 2026   | \-                 |
-| SEXY BOY ~Soyokaze ni Yorisotte~ | May 08, 2026   | \-                 |
-| Wakatteiru no ni Gomen ne        | May 11, 2026   | \-                 |
-| More! Mi Amore! (Solo)           | May 13, 2026   | \-                 |
-| Wakattenai Janai                 | May 23, 2026   | \-                 |
-| Black Butterfly                  | May 24, 2026   | \-                 |
-| Appare Kaitenzushi!              | May 25, 2026   | \-                 |
-| Otodomachi                       | May 25, 2026   | September 01, 2026 |
+| Song                         | Date Assigned  | due                |
+| ---------------------------- | -------------- | ------------------ |
+| Neverending Shine            | March 04, 2026 | \-                 |
+| Fantasy ga Hajimaru          | April 05, 2026 | \-                 |
+| Jun'ai Crusher               | May 02, 2026   | \-                 |
+| Kingdom Come                 | May 02, 2026   | \-                 |
+| Tokimeku Tokimeke            | May 05, 2026   | \-                 |
+| CHO DAI                      | May 07, 2026   | \-                 |
+| Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
+| Osaka Koi no Uta             | May 07, 2026   | \-                 |
+| Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
+| Nanchatte Ren'ai             | May 07, 2026   | \-                 |
+| Happy Birthday to Me         | May 08, 2026   | \-                 |
+| Wakatteiru no ni Gomen ne    | May 11, 2026   | \-                 |
+| More! Mi Amore! (Solo)       | May 13, 2026   | \-                 |
+| Wakattenai Janai             | May 23, 2026   | \-                 |
+| Black Butterfly              | May 24, 2026   | \-                 |
+| Otomodachi                   | May 25, 2026   | September 01, 2026 |
+| Goal ~Ashita wa Acchi Da Yo~ | May 27, 2026   | August 19, 2026    |
 
 { .block-language-dataview}
 ## Waiting
@@ -41,6 +39,7 @@
 ## In Progress
 | Song                         |
 | ---------------------------- |
+| Appare Kaitenzushi!          |
 | Ai to Taiyou ni Tsutsumarete |
 | MELODIES - GAM               |
 
@@ -54,25 +53,27 @@
 | Bot Bakka                                |
 | Aisaretai no ni                          |
 | Baisekou Daiseikou!                      |
+| Chance of LOVE                           |
 | FAST PASS                                |
 | Fiesta! Fiesta!                          |
 | Fukyouwaon                               |
 | Go Girl Koi no Victory                   |
-| Hooke no Housoku                         |
 | Haru no Uta                              |
+| Hooke no Housoku                         |
 | Kaigan Seisou Danshi                     |
 | Kanashimi Twilight                       |
 | I Need You ~Yozora no Kanransha~         |
 | Naimono Love                             |
-| Junjou Evidence                          |
-| Kataomoi                                 |
-| SaiKIYOU                                 |
-| Prison Breaker                           |
-| Seishun Night                            |
 | Maji desu ka Ska!                        |
+| Onna no Aiso wa Buki ja nai              |
+| SaiKIYOU                                 |
+| Kataomoi                                 |
+| Junjou Evidence                          |
+| Seishun Night                            |
+| SEXY BOY ~Soyokaze ni Yorisotte~         |
 | Teka no Happy                            |
 | Tokyo Blur                               |
-| Onna no Aiso wa Buki ja nai              |
+| Prison Breaker                           |
 | Seishun Collection                       |
 | Toki wo Koe Sora wo Koe                  |
 | Zenzen Okiagarenai SUNDAY                |
