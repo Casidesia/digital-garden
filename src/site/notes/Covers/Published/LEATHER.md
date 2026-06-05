@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/leather/","updated":"2026-05-22T13:26:01.786-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","musician":"[[Melon Kinenbi]]","coverType":"Collab","coverRoles":null,"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","scheduled":"2026-04-05","soloLines":"[[Shibata Ayumi]]","dateModified":"2026-04-21T11:37:36.664-04:00","Custom":"no","coverLink":"https://youtu.be/GWTQ_FasO1U","lyrics":"https://docs.google.com/document/d/16ggpnwqqGp5oe5EKetD6qLDETaO_FgSRDdFeiPEHHTc/edit?usp=drivesdk","completedDate":"2026-05-01","releaseDate":"2026-05-01"}}
+{"dg-publish":true,"permalink":"/covers/published/leather/","updated":"2026-06-02T20:20:38.847-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","musician":"[[Melon Kinenbi]]","coverType":"Collab","coverRoles":null,"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","assigned":"2026-04-05","soloLines":"[[Shibata Ayumi]]","dateModified":"2026-04-21T11:37:36.664-04:00","Custom":"no","coverLink":"https://youtu.be/GWTQ_FasO1U","lyrics":"https://docs.google.com/document/d/16ggpnwqqGp5oe5EKetD6qLDETaO_FgSRDdFeiPEHHTc/edit?usp=drivesdk","completedDate":"2026-05-01","releaseDate":"2026-05-01"}}
 ---
 
 

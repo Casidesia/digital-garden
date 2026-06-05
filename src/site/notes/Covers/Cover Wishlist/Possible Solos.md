@@ -99,10 +99,10 @@
 | Kagayaite Kagayaite -My dream goes on-   | Tamura Meimi                      | \-                                  |
 | Romance                                  | Tamura Meimi                      | \-                                  |
 | Defying Gravity                          | Wicked                            | English                             |
-| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Idol                                     | YOASOBI                           | \-                                  |
-| UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
+| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Tabun                                    | YOASOBI                           | \-                                  |
+| UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |
 | Fake-Perfect                             | yousti                            | \-                                  |
 | めぐれ                                      | 葉音                                | \-                                  |

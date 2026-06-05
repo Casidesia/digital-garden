@@ -21,8 +21,8 @@
 | Beautiful - 3onderboy remix          | BananaLemon                 | \-                                        |
 | Cutie Panther                        | BiBi                        | \-                                        |
 | JUMP                                 | BLACKPINK                   | \-                                        |
-| Tír na nÓg                           | Celtic Women                | "English"                                 |
 | Téir Abhaile Riu                     | Celtic Women                | "English"                                 |
+| Tír na nÓg                           | Celtic Women                | "English"                                 |
 | Hands Up                             | Cherry Bullet               | Korean                                    |
 | Dynamic Ryukyu                       | Chuning Candy               | \-                                        |
 | summertime                           | cinnamons & evening cinema  | \-                                        |
@@ -59,9 +59,9 @@
 | fun fun fun                          | PINK CRES.                  | \-                                        |
 | kirei kawaii mirai                   | PINK CRES.                  | \-                                        |
 | love candy                           | PINK CRES.                  | \-                                        |
+| roulette                             | PINK CRES.                  | \-                                        |
 | katasumi                             | PINK CRES.                  | \-                                        |
 | my name is identity                  | PINK CRES.                  | \-                                        |
-| roulette                             | PINK CRES.                  | \-                                        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Leap High                            | PRODUCE JAPAN 101 THE GIRLS | \-                                        |

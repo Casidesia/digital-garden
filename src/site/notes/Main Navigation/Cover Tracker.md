@@ -3,45 +3,49 @@
 ---
 
 ## To Record
-| Song                         | Date Assigned  | due                |
-| ---------------------------- | -------------- | ------------------ |
-| Neverending Shine            | March 04, 2026 | \-                 |
-| Fantasy ga Hajimaru          | April 05, 2026 | \-                 |
-| Jun'ai Crusher               | May 02, 2026   | \-                 |
-| Kingdom Come                 | May 02, 2026   | \-                 |
-| Tokimeku Tokimeke            | May 05, 2026   | \-                 |
-| CHO DAI                      | May 07, 2026   | \-                 |
-| Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
-| Osaka Koi no Uta             | May 07, 2026   | \-                 |
-| Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
-| Nanchatte Ren'ai             | May 07, 2026   | \-                 |
-| Happy Birthday to Me         | May 08, 2026   | \-                 |
-| Wakatteiru no ni Gomen ne    | May 11, 2026   | \-                 |
-| More! Mi Amore! (Solo)       | May 13, 2026   | \-                 |
-| Wakattenai Janai             | May 23, 2026   | \-                 |
-| Black Butterfly              | May 24, 2026   | \-                 |
-| Otomodachi                   | May 25, 2026   | September 01, 2026 |
-| Goal ~Ashita wa Acchi Da Yo~ | May 27, 2026   | August 19, 2026    |
+| Song                         | Date Assigned | due                |
+| ---------------------------- | ------------- | ------------------ |
+| Donkey Gongs                 | \-            | \-                 |
+| Fantasy ga Hajimaru          | \-            | \-                 |
+| Koi wa Magnet                | \-            | August 16, 2026    |
+| Black Butterfly              | \-            | \-                 |
+| Moshi mo...                  | \-            | \-                 |
+| More! Mi Amore! (Solo)       | \-            | \-                 |
+| HEAVY GATE                   | \-            | \-                 |
+| Osaka Koi no Uta             | \-            | \-                 |
+| Kingdom Come                 | \-            | \-                 |
+| Prince Night                 | \-            | \-                 |
+| Otomodachi                   | \-            | September 01, 2026 |
+| Nanchatte Ren'ai             | \-            | \-                 |
+| Nakidasu Kamo Shirenai yo    | \-            | \-                 |
+| Uchoten LOVE                 | \-            | July 15, 2026      |
+| WOLF BOY                     | \-            | August 19, 2026    |
+| Wake-up Call ~Mezameru Toki~ | \-            | July 22, 2026      |
+| Wakattenai Janai             | \-            | \-                 |
 
 { .block-language-dataview}
 ## Waiting
-| Song                            | Date Assigned    | due              |
-| ------------------------------- | ---------------- | ---------------- |
-| Hana ga Saku Taiyou Abite       | October 20, 2025 | \-               |
-| Tuxedo Mirage                   | October 24, 2025 | \-               |
-| Aki Urara                       | March 02, 2026   | October 01, 2026 |
-| Nanchuu Koi wo Yatteru You Know | March 17, 2026   | July 25, 2026    |
-| Style of my Love                | March 22, 2026   | May 20, 2026     |
-| FireWorks                       | March 26, 2026   | June 06, 2026    |
-| Resonant Blue                   | May 08, 2026     | \-               |
+| Song                            | Date Assigned | due              |
+| ------------------------------- | ------------- | ---------------- |
+| Aki Urara                       | \-            | October 01, 2026 |
+| CHO DAI                         | \-            | \-               |
+| Hana ga Saku Taiyou Abite       | \-            | \-               |
+| Neverending Shine               | \-            | \-               |
+| FireWorks                       | \-            | June 06, 2026    |
+| Nanchuu Koi wo Yatteru You Know | \-            | July 25, 2026    |
+| Wonderful World                 | \-            | \-               |
+| Tuxedo Mirage                   | \-            | \-               |
+| Tokimeku Tokimeke               | \-            | \-               |
+| First Kiss                      | \-            | \-               |
+| Ai to Taiyou ni Tsutsumarete    | \-            | \-               |
 
 { .block-language-dataview}
 ## In Progress
-| Song                         |
-| ---------------------------- |
-| Appare Kaitenzushi!          |
-| Ai to Taiyou ni Tsutsumarete |
-| MELODIES - GAM               |
+| Song                |
+| ------------------- |
+| Appare Kaitenzushi! |
+| Resonant Blue       |
+| MELODIES - GAM      |
 
 { .block-language-dataview}
 
@@ -56,26 +60,33 @@
 | Chance of LOVE                           |
 | FAST PASS                                |
 | Fiesta! Fiesta!                          |
-| Fukyouwaon                               |
 | Go Girl Koi no Victory                   |
+| Fukyouwaon                               |
+| Happy Birthday to Me                     |
 | Haru no Uta                              |
 | Hooke no Housoku                         |
+| Junjou Evidence                          |
 | Kaigan Seisou Danshi                     |
 | Kanashimi Twilight                       |
+| Itoshima Distance                        |
 | I Need You ~Yozora no Kanransha~         |
 | Naimono Love                             |
+| Jun'ai Crusher                           |
 | Maji desu ka Ska!                        |
+| Kataomoi                                 |
 | Onna no Aiso wa Buki ja nai              |
 | SaiKIYOU                                 |
-| Kataomoi                                 |
-| Junjou Evidence                          |
 | Seishun Night                            |
 | SEXY BOY ~Soyokaze ni Yorisotte~         |
 | Teka no Happy                            |
 | Tokyo Blur                               |
 | Prison Breaker                           |
-| Seishun Collection                       |
 | Toki wo Koe Sora wo Koe                  |
+| Wakatteiru no ni Gomen ne                |
 | Zenzen Okiagarenai SUNDAY                |
+| Seishun Collection                       |
+| Style of my Love                         |
+| Goal ~Ashita wa Acchi Da Yo~             |
+| Shochuu Omimai Moshiagemasu              |
 
 { .block-language-dataview}
