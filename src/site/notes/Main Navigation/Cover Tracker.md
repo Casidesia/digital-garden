@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","updated":"2026-06-05T22:43:10.062-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","updated":"2026-06-05T22:43:44.078-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
-| Song                         | Date Assigned  | due                |
+| Song                         | Date Assigned  | Due                |
 | ---------------------------- | -------------- | ------------------ |
 | More! Mi Amore! (Solo)       | May 13, 2026   | November 01, 2026  |
 | Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
@@ -24,7 +24,7 @@
 
 { .block-language-dataview}
 ## Waiting
-| Song                            | Date Assigned    | due              |
+| Song                            | Date Assigned    | Due              |
 | ------------------------------- | ---------------- | ---------------- |
 | Tokimeku Tokimeke               | May 05, 2026     | \-               |
 | CHO DAI                         | May 07, 2026     | \-               |
