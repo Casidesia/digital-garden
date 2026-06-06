@@ -7,20 +7,21 @@
 | ---------------------------- | -------------- | ------------------ |
 | Fantasy ga Hajimaru          | April 05, 2026 | \-                 |
 | Kingdom Come                 | May 02, 2026   | \-                 |
-| Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
+| Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
 | Osaka Koi no Uta             | May 07, 2026   | \-                 |
 | Nanchatte Ren'ai             | May 07, 2026   | \-                 |
-| Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
+| Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
 | More! Mi Amore! (Solo)       | May 13, 2026   | November 01, 2026  |
 | Wakattenai Janai             | May 23, 2026   | \-                 |
 | Black Butterfly              | May 24, 2026   | \-                 |
 | Otomodachi                   | May 25, 2026   | September 01, 2026 |
-| Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
 | Uchoten LOVE                 | May 27, 2026   | July 15, 2026      |
+| Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
 | WOLF BOY                     | May 29, 2026   | August 19, 2026    |
-| Prince Night                 | June 02, 2026  | \-                 |
 | Donkey Gongs                 | June 02, 2026  | \-                 |
+| Prince Night                 | June 02, 2026  | \-                 |
 | Caramel pain                 | June 04, 2026  | \-                 |
+| A song                       | June 06, 2026  | \-                 |
 
 { .block-language-dataview}
 ## Waiting
@@ -43,51 +44,51 @@
 ## In Progress
 | Song                |
 | ------------------- |
-| MELODIES - GAM      |
 | Appare Kaitenzushi! |
 | Resonant Blue       |
+| MELODIES - GAM      |
 
 { .block-language-dataview}
 
 ## Part Done
 | Song                                     |
 | ---------------------------------------- |
-| Maji desu ka Ska!                        |
+| Ame no Furanai Hoshi de wa Aisenai Darou |
+| Blah Blah Blah                           |
+| Bot Bakka                                |
+| Aisaretai no ni                          |
+| Baisekou Daiseikou!                      |
+| Chance of LOVE                           |
+| FAST PASS                                |
+| Goal ~Ashita wa Acchi Da Yo~             |
+| Fukyouwaon                               |
+| Fiesta! Fiesta!                          |
+| Go Girl Koi no Victory                   |
+| Happy Birthday to Me                     |
+| Hooke no Housoku                         |
+| Haru no Uta                              |
+| I Need You ~Yozora no Kanransha~         |
+| Junjou Evidence                          |
 | Kaigan Seisou Danshi                     |
 | Kanashimi Twilight                       |
-| Seishun Collection                       |
-| Chance of LOVE                           |
-| Hooke no Housoku                         |
-| Baisekou Daiseikou!                      |
-| Go Girl Koi no Victory                   |
-| Toki wo Koe Sora wo Koe                  |
-| Prison Breaker                           |
-| Fiesta! Fiesta!                          |
-| Haru no Uta                              |
-| Zenzen Okiagarenai SUNDAY                |
-| Tokyo Blur                               |
-| Teka no Happy                            |
-| Aisaretai no ni                          |
-| Bot Bakka                                |
-| Onna no Aiso wa Buki ja nai              |
-| SaiKIYOU                                 |
-| Blah Blah Blah                           |
-| FAST PASS                                |
-| Fukyouwaon                               |
-| Naimono Love                             |
-| Seishun Night                            |
-| Junjou Evidence                          |
-| I Need You ~Yozora no Kanransha~         |
-| Kataomoi                                 |
-| Ame no Furanai Hoshi de wa Aisenai Darou |
-| SEXY BOY ~Soyokaze ni Yorisotte~         |
-| Happy Birthday to Me                     |
-| Jun'ai Crusher                           |
 | Itoshima Distance                        |
-| Wakatteiru no ni Gomen ne                |
-| Style of my Love                         |
-| Goal ~Ashita wa Acchi Da Yo~             |
-| Shochuu Omimai Moshiagemasu              |
 | Moshi mo...                              |
+| Naimono Love                             |
+| Jun'ai Crusher                           |
+| Kataomoi                                 |
+| SaiKIYOU                                 |
+| Maji desu ka Ska!                        |
+| Seishun Night                            |
+| SEXY BOY ~Soyokaze ni Yorisotte~         |
+| Onna no Aiso wa Buki ja nai              |
+| Prison Breaker                           |
+| Seishun Collection                       |
+| Teka no Happy                            |
+| Tokyo Blur                               |
+| Shochuu Omimai Moshiagemasu              |
+| Style of my Love                         |
+| Toki wo Koe Sora wo Koe                  |
+| Wakatteiru no ni Gomen ne                |
+| Zenzen Okiagarenai SUNDAY                |
 
 { .block-language-dataview}
