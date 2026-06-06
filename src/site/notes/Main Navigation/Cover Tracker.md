@@ -1,43 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","updated":"2026-05-22T15:00:08.236-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/cover-tracker/","updated":"2026-06-05T22:41:02.582-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
-| Song                         | Date Assigned | due                |
-| ---------------------------- | ------------- | ------------------ |
-| More! Mi Amore! (Solo)       | \-            | November 01, 2026  |
-| Nakidasu Kamo Shirenai yo    | \-            | \-                 |
-| Osaka Koi no Uta             | \-            | \-                 |
-| Nanchatte Ren'ai             | \-            | \-                 |
-| Prince Night                 | \-            | \-                 |
-| Otomodachi                   | \-            | September 01, 2026 |
-| Wake-up Call ~Mezameru Toki~ | \-            | July 22, 2026      |
-| Uchoten LOVE                 | \-            | July 15, 2026      |
-| Donkey Gongs                 | \-            | \-                 |
-| Fantasy ga Hajimaru          | \-            | \-                 |
-| WOLF BOY                     | \-            | August 19, 2026    |
-| Wakattenai Janai             | \-            | \-                 |
-| Koi wa Magnet                | \-            | August 16, 2026    |
-| Kingdom Come                 | \-            | \-                 |
-| Black Butterfly              | \-            | \-                 |
-| Caramel pain                 | \-            | \-                 |
+| Song                         | Date Assigned  | due                |
+| ---------------------------- | -------------- | ------------------ |
+| More! Mi Amore! (Solo)       | May 13, 2026   | November 01, 2026  |
+| Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
+| Osaka Koi no Uta             | May 07, 2026   | \-                 |
+| Nanchatte Ren'ai             | May 07, 2026   | \-                 |
+| Prince Night                 | June 02, 2026  | \-                 |
+| Otomodachi                   | May 25, 2026   | September 01, 2026 |
+| Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
+| Uchoten LOVE                 | May 27, 2026   | July 15, 2026      |
+| Donkey Gongs                 | June 02, 2026  | \-                 |
+| Fantasy ga Hajimaru          | April 05, 2026 | \-                 |
+| WOLF BOY                     | May 29, 2026   | August 19, 2026    |
+| Wakattenai Janai             | May 23, 2026   | \-                 |
+| Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
+| Kingdom Come                 | May 02, 2026   | \-                 |
+| Black Butterfly              | May 24, 2026   | \-                 |
+| Caramel pain                 | June 04, 2026  | \-                 |
 
 { .block-language-dataview}
 ## Waiting
-| Song                            | Date Assigned | due              |
-| ------------------------------- | ------------- | ---------------- |
-| Tokimeku Tokimeke               | \-            | \-               |
-| CHO DAI                         | \-            | \-               |
-| FireWorks                       | \-            | June 06, 2026    |
-| Neverending Shine               | \-            | \-               |
-| Nanchuu Koi wo Yatteru You Know | \-            | July 25, 2026    |
-| Hana ga Saku Taiyou Abite       | \-            | \-               |
-| Tuxedo Mirage                   | \-            | \-               |
-| Aki Urara                       | \-            | October 01, 2026 |
-| Wonderful World                 | \-            | \-               |
-| First Kiss                      | \-            | \-               |
-| Ai to Taiyou ni Tsutsumarete    | \-            | \-               |
-| HEAVY GATE                      | \-            | \-               |
+| Song                            | Date Assigned    | due              |
+| ------------------------------- | ---------------- | ---------------- |
+| Tokimeku Tokimeke               | May 05, 2026     | \-               |
+| CHO DAI                         | May 07, 2026     | \-               |
+| FireWorks                       | March 26, 2026   | June 06, 2026    |
+| Neverending Shine               | March 04, 2026   | \-               |
+| Nanchuu Koi wo Yatteru You Know | March 17, 2026   | July 25, 2026    |
+| Hana ga Saku Taiyou Abite       | October 20, 2025 | \-               |
+| Tuxedo Mirage                   | October 24, 2025 | \-               |
+| Aki Urara                       | March 02, 2026   | October 01, 2026 |
+| Wonderful World                 | March 09, 2026   | \-               |
+| First Kiss                      | May 30, 2026     | \-               |
+| Ai to Taiyou ni Tsutsumarete    | April 05, 2026   | \-               |
+| HEAVY GATE                      | May 28, 2026     | \-               |
 
 { .block-language-dataview}
 ## In Progress
