@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-22T20:37:20.642-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-23T07:53:14.921-04:00","dg-note-properties":{}}
 ---
 
 ## Solo

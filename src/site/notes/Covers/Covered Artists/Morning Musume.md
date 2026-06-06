@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/covered-artists/morning-musume/","updated":"2026-05-22T14:39:49.656-04:00","dg-note-properties":{"aliases":["Muten Musume"]}}
+{"dg-publish":true,"permalink":"/covers/covered-artists/morning-musume/","updated":"2026-05-22T15:00:20.312-04:00","dg-note-properties":{"aliases":["Muten Musume"]}}
 ---
 
 | releaseDate       | Song                                                                   |
