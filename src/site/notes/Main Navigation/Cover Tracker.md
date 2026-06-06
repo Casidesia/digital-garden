@@ -9,8 +9,8 @@
 | Kingdom Come                 | May 02, 2026   | \-                 |
 | Koi wa Magnet                | May 07, 2026   | August 16, 2026    |
 | Nakidasu Kamo Shirenai yo    | May 07, 2026   | \-                 |
-| Nanchatte Ren'ai             | May 07, 2026   | \-                 |
 | Osaka Koi no Uta             | May 07, 2026   | \-                 |
+| Nanchatte Ren'ai             | May 07, 2026   | \-                 |
 | More! Mi Amore! (Solo)       | May 13, 2026   | November 01, 2026  |
 | Wakattenai Janai             | May 23, 2026   | \-                 |
 | Black Butterfly              | May 24, 2026   | \-                 |
@@ -53,41 +53,41 @@
 ## Part Done
 | Song                                     |
 | ---------------------------------------- |
-| Aisaretai no ni                          |
 | Ame no Furanai Hoshi de wa Aisenai Darou |
-| Baisekou Daiseikou!                      |
 | Blah Blah Blah                           |
 | Bot Bakka                                |
+| Aisaretai no ni                          |
+| Baisekou Daiseikou!                      |
 | Chance of LOVE                           |
 | FAST PASS                                |
 | Fiesta! Fiesta!                          |
+| Goal ~Ashita wa Acchi Da Yo~             |
 | Fukyouwaon                               |
 | Go Girl Koi no Victory                   |
-| Goal ~Ashita wa Acchi Da Yo~             |
 | Happy Birthday to Me                     |
-| Haru no Uta                              |
 | Hooke no Housoku                         |
 | I Need You ~Yozora no Kanransha~         |
-| Itoshima Distance                        |
-| Jun'ai Crusher                           |
 | Junjou Evidence                          |
+| Haru no Uta                              |
 | Kaigan Seisou Danshi                     |
 | Kanashimi Twilight                       |
+| Itoshima Distance                        |
+| Jun'ai Crusher                           |
 | Kataomoi                                 |
-| Maji desu ka Ska!                        |
 | Moshi mo...                              |
 | Naimono Love                             |
-| Onna no Aiso wa Buki ja nai              |
-| Prison Breaker                           |
 | SaiKIYOU                                 |
-| Seishun Collection                       |
+| Maji desu ka Ska!                        |
 | Seishun Night                            |
 | SEXY BOY ~Soyokaze ni Yorisotte~         |
+| Prison Breaker                           |
+| Seishun Collection                       |
+| Onna no Aiso wa Buki ja nai              |
+| Teka no Happy                            |
+| Tokyo Blur                               |
 | Shochuu Omimai Moshiagemasu              |
 | Style of my Love                         |
-| Teka no Happy                            |
 | Toki wo Koe Sora wo Koe                  |
-| Tokyo Blur                               |
 | Wakatteiru no ni Gomen ne                |
 | Zenzen Okiagarenai SUNDAY                |
 
