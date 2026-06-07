@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-07T07:33:44.742-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-07T07:36:05.886-04:00","dg-note-properties":{}}
 ---
 
 ## About this Site
@@ -26,4 +26,4 @@ As well as the host of [[Covers/Cover Groups/Project Yume\|Project Yume]], a flu
 ## Other Info About This Site
 This site's contents are first written in [Obsidian](https://obsidian.md/). From there I have a plugin, [Digital Garden](https://docs.forestry.md/), that pushes whatever pages I was public to one of my [GitHub](https://github.com/) repositories, which is connected to [Vercel](https://vercel.com), which hosts the site... All for free! 
 The theme used is [Vesnea Vibe](https://github.com/seavalanche/vesnea-obsidian-theme). 
-For more inspiration about how what type of site you yourself could make with these tools, visit [Obsidian Garden Sites Gallery](https://vaults.obsidian-community.com/)! 
+For more inspiration about how what type of site you yourself could make with these tools, visit [the Obsidian Garden Sites Gallery](https://vaults.obsidian-community.com/)! 
