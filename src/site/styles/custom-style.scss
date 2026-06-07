@@ -2,3 +2,13 @@ body {
   --dg-content-max-width: 1400px;
   --font-default: "Inter";
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100% !important;
+  height:auto !important;
+}
