@@ -69,8 +69,8 @@
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
 | ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
@@ -107,8 +107,8 @@
 | Defying Gravity                          | Wicked                            | English                             |
 | Idol                                     | YOASOBI                           | \-                                  |
 | Kaibutsu                                 | YOASOBI                           | \-                                  |
-| Tabun                                    | YOASOBI                           | \-                                  |
 | UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
+| Tabun                                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |
 | Fake-Perfect                             | yousti                            | \-                                  |
 | めぐれ                                      | 葉音                                | \-                                  |
