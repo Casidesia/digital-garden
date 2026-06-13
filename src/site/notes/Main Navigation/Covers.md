@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-22T20:37:20.642-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/covers/","updated":"2026-05-23T07:53:14.921-04:00","dg-note-properties":{}}
 ---
 
 ## Solo
@@ -15,6 +15,7 @@
 ## Collabs
 | File                                                                           | Artist                                                       | Staff Roles              | Release Date   |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ | -------------- |
+| [[Covers/Published/Style of my Love\|Style of my Love]]                     | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | <ul><li>Timing</li></ul> | \-             |
 | [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]] | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | <ul><li>Video</li></ul>  | June 04, 2024  |
 | [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                           | NewJeans                                                     | \-                       | April 29, 2025 |
 | [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                         | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | <ul><li>Tuning</li></ul> | April 15, 2026 |

@@ -14,10 +14,10 @@
 | Black Butterfly              | May 24, 2026   | \-                 |
 | Otomodachi                   | May 25, 2026   | September 01, 2026 |
 | Appare Kaitenzushi!          | May 25, 2026   | \-                 |
-| Uchoten LOVE                 | May 27, 2026   | July 15, 2026      |
 | Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
-| Donkey Gongs                 | June 02, 2026  | \-                 |
+| Uchoten LOVE                 | May 27, 2026   | July 15, 2026      |
 | Prince Night                 | June 02, 2026  | \-                 |
+| Donkey Gongs                 | June 02, 2026  | \-                 |
 | Mappira da Tteba!            | June 08, 2026  | July 13, 2026      |
 | Horror Queen                 | June 09, 2026  | \-                 |
 
@@ -51,46 +51,45 @@
 ## Part Done
 | Song                                     |
 | ---------------------------------------- |
-| Ame no Furanai Hoshi de wa Aisenai Darou |
-| A song                                   |
-| Blah Blah Blah                           |
-| Bot Bakka                                |
-| Aisaretai no ni                          |
-| Baisekou Daiseikou!                      |
-| Chance of LOVE                           |
-| FAST PASS                                |
-| Goal ~Ashita wa Acchi Da Yo~             |
-| Fiesta! Fiesta!                          |
-| Haru no Uta                              |
-| Go Girl Koi no Victory                   |
-| Fukyouwaon                               |
-| Itoshima Distance                        |
-| Happy Birthday to Me                     |
-| Junjou Evidence                          |
+| Maji desu ka Ska!                        |
 | Kaigan Seisou Danshi                     |
 | Kanashimi Twilight                       |
-| Hooke no Housoku                         |
-| Koi wa Magnet                            |
-| I Need You ~Yozora no Kanransha~         |
-| Jun'ai Crusher                           |
-| Maji desu ka Ska!                        |
-| Moshi mo...                              |
-| Naimono Love                             |
-| Kataomoi                                 |
-| SaiKIYOU                                 |
-| Seishun Night                            |
-| SEXY BOY ~Soyokaze ni Yorisotte~         |
-| Shochuu Omimai Moshiagemasu              |
-| Onna no Aiso wa Buki ja nai              |
-| Teka no Happy                            |
-| Prison Breaker                           |
-| Style of my Love                         |
 | Seishun Collection                       |
-| WOLF BOY                                 |
-| Tokyo Blur                               |
+| Chance of LOVE                           |
+| Hooke no Housoku                         |
+| Baisekou Daiseikou!                      |
+| Go Girl Koi no Victory                   |
 | Toki wo Koe Sora wo Koe                  |
-| Wakatteiru no ni Gomen ne                |
+| Prison Breaker                           |
+| Fiesta! Fiesta!                          |
+| Haru no Uta                              |
 | Zenzen Okiagarenai SUNDAY                |
+| Tokyo Blur                               |
+| Teka no Happy                            |
+| Aisaretai no ni                          |
+| Bot Bakka                                |
+| Onna no Aiso wa Buki ja nai              |
+| SaiKIYOU                                 |
+| Blah Blah Blah                           |
+| FAST PASS                                |
+| Fukyouwaon                               |
+| Naimono Love                             |
+| Seishun Night                            |
+| Junjou Evidence                          |
+| I Need You ~Yozora no Kanransha~         |
+| Kataomoi                                 |
+| Ame no Furanai Hoshi de wa Aisenai Darou |
+| SEXY BOY ~Soyokaze ni Yorisotte~         |
+| Happy Birthday to Me                     |
+| Jun'ai Crusher                           |
+| Itoshima Distance                        |
+| Wakatteiru no ni Gomen ne                |
+| Goal ~Ashita wa Acchi Da Yo~             |
+| Shochuu Omimai Moshiagemasu              |
+| Moshi mo...                              |
+| A song                                   |
+| Koi wa Magnet                            |
+| WOLF BOY                                 |
 | BaBaBa Burning Love!                     |
 
 { .block-language-dataview}

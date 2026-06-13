@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-navigation/cover-wishlist/cover-wishlists/","updated":"2026-06-09T11:23:48.991-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main-navigation/cover-wishlist/cover-wishlists/","updated":"2026-06-10T12:38:17.592-04:00","dg-note-properties":{}}
 ---
 
 [[Main Navigation/Cover Wishlist/Hello Project Wishlist\|Hello Project Wishlist]]
