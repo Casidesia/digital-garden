@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-14T08:20:25.293-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-14T08:22:01.209-04:00","dg-note-properties":{}}
 ---
 
 ## About this Site
@@ -22,7 +22,7 @@ As well as the host of [[Covers/Cover Groups/Project Yume\|Project Yume]], a flu
 
 </div></div>
 
-[[Garden/Socials\|Socials]]
+Find me elsewhere: [[Garden/Socials\|Socials]]
 
 ## Other Info About This Site
 This site's contents are first written in [Obsidian](https://obsidian.md/). From there I have a plugin, [Digital Garden](https://docs.forestry.md/), that pushes whatever pages I was public to one of my [GitHub](https://github.com/) repositories, which is connected to [Vercel](https://vercel.com), which hosts the site... All for free! 
