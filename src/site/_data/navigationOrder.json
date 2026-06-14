@@ -1,20 +1,28 @@
 {
   "/": [
-    "Main Navigation",
+    "Garden",
     "Covers"
   ],
-  "/Main Navigation": [
-    "Home",
+  "/Garden": [
     "Socials",
     "Covers",
     "Covered Artists",
+    "Home",
     "Staff Credits",
-    "Cover Tracker"
+    "Cover Tracker",
+    "Cover Wishlist"
+  ],
+  "/Garden/Cover Wishlist": [
+    "Cover Wishlists",
+    "Hello Project Wishlist",
+    "Other Wishlist",
+    "Solo Covers Wishlist"
   ],
   "/Covers": [
     "Published",
     "Covered Artists",
-    "Cover Wishlist"
+    "Cover Groups",
+    "In Progress"
   ],
   "/Covers/Published": [
     "3,2,1 Breakin out",
@@ -27,7 +35,8 @@
     "Wasted",
     "Kura Sushi Bikkurapon!",
     "RED LINE",
-    "Tanpopo (Song)"
+    "Tanpopo (Song)",
+    "Style of my Love"
   ],
   "/Covers/Covered Artists": [
     "ANGERME",
@@ -39,10 +48,16 @@
     "RAISE A SUILEN",
     "Tanpopo"
   ],
-  "/Covers/Cover Wishlist": [
-    "Abandoned Covers",
-    "Hello!Project",
-    "Other",
-    "Possible Solos"
+  "/Covers/Cover Groups": [
+    "Echeveria",
+    "Kanzen Pro",
+    "Kirameki Factory",
+    "Project Yume"
+  ],
+  "/Covers/In Progress": [
+    "To Record"
+  ],
+  "/Covers/In Progress/To Record": [
+    "More! Mi Amore! (Solo)"
   ]
 }
