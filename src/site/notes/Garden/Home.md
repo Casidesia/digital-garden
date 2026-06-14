@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-14T08:22:01.209-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-14T08:24:07.593-04:00","dg-note-properties":{}}
 ---
 
 ## About this Site
 Hi! This little site of mine is more for helping others know where I'm at in my covers, mostly for other people that I collaborate with! If you'd like to not be spoiled, stay away! Check out my [[Garden/Covers\|Published Covers]] list instead!
-For others: [[Garden/Cover Tracker\|Cover Tracker]]
+For others: [[Garden/Cover Tracker\|Cover Tracker]] and [[Garden/Cover Wishlist/Cover Wishlists\|Cover Wishlists]]
 
 
 
