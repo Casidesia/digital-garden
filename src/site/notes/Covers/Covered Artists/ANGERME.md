@@ -4,7 +4,7 @@
 
 | releaseDate       | Song                                                   |
 | ----------------- | ------------------------------------------------------ |
-| \-                | [[Covers/Published/Prison Breaker\|Prison Breaker]] |
 | December 24, 2024 | [[Covers/Published/RED LINE\|RED LINE]]             |
+| June 15, 2026     | [[Covers/Published/Prison Breaker\|Prison Breaker]] |
 
 { .block-language-dataview}
