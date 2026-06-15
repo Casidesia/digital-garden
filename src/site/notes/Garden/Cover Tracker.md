@@ -59,7 +59,6 @@
 | Baisekou Daiseikou!                      |
 | Go Girl Koi no Victory                   |
 | Toki wo Koe Sora wo Koe                  |
-| Prison Breaker                           |
 | Fiesta! Fiesta!                          |
 | Haru no Uta                              |
 | Zenzen Okiagarenai SUNDAY                |

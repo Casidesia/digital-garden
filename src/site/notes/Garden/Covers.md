@@ -15,6 +15,7 @@
 ## Collabs
 | File                                                                           | Artist                                                       | Staff Roles              | Release Date   |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ | -------------- |
+| [[Covers/Published/Prison Breaker\|Prison Breaker]]                         | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | \-                       | \-             |
 | [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]] | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | <ul><li>Video</li></ul>  | June 04, 2024  |
 | [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                           | NewJeans                                                     | \-                       | April 29, 2025 |
 | [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                         | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | <ul><li>Tuning</li></ul> | April 15, 2026 |
