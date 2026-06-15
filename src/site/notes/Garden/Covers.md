@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-05-23T07:53:14.921-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-06-15T15:36:49.712-04:00","dg-note-properties":{}}
 ---
+
+## Latest Cover
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=veksO2ce01ttd0nU&amp;list=PLgeIqO-svJ3MfGo5PcmsO-uCMvfv_nvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Solo
 | File                                                           | Artist                                                           | Staff Roles                            | Release Date      |
@@ -25,5 +28,3 @@
 | [[Covers/Published/Prison Breaker\|Prison Breaker]]                         | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | \-                       | June 15, 2026  |
 
 { .block-language-dataview}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=veksO2ce01ttd0nU&amp;list=PLgeIqO-svJ3MfGo5PcmsO-uCMvfv_nvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
