@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-06-05T22:44:44.446-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-06-25T11:15:33.100-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -14,11 +14,11 @@
 | Appare Kaitenzushi!          | May 25, 2026   | \-                 |
 | Otomodachi                   | May 25, 2026   | September 01, 2026 |
 | Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
-| Uchoten LOVE                 | May 27, 2026   | July 15, 2026      |
-| Prince Night                 | June 02, 2026  | \-                 |
 | Donkey Gongs                 | June 02, 2026  | \-                 |
+| Prince Night                 | June 02, 2026  | \-                 |
 | Mappira da Tteba!            | June 08, 2026  | July 13, 2026      |
-| Horror Queen                 | June 09, 2026  | \-                 |
+| Horror Queen                 | June 09, 2026  | August 01, 2026    |
+| Dantotsu de Aishite          | June 19, 2026  | August 31, 2026    |
 
 { .block-language-dataview}
 ## Waiting
@@ -34,60 +34,62 @@
 | Ai to Taiyou ni Tsutsumarete    | April 05, 2026   | \-               |
 | Tokimeku Tokimeke               | May 05, 2026     | \-               |
 | CHO DAI                         | May 07, 2026     | \-               |
-| Osaka Koi no Uta                | May 07, 2026     | \-               |
 | Nanchatte Ren'ai                | May 07, 2026     | \-               |
+| Osaka Koi no Uta                | May 07, 2026     | \-               |
+| Uchoten LOVE                    | May 27, 2026     | July 15, 2026    |
 | HEAVY GATE                      | May 28, 2026     | \-               |
 
 { .block-language-dataview}
 ## In Progress
-| Song           |
-| -------------- |
-| First Kiss     |
-| MELODIES - GAM |
+| Song       | Role                     |
+| ---------- | ------------------------ |
+| First Kiss | <ul><li>Timing</li></ul> |
+| Kataomoi   | <ul><li>Timing</li></ul> |
+| MELODIES   | <ul><li>Timing</li></ul> |
 
 { .block-language-dataview}
 
 ## Part Done
 | Song                                     |
 | ---------------------------------------- |
-| Maji desu ka Ska!                        |
-| Kaigan Seisou Danshi                     |
-| Kanashimi Twilight                       |
-| Seishun Collection                       |
-| Chance of LOVE                           |
-| Hooke no Housoku                         |
-| Baisekou Daiseikou!                      |
-| Go Girl Koi no Victory                   |
-| Toki wo Koe Sora wo Koe                  |
-| Fiesta! Fiesta!                          |
-| Haru no Uta                              |
-| Zenzen Okiagarenai SUNDAY                |
-| Tokyo Blur                               |
-| Teka no Happy                            |
+| Ame no Furanai Hoshi de wa Aisenai Darou |
+| A song                                   |
+| BaBaBa Burning Love!                     |
+| Blah Blah Blah                           |
 | Aisaretai no ni                          |
 | Bot Bakka                                |
-| Onna no Aiso wa Buki ja nai              |
-| SaiKIYOU                                 |
-| Blah Blah Blah                           |
+| Baisekou Daiseikou!                      |
 | FAST PASS                                |
-| Fukyouwaon                               |
-| Naimono Love                             |
-| Seishun Night                            |
-| Junjou Evidence                          |
-| I Need You ~Yozora no Kanransha~         |
-| Kataomoi                                 |
-| Ame no Furanai Hoshi de wa Aisenai Darou |
-| SEXY BOY ~Soyokaze ni Yorisotte~         |
-| Happy Birthday to Me                     |
-| Jun'ai Crusher                           |
-| Itoshima Distance                        |
-| Wakatteiru no ni Gomen ne                |
+| Fiesta! Fiesta!                          |
 | Goal ~Ashita wa Acchi Da Yo~             |
-| Shochuu Omimai Moshiagemasu              |
-| Moshi mo...                              |
-| A song                                   |
+| Chance of LOVE                           |
+| Haru no Uta                              |
+| Go Girl Koi no Victory                   |
+| Fukyouwaon                               |
+| Itoshima Distance                        |
+| Happy Birthday to Me                     |
+| Hooke no Housoku                         |
+| Jun'ai Crusher                           |
+| I Need You ~Yozora no Kanransha~         |
+| Junjou Evidence                          |
+| Kaigan Seisou Danshi                     |
+| Kanashimi Twilight                       |
+| Kimi wa Sparkle                          |
 | Koi wa Magnet                            |
+| Maji desu ka Ska!                        |
+| Moshi mo...                              |
+| Naimono Love                             |
+| SaiKIYOU                                 |
+| Onna no Aiso wa Buki ja nai              |
+| Seishun Night                            |
+| SEXY BOY ~Soyokaze ni Yorisotte~         |
+| Shochuu Omimai Moshiagemasu              |
+| Teka no Happy                            |
+| Tokyo Blur                               |
+| Seishun Collection                       |
 | WOLF BOY                                 |
-| BaBaBa Burning Love!                     |
+| Toki wo Koe Sora wo Koe                  |
+| Wakatteiru no ni Gomen ne                |
+| Zenzen Okiagarenai SUNDAY                |
 
 { .block-language-dataview}

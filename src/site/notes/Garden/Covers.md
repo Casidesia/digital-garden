@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-06-15T15:36:49.712-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-06-16T20:58:37.393-04:00","dg-note-properties":{}}
 ---
 
 ## Latest Cover
