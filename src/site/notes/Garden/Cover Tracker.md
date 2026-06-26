@@ -34,18 +34,18 @@
 | Ai to Taiyou ni Tsutsumarete    | April 05, 2026   | \-               |
 | Tokimeku Tokimeke               | May 05, 2026     | \-               |
 | CHO DAI                         | May 07, 2026     | \-               |
-| Nanchatte Ren'ai                | May 07, 2026     | \-               |
 | Osaka Koi no Uta                | May 07, 2026     | \-               |
+| Nanchatte Ren'ai                | May 07, 2026     | \-               |
 | Uchoten LOVE                    | May 27, 2026     | July 15, 2026    |
-| HEAVY GATE                      | May 28, 2026     | \-               |
 
 { .block-language-dataview}
 ## In Progress
 | Song       | Role                     |
 | ---------- | ------------------------ |
 | First Kiss | <ul><li>Timing</li></ul> |
-| Kataomoi   | <ul><li>Timing</li></ul> |
 | MELODIES   | <ul><li>Timing</li></ul> |
+| Kataomoi   | <ul><li>Timing</li></ul> |
+| HEAVY GATE | <ul><li>Timing</li></ul> |
 
 { .block-language-dataview}
 
@@ -53,26 +53,24 @@
 | Song                                     |
 | ---------------------------------------- |
 | Ame no Furanai Hoshi de wa Aisenai Darou |
-| A song                                   |
 | BaBaBa Burning Love!                     |
-| Blah Blah Blah                           |
 | Aisaretai no ni                          |
+| Blah Blah Blah                           |
 | Bot Bakka                                |
+| A song                                   |
 | Baisekou Daiseikou!                      |
 | FAST PASS                                |
 | Fiesta! Fiesta!                          |
 | Goal ~Ashita wa Acchi Da Yo~             |
 | Chance of LOVE                           |
 | Haru no Uta                              |
-| Go Girl Koi no Victory                   |
 | Fukyouwaon                               |
+| Go Girl Koi no Victory                   |
 | Itoshima Distance                        |
 | Happy Birthday to Me                     |
-| Hooke no Housoku                         |
-| Jun'ai Crusher                           |
-| I Need You ~Yozora no Kanransha~         |
 | Junjou Evidence                          |
 | Kaigan Seisou Danshi                     |
+| Jun'ai Crusher                           |
 | Kanashimi Twilight                       |
 | Kimi wa Sparkle                          |
 | Koi wa Magnet                            |
@@ -80,16 +78,18 @@
 | Moshi mo...                              |
 | Naimono Love                             |
 | SaiKIYOU                                 |
-| Onna no Aiso wa Buki ja nai              |
+| I Need You ~Yozora no Kanransha~         |
 | Seishun Night                            |
 | SEXY BOY ~Soyokaze ni Yorisotte~         |
 | Shochuu Omimai Moshiagemasu              |
 | Teka no Happy                            |
+| Hooke no Housoku                         |
 | Tokyo Blur                               |
-| Seishun Collection                       |
+| Onna no Aiso wa Buki ja nai              |
 | WOLF BOY                                 |
+| Seishun Collection                       |
 | Toki wo Koe Sora wo Koe                  |
-| Wakatteiru no ni Gomen ne                |
 | Zenzen Okiagarenai SUNDAY                |
+| Wakatteiru no ni Gomen ne                |
 
 { .block-language-dataview}
