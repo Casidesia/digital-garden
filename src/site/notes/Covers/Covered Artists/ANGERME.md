@@ -4,8 +4,8 @@
 
 | releaseDate       | Song                                                   |
 | ----------------- | ------------------------------------------------------ |
-| \-                | [[Covers/Published/FAST PASS\|FAST PASS]]           |
 | December 24, 2024 | [[Covers/Published/RED LINE\|RED LINE]]             |
 | June 15, 2026     | [[Covers/Published/Prison Breaker\|Prison Breaker]] |
+| June 28, 2026     | [[Covers/Published/FAST PASS\|FAST PASS]]           |
 
 { .block-language-dataview}
