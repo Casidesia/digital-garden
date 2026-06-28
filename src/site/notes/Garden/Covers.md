@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-06-16T20:58:37.393-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/covers/","updated":"2026-06-15T15:36:49.712-04:00","dg-note-properties":{}}
 ---
 
 ## Latest Cover
@@ -16,15 +16,17 @@
 
 { .block-language-dataview}
 ## Collabs
-| File                                                                           | Artist                                                       | Staff Roles              | Release Date   |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ | -------------- |
-| [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]] | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | <ul><li>Video</li></ul>  | June 04, 2024  |
-| [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                           | NewJeans                                                     | \-                       | April 29, 2025 |
-| [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                         | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | <ul><li>Tuning</li></ul> | April 15, 2026 |
-| [[Covers/Published/LEATHER\|LEATHER]]                                       | [[Covers/Covered Artists/Melon Kinenbi\|Melon Kinenbi]]   | \-                       | May 01, 2026   |
-| [[Covers/Published/3,2,1 Breakin out\|3,2,1 Breakin out]]                   | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-                       | May 16, 2026   |
-| [[Covers/Published/Kura Sushi Bikkurapon!\|Kura Sushi Bikkurapon!]]         | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-                       | May 21, 2026   |
-| [[Covers/Published/Style of my Love\|Style of my Love]]                     | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | <ul><li>Timing</li></ul> | June 13, 2026  |
-| [[Covers/Published/Prison Breaker\|Prison Breaker]]                         | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | \-                       | June 15, 2026  |
+| File                                                                             | Artist                                                       | Staff Roles              | Release Date   |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------ | -------------- |
+| [[Covers/Published/FAST PASS\|FAST PASS]]                                     | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | <ul><li>Timing</li></ul> | \-             |
+| [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]]   | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]] | <ul><li>Video</li></ul>  | June 04, 2024  |
+| [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                             | NewJeans                                                     | \-                       | April 29, 2025 |
+| [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                           | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]               | <ul><li>Tuning</li></ul> | April 15, 2026 |
+| [[Covers/Published/LEATHER\|LEATHER]]                                         | [[Covers/Covered Artists/Melon Kinenbi\|Melon Kinenbi]]   | \-                       | May 01, 2026   |
+| [[Covers/Published/3,2,1 Breakin out\|3,2,1 Breakin out]]                     | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-                       | May 16, 2026   |
+| [[Covers/Published/Kura Sushi Bikkurapon!\|Kura Sushi Bikkurapon!]]           | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | \-                       | May 21, 2026   |
+| [[Covers/Published/Style of my Love\|Style of my Love]]                       | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | <ul><li>Timing</li></ul> | June 13, 2026  |
+| [[Covers/Published/Prison Breaker\|Prison Breaker]]                           | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | \-                       | June 15, 2026  |
+| [[Covers/Published/Shochuu Omimai Moshiagemasu\|Shochuu Omimai Moshiagemasu]] | [[C-ute\|C-ute]]                                             | \-                       | June 19, 2026  |
 
 { .block-language-dataview}

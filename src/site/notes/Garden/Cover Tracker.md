@@ -3,22 +3,25 @@
 ---
 
 ## To Record
-| Song                         | Date Assigned  | Due                |
-| ---------------------------- | -------------- | ------------------ |
-| Fantasy ga Hajimaru          | April 05, 2026 | \-                 |
-| Kingdom Come                 | May 02, 2026   | \-                 |
-| Resonant Blue                | May 08, 2026   | \-                 |
-| More! Mi Amore! (Solo)       | May 13, 2026   | November 01, 2026  |
-| Wakattenai Janai             | May 23, 2026   | \-                 |
-| Black Butterfly              | May 24, 2026   | \-                 |
-| Appare Kaitenzushi!          | May 25, 2026   | \-                 |
-| Otomodachi                   | May 25, 2026   | September 01, 2026 |
-| Wake-up Call ~Mezameru Toki~ | May 27, 2026   | July 22, 2026      |
-| Donkey Gongs                 | June 02, 2026  | \-                 |
-| Prince Night                 | June 02, 2026  | \-                 |
-| Mappira da Tteba!            | June 08, 2026  | July 13, 2026      |
-| Horror Queen                 | June 09, 2026  | August 01, 2026    |
-| Dantotsu de Aishite          | June 19, 2026  | August 31, 2026    |
+| Song                             | Date Assigned  | Due                |
+| -------------------------------- | -------------- | ------------------ |
+| Fantasy ga Hajimaru              | April 05, 2026 | \-                 |
+| Kingdom Come                     | May 02, 2026   | \-                 |
+| Resonant Blue                    | May 08, 2026   | \-                 |
+| More! Mi Amore! (Solo)           | May 13, 2026   | November 01, 2026  |
+| Wakattenai Janai                 | May 23, 2026   | \-                 |
+| Black Butterfly                  | May 24, 2026   | \-                 |
+| Appare Kaitenzushi!              | May 25, 2026   | \-                 |
+| Otomodachi                       | May 25, 2026   | September 01, 2026 |
+| Wake-up Call ~Mezameru Toki~     | May 27, 2026   | July 22, 2026      |
+| Prince Night                     | June 02, 2026  | \-                 |
+| Donkey Gongs                     | June 02, 2026  | \-                 |
+| Mappira da Tteba!                | June 08, 2026  | July 13, 2026      |
+| Horror Queen                     | June 09, 2026  | August 01, 2026    |
+| Dantotsu de Aishite              | June 19, 2026  | August 31, 2026    |
+| Lonely but not Alone             | June 28, 2026  | \-                 |
+| Atto Odoroku Mirai ga Yattekuru! | June 28, 2026  | October 01, 2026   |
+| Hikari no Uta                    | June 28, 2026  | \-                 |
 
 { .block-language-dataview}
 ## Waiting
@@ -43,8 +46,8 @@
 | Song       | Role                     |
 | ---------- | ------------------------ |
 | First Kiss | <ul><li>Timing</li></ul> |
-| MELODIES   | <ul><li>Timing</li></ul> |
 | Kataomoi   | <ul><li>Timing</li></ul> |
+| MELODIES   | <ul><li>Timing</li></ul> |
 | HEAVY GATE | <ul><li>Timing</li></ul> |
 
 { .block-language-dataview}
@@ -52,44 +55,42 @@
 ## Part Done
 | Song                                     |
 | ---------------------------------------- |
-| Ame no Furanai Hoshi de wa Aisenai Darou |
-| BaBaBa Burning Love!                     |
-| Aisaretai no ni                          |
-| Blah Blah Blah                           |
-| Bot Bakka                                |
-| A song                                   |
-| Baisekou Daiseikou!                      |
-| FAST PASS                                |
-| Fiesta! Fiesta!                          |
-| Goal ~Ashita wa Acchi Da Yo~             |
-| Chance of LOVE                           |
-| Haru no Uta                              |
-| Fukyouwaon                               |
-| Go Girl Koi no Victory                   |
-| Itoshima Distance                        |
-| Happy Birthday to Me                     |
-| Junjou Evidence                          |
-| Kaigan Seisou Danshi                     |
-| Jun'ai Crusher                           |
-| Kanashimi Twilight                       |
-| Kimi wa Sparkle                          |
-| Koi wa Magnet                            |
 | Maji desu ka Ska!                        |
-| Moshi mo...                              |
-| Naimono Love                             |
-| SaiKIYOU                                 |
-| I Need You ~Yozora no Kanransha~         |
-| Seishun Night                            |
-| SEXY BOY ~Soyokaze ni Yorisotte~         |
-| Shochuu Omimai Moshiagemasu              |
-| Teka no Happy                            |
-| Hooke no Housoku                         |
-| Tokyo Blur                               |
-| Onna no Aiso wa Buki ja nai              |
-| WOLF BOY                                 |
+| Kaigan Seisou Danshi                     |
+| Kanashimi Twilight                       |
 | Seishun Collection                       |
+| Chance of LOVE                           |
+| Hooke no Housoku                         |
+| Baisekou Daiseikou!                      |
+| Go Girl Koi no Victory                   |
 | Toki wo Koe Sora wo Koe                  |
+| Kimi wa Sparkle                          |
+| Fiesta! Fiesta!                          |
+| Haru no Uta                              |
 | Zenzen Okiagarenai SUNDAY                |
+| Tokyo Blur                               |
+| Teka no Happy                            |
+| Aisaretai no ni                          |
+| Bot Bakka                                |
+| Onna no Aiso wa Buki ja nai              |
+| SaiKIYOU                                 |
+| Blah Blah Blah                           |
+| Fukyouwaon                               |
+| Naimono Love                             |
+| Seishun Night                            |
+| Junjou Evidence                          |
+| I Need You ~Yozora no Kanransha~         |
+| Ame no Furanai Hoshi de wa Aisenai Darou |
+| SEXY BOY ~Soyokaze ni Yorisotte~         |
+| Happy Birthday to Me                     |
+| Jun'ai Crusher                           |
+| Itoshima Distance                        |
 | Wakatteiru no ni Gomen ne                |
+| Goal ~Ashita wa Acchi Da Yo~             |
+| Moshi mo...                              |
+| A song                                   |
+| Koi wa Magnet                            |
+| WOLF BOY                                 |
+| BaBaBa Burning Love!                     |
 
 { .block-language-dataview}
