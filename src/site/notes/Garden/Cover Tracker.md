@@ -3,25 +3,17 @@
 ---
 
 ## To Record
-| Song                             | Date Assigned  | Due                |
-| -------------------------------- | -------------- | ------------------ |
-| Fantasy ga Hajimaru              | April 05, 2026 | \-                 |
-| Kingdom Come                     | May 02, 2026   | \-                 |
-| Resonant Blue                    | May 08, 2026   | \-                 |
-| More! Mi Amore! (Solo)           | May 13, 2026   | November 01, 2026  |
-| Wakattenai Janai                 | May 23, 2026   | \-                 |
-| Black Butterfly                  | May 24, 2026   | \-                 |
-| Appare Kaitenzushi!              | May 25, 2026   | \-                 |
-| Otomodachi                       | May 25, 2026   | September 01, 2026 |
-| Wake-up Call ~Mezameru Toki~     | May 27, 2026   | July 22, 2026      |
-| Prince Night                     | June 02, 2026  | \-                 |
-| Donkey Gongs                     | June 02, 2026  | \-                 |
-| Mappira da Tteba!                | June 08, 2026  | July 13, 2026      |
-| Horror Queen                     | June 09, 2026  | August 01, 2026    |
-| Dantotsu de Aishite              | June 19, 2026  | August 31, 2026    |
-| Lonely but not Alone             | June 28, 2026  | \-                 |
-| Atto Odoroku Mirai ga Yattekuru! | June 28, 2026  | October 01, 2026   |
-| Hikari no Uta                    | June 28, 2026  | \-                 |
+| Song                             | Date Assigned | Due              |
+| -------------------------------- | ------------- | ---------------- |
+| Kingdom Come                     | May 02, 2026  | \-               |
+| Resonant Blue                    | May 08, 2026  | \-               |
+| Wakattenai Janai                 | May 23, 2026  | \-               |
+| Black Butterfly                  | May 24, 2026  | \-               |
+| Donkey Gongs                     | June 02, 2026 | \-               |
+| Dantotsu de Aishite              | June 19, 2026 | August 31, 2026  |
+| Lonely but not Alone             | June 28, 2026 | \-               |
+| Atto Odoroku Mirai ga Yattekuru! | June 28, 2026 | October 01, 2026 |
+| Hikari no Uta                    | June 28, 2026 | \-               |
 
 { .block-language-dataview}
 ## Waiting
@@ -43,12 +35,20 @@
 
 { .block-language-dataview}
 ## In Progress
-| Song       | Role                     |
-| ---------- | ------------------------ |
-| First Kiss | <ul><li>Timing</li></ul> |
-| Kataomoi   | <ul><li>Timing</li></ul> |
-| MELODIES   | <ul><li>Timing</li></ul> |
-| HEAVY GATE | <ul><li>Timing</li></ul> |
+| Song                         | Role                     |
+| ---------------------------- | ------------------------ |
+| First Kiss                   | <ul><li>Timing</li></ul> |
+| Kataomoi                     | <ul><li>Timing</li></ul> |
+| MELODIES                     | <ul><li>Timing</li></ul> |
+| HEAVY GATE                   | <ul><li>Timing</li></ul> |
+| Wake-up Call ~Mezameru Toki~ | \-                       |
+| Mappira da Tteba!            | <ul><li>Timing</li></ul> |
+| Horror Queen                 | \-                       |
+| Otomodachi                   | <ul><li>Timing</li></ul> |
+| Fantasy ga Hajimaru          | \-                       |
+| Appare Kaitenzushi!          | \-                       |
+| Prince Night                 | \-                       |
+| More! Mi Amore! (Solo)       | \-                       |
 
 { .block-language-dataview}
 
