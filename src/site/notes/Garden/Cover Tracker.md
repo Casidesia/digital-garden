@@ -3,24 +3,25 @@
 ---
 
 ## To Record
-| Song                             | Date Assigned | Due              |
-| -------------------------------- | ------------- | ---------------- |
-| Kingdom Come                     | May 02, 2026  | \-               |
-| Resonant Blue                    | May 08, 2026  | \-               |
-| Wakattenai Janai                 | May 23, 2026  | \-               |
-| Black Butterfly                  | May 24, 2026  | \-               |
-| Donkey Gongs                     | June 02, 2026 | \-               |
-| Dantotsu de Aishite              | June 19, 2026 | August 31, 2026  |
-| Lonely but not Alone             | June 28, 2026 | \-               |
-| Atto Odoroku Mirai ga Yattekuru! | June 28, 2026 | October 01, 2026 |
-| Hikari no Uta                    | June 28, 2026 | \-               |
+| Song                             | Date Assigned | Due               |
+| -------------------------------- | ------------- | ----------------- |
+| Kingdom Come                     | May 02, 2026  | \-                |
+| Resonant Blue                    | May 08, 2026  | \-                |
+| Wakattenai Janai                 | May 23, 2026  | \-                |
+| Black Butterfly                  | May 24, 2026  | \-                |
+| Donkey Gongs                     | June 02, 2026 | \-                |
+| Dantotsu de Aishite              | June 19, 2026 | August 31, 2026   |
+| Lonely but not Alone             | June 28, 2026 | \-                |
+| Atto Odoroku Mirai ga Yattekuru! | June 28, 2026 | October 01, 2026  |
+| Hikari no Uta                    | June 28, 2026 | \-                |
+| YL                               | July 02, 2026 | November 05, 2026 |
+| Do-Did-Done                      | July 02, 2026 | October 20, 2026  |
 
 { .block-language-dataview}
 ## Waiting
 | Song                            | Date Assigned    | Due              |
 | ------------------------------- | ---------------- | ---------------- |
 | Hana ga Saku Taiyou Abite       | October 20, 2025 | \-               |
-| Tuxedo Mirage                   | October 24, 2025 | \-               |
 | Aki Urara                       | March 02, 2026   | October 01, 2026 |
 | Neverending Shine               | March 04, 2026   | \-               |
 | Wonderful World                 | March 09, 2026   | \-               |
