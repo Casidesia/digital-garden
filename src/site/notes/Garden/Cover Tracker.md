@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-07T13:39:34.678-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-07T13:48:19.482-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -40,16 +40,16 @@
 | ---------------------------- | ---------- | -------------- | --------------- |
 | Appare Kaitenzushi!          | Recording  | \-             | May 26, 2026    |
 | Fantasy ga Hajimaru          | Recording  | \-             | June 05, 2026   |
-| Horror Queen                 | Recording  | \-             | June 28, 2026   |
-| Mappira da Tteba!            | Recording  | \-             | June 22, 2026   |
 | More! Mi Amore! (Solo)       | Recording  | \-             | June 05, 2026   |
 | Otomodachi                   | Recording  | \-             | June 08, 2026   |
 | Prince Night                 | Recording  | \-             | June 09, 2026   |
+| Mappira da Tteba!            | Recording  | \-             | June 22, 2026   |
+| Horror Queen                 | Recording  | \-             | June 28, 2026   |
 | Wake-up Call ~Mezameru Toki~ | Recording  | \-             | June 29, 2026   |
-| First Kiss                   | Timing     | June 03, 2026  | June 29, 2026   |
-| HEAVY GATE                   | Timing     | June 04, 2026  | June 26, 2026   |
-| Kataomoi                     | Timing     | May 21, 2026   | June 06, 2026   |
 | MELODIES                     | Timing     | April 27, 2026 | April 27, 2026  |
+| Kataomoi                     | Timing     | May 21, 2026   | June 06, 2026   |
+| HEAVY GATE                   | Timing     | June 04, 2026  | June 26, 2026   |
+| First Kiss                   | Timing     | June 03, 2026  | June 29, 2026   |
 | Massara Blue Jeans           | Timing     | \-             | June 30, 2026   |
 | FireWorks                    | Tuning     | May 25, 2026   | June 30, 2026   |
 
@@ -85,7 +85,7 @@
 | Moshi mo...                              | June 05, 2026     | June 05, 2026     | \-                                      |
 | Naimono Love                             | April 19, 2026    | April 19, 2026    | \-                                      |
 | Onna no Aiso wa Buki ja nai              | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                |
-| SaiKIYOU                                 | April 27, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                |
+| SaiKIYOU                                 | March 19, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                |
 | Seishun Collection                       | March 20, 2026    | March 20, 2026    | \-                                      |
 | Seishun Night                            | May 21, 2026      | May 21, 2026      | \-                                      |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 26, 2026      | May 26, 2026      | \-                                      |
