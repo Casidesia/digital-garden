@@ -69,9 +69,9 @@
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
 | ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
 | Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
@@ -107,8 +107,8 @@
 | Defying Gravity                          | Wicked                            | English                             |
 | Idol                                     | YOASOBI                           | \-                                  |
 | Kaibutsu                                 | YOASOBI                           | \-                                  |
-| UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
 | Tabun                                    | YOASOBI                           | \-                                  |
+| UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |
 | Fake-Perfect                             | yousti                            | \-                                  |
 | めぐれ                                      | 葉音                                | \-                                  |
