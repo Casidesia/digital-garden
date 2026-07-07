@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-07T13:37:20.541-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-07T13:39:34.678-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -56,7 +56,7 @@
 { .block-language-dataview}
 
 ## Part Done
-| Song                                     | recordingDate     | Part Done Date    | Staff Roles                             |
+| Song                                     | Rec Date          | Part Done Date    | Staff Roles                             |
 | ---------------------------------------- | ----------------- | ----------------- | --------------------------------------- |
 | A song                                   | June 06, 2026     | June 06, 2026     | \-                                      |
 | Aisaretai no ni                          | April 09, 2026    | April 09, 2026    | \-                                      |
