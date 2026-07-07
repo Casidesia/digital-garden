@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-14T08:24:07.593-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/home/","hide":"true","tags":["gardenEntry"],"updated":"2026-06-16T20:58:36.367-04:00","dg-note-properties":{}}
 ---
 
 ## About this Site
@@ -16,6 +16,7 @@ I am a permanent member of:
 - [[Covers/Cover Groups/Kanzen Pro\|Kanzen Pro]], 4th gen
 - [[Covers/Cover Groups/Kirameki Factory\|Kirameki Factory]], 2nd Gen
 - [[Covers/Cover Groups/Echeveria\|Echeveria]]
+- [[Covers/DIACOLORS\|DIACOLORS]], where I cover [[Covers/Singers/HP/Kasahara Momona\|Kasahara Momona]]'s lines
 
 As well as the host of [[Covers/Cover Groups/Project Yume\|Project Yume]], a fluid group that is mainly based in auditions per song 
 
