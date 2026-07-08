@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-07T22:24:46.446-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-08T16:08:14.034-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -54,45 +54,45 @@
 { .block-language-dataview}
 
 ## Part Done
-| Song                                     | Rec Date          | Part Done Date    | Staff Roles                             |
-| ---------------------------------------- | ----------------- | ----------------- | --------------------------------------- |
-| Bot Bakka                                | January 16, 2026  | January 16, 2026  | \-                                      |
-| Fukyouwaon                               | February 18, 2026 | February 18, 2026 | \-                                      |
-| Go Girl Koi no Victory                   | March 19, 2026    | March 19, 2026    | \-                                      |
-| Seishun Collection                       | March 20, 2026    | March 20, 2026    | \-                                      |
-| Onna no Aiso wa Buki ja nai              | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                |
-| Aisaretai no ni                          | April 09, 2026    | April 09, 2026    | \-                                      |
-| Blah Blah Blah                           | April 16, 2026    | April 16, 2026    | \-                                      |
-| Kaigan Seisou Danshi                     | April 13, 2026    | April 16, 2026    | \-                                      |
-| Naimono Love                             | April 19, 2026    | April 19, 2026    | \-                                      |
-| Toki wo Koe Sora wo Koe                  | April 26, 2026    | April 23, 2026    | \-                                      |
-| SaiKIYOU                                 | March 19, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                |
-| Teka no Happy                            | April 28, 2026    | April 28, 2026    | \-                                      |
-| Haru no Uta                              | April 29, 2026    | April 29, 2026    | \-                                      |
-| Maji desu ka Ska!                        | May 05, 2026      | May 05, 2026      | \-                                      |
-| Tokyo Blur                               | June 07, 2025     | May 06, 2026      | <ul><li>Timing</li></ul>                |
-| Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026      | May 08, 2026      | \-                                      |
-| Hooke no Housoku                         | May 09, 2026      | May 09, 2026      | \-                                      |
-| Zenzen Okiagarenai SUNDAY                | May 09, 2026      | May 09, 2026      | \-                                      |
-| Baisekou Daiseikou!                      | May 11, 2026      | May 11, 2026      | \-                                      |
-| Fiesta! Fiesta!                          | May 13, 2026      | May 12, 2026      | \-                                      |
-| Kanashimi Twilight                       | May 21, 2026      | May 21, 2026      | \-                                      |
-| I Need You ~Yozora no Kanransha~         | May 21, 2026      | May 21, 2026      | \-                                      |
-| Seishun Night                            | May 21, 2026      | May 21, 2026      | \-                                      |
-| Chance of LOVE                           | May 26, 2026      | May 26, 2026      | \-                                      |
-| SEXY BOY ~Soyokaze ni Yorisotte~         | May 26, 2026      | May 26, 2026      | \-                                      |
-| Happy Birthday to Me                     | May 29, 2026      | May 29, 2026      | \-                                      |
-| Jun'ai Crusher                           | May 31, 2026      | May 31, 2026      | \-                                      |
-| Itoshima Distance                        | June 03, 2026     | June 03, 2026     | \-                                      |
-| Wakatteiru no ni Gomen ne                | June 03, 2026     | June 03, 2026     | \-                                      |
-| Goal ~Ashita wa Acchi Da Yo~             | June 05, 2026     | June 05, 2026     | <ul><li>Tuning</li><li>Timing</li></ul> |
-| Moshi mo...                              | June 05, 2026     | June 05, 2026     | \-                                      |
-| A song                                   | June 06, 2026     | June 06, 2026     | \-                                      |
-| Koi wa Magnet                            | June 06, 2026     | June 06, 2026     | \-                                      |
-| WOLF BOY                                 | June 08, 2026     | June 08, 2026     | \-                                      |
-| BaBaBa Burning Love!                     | June 12, 2026     | June 12, 2026     | \-                                      |
-| Kimi wa Sparkle                          | June 16, 2026     | June 16, 2026     | \-                                      |
-| Hikari no Uta                            | July 06, 2026     | July 06, 2026     | \-                                      |
-| Tade Kuu Mushi mo Like It                | July 08, 2026     | July 08, 2026     | \-                                      |
+| Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                             |
+| ---------------------------------------- | ----------------- | ----------------- | ----------------- | --------------------------------------- |
+| Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                      |
+| Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                      |
+| Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                      |
+| Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                      |
+| Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                |
+| Aisaretai no ni                          | March 29, 2026    | April 09, 2026    | April 09, 2026    | \-                                      |
+| Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      |
+| Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                      |
+| Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                      |
+| Toki wo Koe Sora wo Koe                  | April 23, 2026    | April 26, 2026    | April 23, 2026    | \-                                      |
+| SaiKIYOU                                 | March 01, 2026    | March 19, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                |
+| Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                      |
+| Haru no Uta                              | April 12, 2026    | April 29, 2026    | April 29, 2026    | \-                                      |
+| Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026      | May 05, 2026      | \-                                      |
+| Tokyo Blur                               | May 20, 2025      | June 07, 2025     | May 06, 2026      | <ul><li>Timing</li></ul>                |
+| Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026      | May 08, 2026      | May 08, 2026      | \-                                      |
+| Hooke no Housoku                         | May 07, 2026      | May 09, 2026      | May 09, 2026      | \-                                      |
+| Zenzen Okiagarenai SUNDAY                | March 24, 2026    | May 09, 2026      | May 09, 2026      | \-                                      |
+| Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                      |
+| Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                      |
+| Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                      |
+| I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      |
+| Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                      |
+| Chance of LOVE                           | April 12, 2026    | May 26, 2026      | May 26, 2026      | \-                                      |
+| SEXY BOY ~Soyokaze ni Yorisotte~         | May 08, 2026      | May 26, 2026      | May 26, 2026      | \-                                      |
+| Happy Birthday to Me                     | May 08, 2026      | May 29, 2026      | May 29, 2026      | \-                                      |
+| Jun'ai Crusher                           | May 02, 2026      | May 31, 2026      | May 31, 2026      | \-                                      |
+| Itoshima Distance                        | May 15, 2026      | June 03, 2026     | June 03, 2026     | \-                                      |
+| Wakatteiru no ni Gomen ne                | May 11, 2026      | June 03, 2026     | June 03, 2026     | \-                                      |
+| Goal ~Ashita wa Acchi Da Yo~             | May 28, 2026      | June 05, 2026     | June 05, 2026     | <ul><li>Tuning</li><li>Timing</li></ul> |
+| Moshi mo...                              | June 02, 2026     | June 05, 2026     | June 05, 2026     | \-                                      |
+| A song                                   | June 05, 2026     | June 06, 2026     | June 06, 2026     | \-                                      |
+| Koi wa Magnet                            | May 07, 2026      | June 06, 2026     | June 06, 2026     | \-                                      |
+| WOLF BOY                                 | May 29, 2026      | June 08, 2026     | June 08, 2026     | \-                                      |
+| BaBaBa Burning Love!                     | June 11, 2026     | June 12, 2026     | June 12, 2026     | \-                                      |
+| Kimi wa Sparkle                          | June 15, 2026     | June 16, 2026     | June 16, 2026     | \-                                      |
+| Hikari no Uta                            | June 28, 2026     | July 06, 2026     | July 06, 2026     | \-                                      |
+| Tade Kuu Mushi mo Like It                | July 04, 2026     | July 08, 2026     | July 08, 2026     | \-                                      |
 
 { .block-language-dataview}
