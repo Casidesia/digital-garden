@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/get-up-yttb/","updated":"2026-05-22T13:15:53.430-04:00","dg-note-properties":{"coverType":"Collab","noteType":"[[Cover]]","status":"done","coverRoles":null,"soloLines":"Harmony","category":"cover","dateModified":"2026-04-21T11:39:35.395-04:00","completedDate":"2026-04-21","musician":"NewJeans","coverLink":"https://youtu.be/2dsmx-sci28","releaseDate":"2025-04-29"}}
+{"dg-publish":true,"permalink":"/covers/published/get-up-yttb/","updated":"2026-07-08T16:04:55.182-04:00","dg-note-properties":{"coverType":"Collab","noteType":"[[Cover]]","status":"done","coverRoles":null,"soloLines":"Harmony","category":"cover","dateModified":"2026-04-21T11:39:35.395-04:00","musician":"NewJeans","coverLink":"https://youtu.be/2dsmx-sci28","releaseDate":"2025-04-29"}}
 ---
 
 Release Date: Apr 29, 2025

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/prison-breaker/","updated":"2026-06-15T15:35:51.052-04:00","dg-note-properties":{"coverType":"Collab","musician":"[[ANGERME]]","soloLines":["[[Nagano Momoha]]"],"status":"done","coverRoles":null,"discordServer":"Erika's Dub","noteType":"[[Cover]]","assigned":"2026-04-19","due":"2026-06-05","completedDate":null,"coverLink":null,"category":"cover","Due":"2026-06-01","dateModified":"2026-04-21T11:59:47.570-04:00","Custom":"no","published":"2026-06-15","share_link":null,"releaseDate":"2026-06-15"}}
+{"dg-publish":true,"permalink":"/covers/published/prison-breaker/","updated":"2026-07-08T16:04:55.433-04:00","dg-note-properties":{"coverType":"Collab","musician":"[[ANGERME]]","soloLines":["[[Nagano Momoha]]"],"status":"done","coverRoles":null,"discordServer":"Erika's Dub","noteType":"[[Cover]]","assigned":"2026-04-19","due":"2026-06-05","coverLink":null,"category":"cover","Due":"2026-06-01","dateModified":"2026-04-21T11:59:47.570-04:00","Custom":"no","published":"2026-06-15","share_link":null,"releaseDate":"2026-06-15"}}
 ---
 
 Original Artist: ANGERME

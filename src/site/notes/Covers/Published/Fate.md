@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/fate/","tags":["archived"],"updated":"2026-05-22T14:26:07.414-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"[[Covers/Covered Artists/Nana Mizuki\|Nana Mizuki]]","coverRoles":["Video"],"soloLines":"Main","category":"cover","dateModified":"2026-04-21T11:46:09.889-04:00","completedDate":"2023-10-16","tags":["archived"],"coverLink":"https://youtu.be/pHohXWSVDug","releaseDate":"2023-10-16"}}
+{"dg-publish":true,"permalink":"/covers/published/fate/","tags":["archived"],"updated":"2026-07-08T16:04:55.131-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"[[Covers/Covered Artists/Nana Mizuki\|Nana Mizuki]]","coverRoles":["Video"],"soloLines":"Main","category":"cover","dateModified":"2026-04-21T11:46:09.889-04:00","tags":["archived"],"coverLink":"https://youtu.be/pHohXWSVDug","releaseDate":"2023-10-16"}}
 ---
 
 Original Artist: [[Covers/Covered Artists/Nana Mizuki\|Nana Mizuki]]

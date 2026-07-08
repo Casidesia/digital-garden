@@ -10,12 +10,11 @@
 | Wakattenai Janai                 | May 23, 2026  | \-                |
 | Donkey Gongs                     | June 02, 2026 | \-                |
 | Dantotsu de Aishite              | June 19, 2026 | August 31, 2026   |
-| Lonely but not Alone             | June 28, 2026 | \-                |
 | Atto Odoroku Mirai ga Yattekuru! | June 28, 2026 | October 01, 2026  |
-| YL                               | July 02, 2026 | November 05, 2026 |
+| Lonely but not Alone             | June 28, 2026 | \-                |
 | Do-Did-Done                      | July 02, 2026 | October 20, 2026  |
+| YL                               | July 02, 2026 | November 05, 2026 |
 | Oyogenai Mermaid                 | July 04, 2026 | \-                |
-| Tade Kuu Mushi mo Like It        | July 04, 2026 | \-                |
 
 { .block-language-dataview}
 ## Waiting
@@ -63,8 +62,8 @@
 | Seishun Collection                       | March 20, 2026    | March 20, 2026    | \-                                      |
 | Onna no Aiso wa Buki ja nai              | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                |
 | Aisaretai no ni                          | April 09, 2026    | April 09, 2026    | \-                                      |
-| Kaigan Seisou Danshi                     | April 13, 2026    | April 16, 2026    | \-                                      |
 | Blah Blah Blah                           | April 16, 2026    | April 16, 2026    | \-                                      |
+| Kaigan Seisou Danshi                     | April 13, 2026    | April 16, 2026    | \-                                      |
 | Naimono Love                             | April 19, 2026    | April 19, 2026    | \-                                      |
 | Toki wo Koe Sora wo Koe                  | April 26, 2026    | April 23, 2026    | \-                                      |
 | SaiKIYOU                                 | March 19, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                |
@@ -78,8 +77,8 @@
 | Baisekou Daiseikou!                      | May 11, 2026      | May 11, 2026      | \-                                      |
 | Fiesta! Fiesta!                          | May 13, 2026      | May 12, 2026      | \-                                      |
 | Kanashimi Twilight                       | May 21, 2026      | May 21, 2026      | \-                                      |
-| Seishun Night                            | May 21, 2026      | May 21, 2026      | \-                                      |
 | I Need You ~Yozora no Kanransha~         | May 21, 2026      | May 21, 2026      | \-                                      |
+| Seishun Night                            | May 21, 2026      | May 21, 2026      | \-                                      |
 | Chance of LOVE                           | May 26, 2026      | May 26, 2026      | \-                                      |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 26, 2026      | May 26, 2026      | \-                                      |
 | Happy Birthday to Me                     | May 29, 2026      | May 29, 2026      | \-                                      |
@@ -94,5 +93,6 @@
 | BaBaBa Burning Love!                     | June 12, 2026     | June 12, 2026     | \-                                      |
 | Kimi wa Sparkle                          | June 16, 2026     | June 16, 2026     | \-                                      |
 | Hikari no Uta                            | July 06, 2026     | July 06, 2026     | \-                                      |
+| Tade Kuu Mushi mo Like It                | July 08, 2026     | July 08, 2026     | \-                                      |
 
 { .block-language-dataview}
