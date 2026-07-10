@@ -24,7 +24,6 @@
 | Appare Kaitenzushi!    | Recording  | \-             | May 26, 2026    | Cover all the H!P  |
 | Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
 | More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
-| Otomodachi             | Recording  | \-             | June 08, 2026   | Project: Yume      |
 | Prince Night           | Recording  | \-             | June 09, 2026   | Faithy collabs~    |
 | MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
 | HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
@@ -33,19 +32,20 @@
 
 { .block-language-dataview}
 ## Waiting
-| Song                            | Waiting On | Date Assigned    | Rec Due          | Waiting Since    | Server             |
-| ------------------------------- | ---------- | ---------------- | ---------------- | ---------------- | ------------------ |
-| Hana ga Saku Taiyou Abite       | Recording  | October 20, 2025 | \-               | October 20, 2025 | KokoLand Collabs   |
-| Aki Urara                       | Recording  | March 02, 2026   | October 01, 2026 | May 05, 2026     | Historic Hello!Pro |
-| Nanchuu Koi wo Yatteru You Know | Recording  | March 17, 2026   | July 25, 2026    | March 27, 2026   | Historic Hello!Pro |
-| Tokimeku Tokimeke               | Recording  | May 05, 2026     | \-               | June 03, 2026    | Project: Yume      |
-| CHO DAI                         | Recording  | May 07, 2026     | \-               | June 04, 2026    | Project: Yume      |
-| Osaka Koi no Uta                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Kirameki Factory   |
-| Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Project: Yume      |
-| Uchoten LOVE                    | Recording  | May 27, 2026     | July 15, 2026    | June 16, 2026    | Faithy collabs~    |
-| Wonderful World                 | Timing     | March 09, 2026   | \-               | \-               | Project: Yume      |
-| FireWorks                       | Tuning     | March 26, 2026   | June 06, 2026    | June 30, 2026    | Project: Yume      |
-| Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-               | June 05, 2026    | Project: Yume      |
+| Song                            | Waiting On | Date Assigned    | Rec Due            | Waiting Since    | Server             |
+| ------------------------------- | ---------- | ---------------- | ------------------ | ---------------- | ------------------ |
+| Hana ga Saku Taiyou Abite       | Recording  | October 20, 2025 | \-                 | October 20, 2025 | KokoLand Collabs   |
+| Aki Urara                       | Recording  | March 02, 2026   | October 01, 2026   | May 05, 2026     | Historic Hello!Pro |
+| Nanchuu Koi wo Yatteru You Know | Recording  | March 17, 2026   | July 25, 2026      | March 27, 2026   | Historic Hello!Pro |
+| Tokimeku Tokimeke               | Recording  | May 05, 2026     | \-                 | June 03, 2026    | Project: Yume      |
+| CHO DAI                         | Recording  | May 07, 2026     | \-                 | June 04, 2026    | Project: Yume      |
+| Osaka Koi no Uta                | Recording  | May 07, 2026     | \-                 | June 12, 2026    | Kirameki Factory   |
+| Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-                 | June 12, 2026    | Project: Yume      |
+| Otomodachi                      | Recording  | May 25, 2026     | September 01, 2026 | July 10, 2026    | Project: Yume      |
+| Uchoten LOVE                    | Recording  | May 27, 2026     | July 15, 2026      | June 16, 2026    | Faithy collabs~    |
+| Wonderful World                 | Timing     | March 09, 2026   | \-                 | \-               | Project: Yume      |
+| FireWorks                       | Tuning     | March 26, 2026   | June 06, 2026      | June 30, 2026    | Project: Yume      |
+| Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-                 | June 05, 2026    | Project: Yume      |
 
 { .block-language-dataview}
 ## Part Done
