@@ -68,10 +68,10 @@
 | Kesenai Tsumi                            | Nana Kitade                       | \-                                  |
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
 | ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
-| GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
-| GUILTY                                   | Nana Mizuki                       | \-                                  |
+| GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
 | Fate (Redo)                              | Nana Mizuki                       | \-                                  |
+| GUILTY                                   | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
 | Kindan no Resistance                     | Nana Mizuki                       | \-                                  |

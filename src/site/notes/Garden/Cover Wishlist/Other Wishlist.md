@@ -44,8 +44,8 @@
 | More Kiss                            | Fairies                     | \-                                        |
 | No More Distance                     | Fairies                     | \-                                        |
 | Run with U                           | Fairies                     | \-                                        |
-| Synchronized                         | Fairies                     | \-                                        |
 | Tokimeku Tokyo                       | Fairies                     | \-                                        |
+| Synchronized                         | Fairies                     | \-                                        |
 | White Angel                          | Fairies                     | \-                                        |
 | Bad Things (English Ver.)            | FAKY                        | \-                                        |
 | Candy                                | FAKY                        | \-                                        |
@@ -64,14 +64,14 @@
 | BlackCandy                           | misolade-edison             | \-                                        |
 | Nippon Egao Hyakkei                  | Momoiro Clover Z            | \-                                        |
 | Sha La La La                         | ONEPIXCEL                   | \-                                        |
-| Zoku Zoku                            | Phantom Siita               | \-                                        |
 | Otomodachi                           | Phantom Siita               | \-                                        |
+| Zoku Zoku                            | Phantom Siita               | \-                                        |
 | etcetera                             | PINK CRES.                  | \-                                        |
 | fun fun fun                          | PINK CRES.                  | \-                                        |
 | kirei kawaii mirai                   | PINK CRES.                  | \-                                        |
 | love candy                           | PINK CRES.                  | \-                                        |
-| my name is identity                  | PINK CRES.                  | \-                                        |
 | katasumi                             | PINK CRES.                  | \-                                        |
+| my name is identity                  | PINK CRES.                  | \-                                        |
 | roulette                             | PINK CRES.                  | \-                                        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
