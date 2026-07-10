@@ -44,8 +44,8 @@
 | More Kiss                            | Fairies                     | \-                                        |
 | No More Distance                     | Fairies                     | \-                                        |
 | Run with U                           | Fairies                     | \-                                        |
-| Tokimeku Tokyo                       | Fairies                     | \-                                        |
 | Synchronized                         | Fairies                     | \-                                        |
+| Tokimeku Tokyo                       | Fairies                     | \-                                        |
 | White Angel                          | Fairies                     | \-                                        |
 | Bad Things (English Ver.)            | FAKY                        | \-                                        |
 | Candy                                | FAKY                        | \-                                        |

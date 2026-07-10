@@ -25,17 +25,17 @@
 | Nanchuu Koi wo Yatteru You Know | Recording  | March 17, 2026   | July 25, 2026    | March 27, 2026   | Historic Hello!Pro |
 | Tokimeku Tokimeke               | Recording  | May 05, 2026     | \-               | June 03, 2026    | Project: Yume      |
 | CHO DAI                         | Recording  | May 07, 2026     | \-               | June 04, 2026    | Project: Yume      |
-| Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Project: Yume      |
 | Osaka Koi no Uta                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Kirameki Factory   |
+| Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Project: Yume      |
 | Uchoten LOVE                    | Recording  | May 27, 2026     | July 15, 2026    | June 16, 2026    | Faithy collabs~    |
 | Wonderful World                 | Timing     | March 09, 2026   | \-               | \-               | Project: Yume      |
-| Neverending Shine               | Tuning     | March 04, 2026   | \-               | \-               | Project: Yume      |
 | Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-               | June 05, 2026    | Project: Yume      |
 
 { .block-language-dataview}
 ## In Progress
 | Song                   | Working On | Rec Date       | In My Lap Since | Server             |
 | ---------------------- | ---------- | -------------- | --------------- | ------------------ |
+| Neverending Shine      | Mixing     | June 04, 2026  | \-              | Project: Yume      |
 | Appare Kaitenzushi!    | Recording  | \-             | May 26, 2026    | Cover all the H!P  |
 | Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
 | More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
@@ -44,8 +44,8 @@
 | MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
 | Kataomoi               | Timing     | May 21, 2026   | June 06, 2026   | Kirameki Factory   |
 | HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
-| First Kiss             | Timing     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
 | Massara Blue Jeans     | Timing     | \-             | June 30, 2026   | Kirameki Factory   |
+| First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
 | FireWorks              | Tuning     | May 25, 2026   | June 30, 2026   | Project: Yume      |
 
 { .block-language-dataview}
@@ -73,9 +73,9 @@
 | Zenzen Okiagarenai SUNDAY                | March 24, 2026    | May 09, 2026      | May 09, 2026      | \-                                      | Historic Hello!Pro      |
 | Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                      | Historic Hello!Pro      |
 | Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                      | Historic Hello!Pro      |
-| Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Kirameki Factory        |
 | I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | KAORIJIMA               |
 | Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Lou's Lounge            |
+| Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Kirameki Factory        |
 | Chance of LOVE                           | April 12, 2026    | May 26, 2026      | May 26, 2026      | \-                                      | Cover all the H!P       |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 08, 2026      | May 26, 2026      | May 26, 2026      | \-                                      | Kirameki Factory        |
 | Happy Birthday to Me                     | May 08, 2026      | May 29, 2026      | May 29, 2026      | \-                                      | Kirameki Factory        |
@@ -91,8 +91,8 @@
 | Kimi wa Sparkle                          | June 15, 2026     | June 16, 2026     | June 16, 2026     | \-                                      | Faithy collabs~         |
 | Hikari no Uta                            | June 28, 2026     | July 06, 2026     | July 06, 2026     | \-                                      | Chorus Party            |
 | Tade Kuu Mushi mo Like It                | July 04, 2026     | July 08, 2026     | July 08, 2026     | \-                                      | DIACOLORS               |
+| Horror Queen                             | June 09, 2026     | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 | Mappira da Tteba!                        | June 08, 2026     | July 09, 2026     | July 09, 2026     | <ul><li>Timing</li></ul>                | Lou's Lounge            |
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
-| Horror Queen                             | June 09, 2026     | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 
 { .block-language-dataview}
