@@ -29,6 +29,7 @@
 | Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-               | June 12, 2026    | Project: Yume      |
 | Uchoten LOVE                    | Recording  | May 27, 2026     | July 15, 2026    | June 16, 2026    | Faithy collabs~    |
 | Wonderful World                 | Timing     | March 09, 2026   | \-               | \-               | Project: Yume      |
+| FireWorks                       | Tuning     | March 26, 2026   | June 06, 2026    | June 30, 2026    | Project: Yume      |
 | Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-               | June 05, 2026    | Project: Yume      |
 
 { .block-language-dataview}
@@ -46,7 +47,6 @@
 | HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
 | Massara Blue Jeans     | Timing     | \-             | June 30, 2026   | Kirameki Factory   |
 | First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
-| FireWorks              | Tuning     | May 25, 2026   | June 30, 2026   | Project: Yume      |
 
 { .block-language-dataview}
 
