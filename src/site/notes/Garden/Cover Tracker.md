@@ -43,7 +43,6 @@
 | Otomodachi             | Recording  | \-             | June 08, 2026   | Project: Yume      |
 | Prince Night           | Recording  | \-             | June 09, 2026   | Faithy collabs~    |
 | MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
-| Kataomoi               | Timing     | May 21, 2026   | June 06, 2026   | Kirameki Factory   |
 | HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
 | Massara Blue Jeans     | Timing     | \-             | June 30, 2026   | Kirameki Factory   |
 | First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
@@ -94,5 +93,6 @@
 | Horror Queen                             | June 09, 2026     | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 | Mappira da Tteba!                        | June 08, 2026     | July 09, 2026     | July 09, 2026     | <ul><li>Timing</li></ul>                | Lou's Lounge            |
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
+| Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                | Kirameki Factory        |
 
 { .block-language-dataview}
