@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-08T16:13:34.806-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-10T15:33:02.186-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -15,6 +15,21 @@
 | Do-Did-Done                      | July 02, 2026 | October 20, 2026  | Historic Hello!Pro |
 | YL                               | July 02, 2026 | November 05, 2026 | Secret             |
 | Oyogenai Mermaid                 | July 04, 2026 | \-                | DIACOLORS          |
+
+{ .block-language-dataview}
+## In Progress
+| Song                   | Working On | Rec Date       | In My Lap Since | Server             |
+| ---------------------- | ---------- | -------------- | --------------- | ------------------ |
+| Neverending Shine      | Mixing     | June 04, 2026  | \-              | Project: Yume      |
+| Appare Kaitenzushi!    | Recording  | \-             | May 26, 2026    | Cover all the H!P  |
+| Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
+| More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
+| Otomodachi             | Recording  | \-             | June 08, 2026   | Project: Yume      |
+| Prince Night           | Recording  | \-             | June 09, 2026   | Faithy collabs~    |
+| MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
+| HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
+| Massara Blue Jeans     | Timing     | \-             | June 30, 2026   | Kirameki Factory   |
+| First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
 
 { .block-language-dataview}
 ## Waiting
@@ -33,22 +48,6 @@
 | Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-               | June 05, 2026    | Project: Yume      |
 
 { .block-language-dataview}
-## In Progress
-| Song                   | Working On | Rec Date       | In My Lap Since | Server             |
-| ---------------------- | ---------- | -------------- | --------------- | ------------------ |
-| Neverending Shine      | Mixing     | June 04, 2026  | \-              | Project: Yume      |
-| Appare Kaitenzushi!    | Recording  | \-             | May 26, 2026    | Cover all the H!P  |
-| Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
-| More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
-| Otomodachi             | Recording  | \-             | June 08, 2026   | Project: Yume      |
-| Prince Night           | Recording  | \-             | June 09, 2026   | Faithy collabs~    |
-| MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
-| HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
-| Massara Blue Jeans     | Timing     | \-             | June 30, 2026   | Kirameki Factory   |
-| First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
-
-{ .block-language-dataview}
-
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                             | Server                  |
 | ---------------------------------------- | ----------------- | ----------------- | ----------------- | --------------------------------------- | ----------------------- |
