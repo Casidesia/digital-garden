@@ -12,7 +12,6 @@
 | Lonely but not Alone             | June 28, 2026 | \-                | Anaa's Studio      |
 | Do-Did-Done                      | July 02, 2026 | October 20, 2026  | Historic Hello!Pro |
 | YL                               | July 02, 2026 | November 05, 2026 | Secret             |
-| Oyogenai Mermaid                 | July 04, 2026 | \-                | DIACOLORS          |
 
 { .block-language-dataview}
 ## In Progress
@@ -92,5 +91,6 @@
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 | Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                | Kirameki Factory        |
 | Prince Night                             | June 02, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | Faithy collabs~         |
+| Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | DIACOLORS               |
 
 { .block-language-dataview}
