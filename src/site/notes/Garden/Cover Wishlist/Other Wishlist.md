@@ -32,8 +32,8 @@
 | Beautiful - 3onderboy remix          | BananaLemon                 | \-                                        |
 | Cutie Panther                        | BiBi                        | \-                                        |
 | JUMP                                 | BLACKPINK                   | \-                                        |
-| Téir Abhaile Riu                     | Celtic Women                | "English"                                 |
 | Tír na nÓg                           | Celtic Women                | "English"                                 |
+| Téir Abhaile Riu                     | Celtic Women                | "English"                                 |
 | Hands Up                             | Cherry Bullet               | Korean                                    |
 | Dynamic Ryukyu                       | Chuning Candy               | \-                                        |
 | summertime                           | cinnamons & evening cinema  | \-                                        |

@@ -67,12 +67,12 @@
 | Come                                     | Namie Amuro                       | \-                                  |
 | Kesenai Tsumi                            | Nana Kitade                       | \-                                  |
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
-| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
+| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
 | Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
 | POP MASTER                               | Nana Mizuki                       | \-                                  |
