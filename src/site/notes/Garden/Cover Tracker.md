@@ -49,7 +49,6 @@
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                             | Server                  |
 | ---------------------------------------- | ----------------- | ----------------- | ----------------- | --------------------------------------- | ----------------------- |
-| Prince Night                             | June 02, 2026     | July 12, 2026     | \-                | \-                                      | Faithy collabs~         |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                      | DMs                     |
 | Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                      | Faithy collabs~         |
 | Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                      | Historic Hello!Pro      |
@@ -92,5 +91,6 @@
 | Mappira da Tteba!                        | June 08, 2026     | July 09, 2026     | July 09, 2026     | <ul><li>Timing</li></ul>                | Lou's Lounge            |
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 | Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                | Kirameki Factory        |
+| Prince Night                             | June 02, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | Faithy collabs~         |
 
 { .block-language-dataview}
