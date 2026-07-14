@@ -28,5 +28,6 @@
 | [[Covers/Published/Prison Breaker\|Prison Breaker]]                           | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | \-                       | June 15, 2026  |
 | [[Covers/Published/Shochuu Omimai Moshiagemasu\|Shochuu Omimai Moshiagemasu]] | [[C-ute\|C-ute]]                                             | \-                       | June 19, 2026  |
 | [[Covers/Published/FAST PASS\|FAST PASS]]                                     | [[Covers/Covered Artists/ANGERME\|ANGERME]]               | <ul><li>Timing</li></ul> | June 28, 2026  |
+| [[Covers/Published/SaiKIYOU\|SaiKIYOU]]                                       | [[Covers/Covered Artists/Morning Musume\|Morning Musume]] | <ul><li>Timing</li></ul> | July 13, 2026  |
 
 { .block-language-dataview}

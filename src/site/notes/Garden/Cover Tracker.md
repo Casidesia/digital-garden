@@ -58,7 +58,6 @@
 | Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      | Historic Hello!Pro      |
 | Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                      | Chorus Party            |
 | Toki wo Koe Sora wo Koe                  | April 23, 2026    | April 26, 2026    | April 23, 2026    | \-                                      | Secret                  |
-| SaiKIYOU                                 | March 01, 2026    | March 19, 2026    | April 27, 2026    | <ul><li>Timing</li></ul>                | Historic Hello!Pro      |
 | Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                      | Historic Hello!Pro      |
 | Haru no Uta                              | April 12, 2026    | April 29, 2026    | April 29, 2026    | \-                                      | Cover all the H!P       |
 | Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026      | May 05, 2026      | \-                                      | Matcha Dub Club         |

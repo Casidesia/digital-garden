@@ -8,5 +8,6 @@
 | May 16, 2026      | [[Covers/Published/3,2,1 Breakin out\|3,2,1 Breakin out]]           |
 | May 21, 2026      | [[Covers/Published/Kura Sushi Bikkurapon!\|Kura Sushi Bikkurapon!]] |
 | June 13, 2026     | [[Covers/Published/Style of my Love\|Style of my Love]]             |
+| July 13, 2026     | [[Covers/Published/SaiKIYOU\|SaiKIYOU]]                             |
 
 { .block-language-dataview}
