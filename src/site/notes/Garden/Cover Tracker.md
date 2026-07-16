@@ -12,6 +12,9 @@
 | Atto Odoroku Mirai ga Yattekuru! | June 28, 2026 | October 01, 2026  | Historic Hello!Pro |
 | YL                               | July 02, 2026 | November 05, 2026 | Secret             |
 | Do-Did-Done                      | July 02, 2026 | October 20, 2026  | Historic Hello!Pro |
+| I Wish                           | July 15, 2026 | October 24, 2026  | Kirameki Factory   |
+| Oh my wish                       | July 15, 2026 | October 24, 2026  | Kirameki Factory   |
+| Robo Kiss                        | July 15, 2026 | October 31, 2026  | Project: Yume      |
 
 { .block-language-dataview}
 ## In Progress
