@@ -22,6 +22,7 @@
 | ---------------------- | ---------- | -------------- | --------------- | ------------------ |
 | Possible Solo 7-18     | \-         | \-             | \-              | Solo               |
 | Possible Solo 2, 7-18  | \-         | \-             | \-              | Solo               |
+| Possible Solo 7-19     | \-         | \-             | \-              | Solo               |
 | Neverending Shine      | Mixing     | June 04, 2026  | \-              | Project: Yume      |
 | FireWorks              | Mixing     | May 25, 2026   | June 30, 2026   | Project: Yume      |
 | Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
