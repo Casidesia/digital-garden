@@ -16,7 +16,7 @@ I am a permanent member of:
 - [[Covers/Cover Groups/Kanzen Pro\|Kanzen Pro]], 4th gen
 - [[Covers/Cover Groups/Kirameki Factory\|Kirameki Factory]], 2nd Gen
 - [[Covers/Cover Groups/Echeveria\|Echeveria]]
-- [[Covers/DIACOLORS\|DIACOLORS]], where I cover [[Covers/Singers/HP/Kasahara Momona\|Kasahara Momona]]'s lines
+- [[Covers/Cover Groups/DIACOLORS\|DIACOLORS]], where I cover [[Covers/Singers/HP/Kasahara Momona\|Kasahara Momona]]'s lines
 
 As well as the host of [[Covers/Cover Groups/Project Yume\|Project Yume]], a fluid group that is mainly based in auditions per song 
 
