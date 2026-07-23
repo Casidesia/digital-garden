@@ -27,7 +27,6 @@
 | Possible Solo 2, 7-18  | \-         | \-             | \-              | Solo               |
 | Possible Solo 7-18     | \-         | \-             | \-              | Solo               |
 | Possible Solo 7-19     | \-         | \-             | \-              | Solo               |
-| FireWorks              | Mixing     | May 25, 2026   | June 30, 2026   | Project: Yume      |
 | More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
 | Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
 | MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
