@@ -71,11 +71,10 @@
 | Tokyo Blur                               | May 20, 2025      | June 07, 2025     | May 06, 2026      | <ul><li>Timing</li></ul>                    | Kazen Pro               |
 | Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026      | May 08, 2026      | May 08, 2026      | \-                                          | Kirameki Factory        |
 | Hooke no Housoku                         | May 07, 2026      | May 09, 2026      | May 09, 2026      | \-                                          | Bunny's Collab          |
-| Zenzen Okiagarenai SUNDAY                | March 24, 2026    | May 09, 2026      | May 09, 2026      | \-                                          | Historic Hello!Pro      |
 | Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                          | Historic Hello!Pro      |
 | Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                          | Historic Hello!Pro      |
-| Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | Kirameki Factory        |
 | I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | KAORIJIMA               |
+| Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | Kirameki Factory        |
 | Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | Lou's Lounge            |
 | Chance of LOVE                           | April 12, 2026    | May 26, 2026      | May 26, 2026      | \-                                          | Cover all the H!P       |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 08, 2026      | May 26, 2026      | May 26, 2026      | \-                                          | Kirameki Factory        |
@@ -96,8 +95,8 @@
 | Mappira da Tteba!                        | June 08, 2026     | July 09, 2026     | July 09, 2026     | <ul><li>Timing</li></ul>                    | Lou's Lounge            |
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                          | Faithy collabs~         |
 | Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                    | Kirameki Factory        |
-| Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                          | DIACOLORS               |
 | Prince Night                             | June 02, 2026     | July 12, 2026     | July 12, 2026     | \-                                          | Faithy collabs~         |
+| Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                          | DIACOLORS               |
 | Atto Odoroku Mirai ga Yattekuru!         | June 28, 2026     | July 19, 2026     | July 19, 2026     | \-                                          | Historic Hello!Pro      |
 | Massara Blue Jeans                       | June 30, 2026     | \-                | July 20, 2026     | <ul><li>Timing</li><li>Staff Only</li></ul> | Kirameki Factory        |
 | Neverending Shine                        | March 04, 2026    | June 04, 2026     | July 21, 2026     | <ul><li>Mixing</li></ul>                    | Project: Yume           |

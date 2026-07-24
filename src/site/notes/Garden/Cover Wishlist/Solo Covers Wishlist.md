@@ -70,8 +70,8 @@
 | ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
 | Kindan no Resistance                     | Nana Mizuki                       | \-                                  |
@@ -105,8 +105,8 @@
 | Kagayaite Kagayaite -My dream goes on-   | Tamura Meimi                      | \-                                  |
 | Romance                                  | Tamura Meimi                      | \-                                  |
 | Defying Gravity                          | Wicked                            | English                             |
-| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Idol                                     | YOASOBI                           | \-                                  |
+| Kaibutsu                                 | YOASOBI                           | \-                                  |
 | Tabun                                    | YOASOBI                           | \-                                  |
 | UNDEAD (English ver.)                    | YOASOBI                           | \-                                  |
 | NANIWAROTONNENN                          | Yoshino                           | Kansai-ben                          |
