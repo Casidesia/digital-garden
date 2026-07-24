@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/covered-artists/tsubaki-factory/","updated":"2026-07-23T19:49:55.269-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/covered-artists/tsubaki-factory/","updated":"2026-07-23T16:09:47.642-04:00","dg-note-properties":{}}
 ---
 
 | releaseDate   | Song                                         |
