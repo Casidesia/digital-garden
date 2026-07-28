@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/style-of-my-love/","title":"Style of my Love","tags":["timing"],"updated":"2026-06-16T20:58:29.821-04:00","dg-note-properties":{"musician":"[[Morning Musume]]","coverType":"Collab","status":"done","coverRoles":["Timing"],"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","assigned":"2026-03-22","due":"2026-05-20","soloLines":"[[Iikubo Haruna]]","category":"cover","tags":["timing"],"priority":"low","dateModified":"2026-04-28T16:29:28.454-04:00","title":"Style of my Love","tasknotes_manual_order":"0|hzzzzz:","Custom":"no","releaseDate":"2026-06-13"}}
+{"dg-publish":true,"permalink":"/covers/published/style-of-my-love/","title":"Style of my Love","tags":["timing"],"updated":"2026-06-13T19:43:06.178-04:00","dg-note-properties":{"musician":"[[Morning Musume]]","coverType":"Collab","status":"done","coverRoles":["Timing"],"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","assigned":"2026-03-22","due":"2026-05-20","soloLines":"[[Iikubo Haruna]]","category":"cover","tags":["timing"],"priority":"low","dateModified":"2026-04-28T16:29:28.454-04:00","title":"Style of my Love","tasknotes_manual_order":"0|hzzzzz:","Custom":"no","releaseDate":"2026-06-13"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/zenzen-okiagarenai-sunday/","updated":"2026-07-24T15:58:32.176-04:00","dg-note-properties":{"musician":"[[ANGERME]]","coverType":"Collab","status":"done","coverRoles":null,"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","assigned":"2026-03-24","due":"2026-06-05","soloLines":"[[Takeuchi Akari]]","category":"cover","dateModified":"2026-04-21T11:40:42.713-04:00","tasknotes_manual_order":"0|hzzzzz:","Custom":"no","lastChangeDate":"2026-05-09","recordingDate":"2026-05-09","partDoneDate":"2026-05-09","releaseDate":"2026-07-24"}}
+{"dg-publish":true,"permalink":"/covers/published/zenzen-okiagarenai-sunday/","updated":"2026-07-25T23:34:30.004-04:00","dg-note-properties":{"musician":"[[ANGERME]]","coverType":"Collab","status":"done","coverRoles":null,"discordServer":"Historic Hello!Pro","noteType":"[[Cover]]","assigned":"2026-03-24","due":"2026-06-05","soloLines":"[[Takeuchi Akari]]","category":"cover","dateModified":"2026-04-21T11:40:42.713-04:00","tasknotes_manual_order":"0|hzzzzz:","Custom":"no","lastChangeDate":"2026-05-09","recordingDate":"2026-05-09","partDoneDate":"2026-05-09","releaseDate":"2026-07-24"}}
 ---
 
 Original Artist: ANGERME
