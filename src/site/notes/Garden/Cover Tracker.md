@@ -15,7 +15,6 @@
 | Robo Kiss            | July 15, 2026 | October 31, 2026  | Project: Yume           |
 | Oh my wish           | July 15, 2026 | October 24, 2026  | Kirameki Factory        |
 | Come with me         | July 17, 2026 | \-                | My-chan's Karaoke Party |
-| Nanakorobi Yaoki     | July 22, 2026 | August 31, 2026   | Kirameki Factory        |
 | HANAGATAMI           | July 23, 2026 | November 21, 2026 | \-                      |
 | Samui ne             | July 23, 2026 | December 19, 2026 | \-                      |
 | Teion Yakedo         | July 23, 2026 | January 09, 2027  | \-                      |
@@ -104,5 +103,6 @@
 | Atto Odoroku Mirai ga Yattekuru!         | June 28, 2026     | July 19, 2026     | July 19, 2026     | \-                                          | Historic Hello!Pro      |
 | Massara Blue Jeans                       | June 30, 2026     | \-                | July 20, 2026     | <ul><li>Timing</li><li>Staff Only</li></ul> | Kirameki Factory        |
 | Neverending Shine                        | March 04, 2026    | June 04, 2026     | July 21, 2026     | <ul><li>Mixing</li></ul>                    | Project: Yume           |
+| Nanakorobi Yaoki                         | July 22, 2026     | July 29, 2026     | July 29, 2026     | \-                                          | Kirameki Factory        |
 
 { .block-language-dataview}
