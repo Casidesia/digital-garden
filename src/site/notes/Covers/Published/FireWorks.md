@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/fire-works/","updated":"2026-07-23T16:08:42.370-04:00","dg-note-properties":{"status":"done","discordServer":"Project: Yume","musician":"[[Tsubaki Factory]]","coverType":"Collab","coverRoles":["Timing","Mixing"],"noteType":"[[Cover]]","assigned":"2026-03-26","due":"2026-06-06","soloLines":"[[Fukuda Marine]]","category":"cover","Custom":"no","statusInfo":"Mixing","lastChangeDate":"2026-06-30","recordingDate":"2026-05-25","partFinishedDate":"2026-07-10","releaseDate":"2026-07-23"}}
+{"dg-publish":true,"permalink":"/covers/published/fire-works/","updated":"2026-07-23T19:49:54.977-04:00","dg-note-properties":{"status":"done","discordServer":"Project: Yume","musician":"[[Covers/Covered Artists/Tsubaki Factory]]","coverType":"Collab","coverRoles":["Timing","Mixing"],"noteType":"[[Cover]]","assigned":"2026-03-26","due":"2026-06-06","soloLines":"[[Covers/Singers/HP/Fukuda Marine]]","category":"cover","Custom":"no","statusInfo":"Mixing","lastChangeDate":"2026-06-30","recordingDate":"2026-05-25","partFinishedDate":"2026-07-10","releaseDate":"2026-07-23"}}
 ---
 
 

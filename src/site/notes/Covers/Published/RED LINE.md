@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/red-line/","title":"Red Line","tags":["archived"],"updated":"2026-07-08T16:12:38.659-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"[[ANGERME]]","coverRoles":["Video"],"soloLines":"Solo","category":"cover","title":"Red Line","priority":"normal","dateModified":"2026-04-21T11:46:10.048-04:00","tags":["archived"],"coverLink":"https://youtu.be/N7fq7JxySSI","releaseDate":"2024-12-24","discordServer":"Solo"}}
+{"dg-publish":true,"permalink":"/covers/published/red-line/","title":"Red Line","tags":["archived"],"updated":"2026-07-08T16:12:38.659-04:00","dg-note-properties":{"status":"done","coverType":"Solo","noteType":"[[Cover]]","musician":"[[Covers/Covered Artists/ANGERME]]","coverRoles":["Video"],"soloLines":"Solo","category":"cover","title":"Red Line","priority":"normal","dateModified":"2026-04-21T11:46:10.048-04:00","tags":["archived"],"coverLink":"https://youtu.be/N7fq7JxySSI","releaseDate":"2024-12-24","discordServer":"Solo"}}
 ---
 
 Release Date: December 1, 2024

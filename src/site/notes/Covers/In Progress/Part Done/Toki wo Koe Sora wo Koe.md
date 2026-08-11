@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/in-progress/part-done/toki-wo-koe-sora-wo-koe/","updated":"2026-07-17T21:36:14.218-04:00","dg-note-properties":{"musician":"[[Covers/Covered Artists/Morning Musume\|Morning Musume]]","due":"2026-05-20","status":"part-done","assigned":"2026-04-23","soloLines":["Created Solo"],"coverRoles":null,"discordServer":"Secret","noteType":"[[Cover]]","published":null,"coverLink":null,"coverType":"Collab","category":"cover","priority":"none","taskSourceType":"taskNotes","Custom":"yes","lastChangeDate":"2026-04-23","recordingDate":"2026-04-26","partDoneDate":"2026-04-23","releaseDate":"2026-07-17"}}
+{"dg-publish":true,"permalink":"/covers/in-progress/part-done/toki-wo-koe-sora-wo-koe/","updated":"2026-07-17T21:36:14.218-04:00","dg-note-properties":{"musician":"[[Covers/Covered Artists/Morning Musume]]","due":"2026-05-20","status":"part-done","assigned":"2026-04-23","soloLines":["Created Solo"],"coverRoles":null,"discordServer":"Secret","noteType":"[[Cover]]","published":null,"coverLink":null,"coverType":"Collab","category":"cover","priority":"none","taskSourceType":"taskNotes","Custom":"yes","lastChangeDate":"2026-04-23","recordingDate":"2026-04-26","partDoneDate":"2026-04-23","releaseDate":"2026-07-17"}}
 ---
 
 Original Artist: [[Covers/Covered Artists/Morning Musume\|Morning Musume]]
