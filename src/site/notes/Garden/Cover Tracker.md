@@ -110,5 +110,6 @@
 | Oh my wish                               | July 15, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Kirameki Factory        |
 | Samui ne                                 | July 23, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Bye! Project            |
 | Kono Machi                               | August 01, 2026   | August 09, 2026   | August 09, 2026   | \-                                          | Cover all the H!P       |
+| Nakidasu Kamo Shirenai yo                | May 07, 2026      | August 12, 2026   | August 12, 2026   | <ul><li>Timing</li></ul>                    | Project: Yume           |
 
 { .block-language-dataview}
