@@ -5,7 +5,6 @@
 ## To Record
 | Song                       | Date Assigned   | Rec Due            | Server                  |
 | -------------------------- | --------------- | ------------------ | ----------------------- |
-| UBU to ZURU                | \-              | September 27, 2026 | Matcha Dub Club         |
 | Kingdom Come               | May 02, 2026    | \-                 | Kirameki Factory        |
 | Donkey Gongs               | June 02, 2026   | \-                 | Faithy collabs~         |
 | Dantotsu de Aishite        | June 19, 2026   | August 31, 2026    | Project: Yume           |
@@ -24,6 +23,7 @@
 | MY DAYS FOR YOU            | August 01, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Heroine ni Narou Ka        | August 02, 2026 | December 01, 2026  | Project: Yume           |
 | Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Bye! Project            |
+| UBU to ZURU                | August 05, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Ai no Tane                 | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Bye! Project            |
