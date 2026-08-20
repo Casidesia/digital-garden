@@ -24,6 +24,9 @@
 | MY DAYS FOR YOU            | August 01, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Heroine ni Narou Ka        | August 02, 2026 | December 01, 2026  | Project: Yume           |
 | Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Bye! Project            |
+| Ai no Tane                 | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
+| Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
+| Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Bye! Project            |
 
 { .block-language-dataview}
 ## In Progress
