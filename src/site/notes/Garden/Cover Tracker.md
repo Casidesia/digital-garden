@@ -25,8 +25,9 @@
 | Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Bye! Project            |
 | UBU to ZURU                | August 05, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Ai no Tane                 | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
-| Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Bye! Project            |
+| Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
+| Yes ka No ka Watashi ka    | August 23, 2026 | October 15, 2026   | Yesterday's Musume      |
 
 { .block-language-dataview}
 ## In Progress
