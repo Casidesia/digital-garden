@@ -9,7 +9,7 @@
 | Donkey Gongs               | June 02, 2026   | October 31, 2026   | Faithy collabs~         |
 | Dantotsu de Aishite        | June 19, 2026   | August 31, 2026    | Project: Yume           |
 | Lonely but not Alone       | June 28, 2026   | \-                 | Anaa's Studio           |
-| Do-Did-Done                | July 02, 2026   | October 20, 2026   | Historic Hello!Pro      |
+| Do-Did-Done                | July 02, 2026   | October 20, 2026   | Yesterday's Musume      |
 | I Wish                     | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
 | Come with me               | July 17, 2026   | \-                 | My-chan's Karaoke Party |
 | HANAGATAMI                 | July 23, 2026   | November 21, 2026  | Bye! Project            |
@@ -32,7 +32,7 @@
 | ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ------------------ |
 | YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret             |
 | Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs   |
-| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Historic Hello!Pro |
+| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Yesterday's Musume |
 | Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
 | Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
 | Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
@@ -65,7 +65,7 @@
 | ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ------------------ |
 | YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret             |
 | Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs   |
-| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Historic Hello!Pro |
+| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Yesterday's Musume |
 | Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
 | Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
 | Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
@@ -74,26 +74,26 @@
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                                 | Server                  |
 | ---------------------------------------- | ----------------- | ----------------- | ----------------- | ------------------------------------------- | ----------------------- |
-| Nanchuu Koi wo Yatteru You Know          | March 17, 2026    | March 27, 2026    | \-                | \-                                          | Historic Hello!Pro      |
-| MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                          | Historic Hello!Pro      |
+| Nanchuu Koi wo Yatteru You Know          | March 17, 2026    | March 27, 2026    | \-                | \-                                          | Yesterday's Musume      |
+| MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                          | Yesterday's Musume      |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                          | DMs                     |
 | Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                          | Faithy collabs~         |
-| Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                          | Historic Hello!Pro      |
-| Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                          | Historic Hello!Pro      |
+| Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                          | Yesterday's Musume      |
+| Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                          | Yesterday's Musume      |
 | Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                    | Bunny's Collab          |
 | Aisaretai no ni                          | March 29, 2026    | April 09, 2026    | April 09, 2026    | \-                                          | Lou's Lounge            |
-| Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                          | Historic Hello!Pro      |
-| Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                          | Historic Hello!Pro      |
+| Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                          | Yesterday's Musume      |
+| Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                          | Yesterday's Musume      |
 | Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                          | Chorus Party            |
 | Toki wo Koe Sora wo Koe                  | April 23, 2026    | April 26, 2026    | April 23, 2026    | \-                                          | Secret                  |
-| Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                          | Historic Hello!Pro      |
+| Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                          | Yesterday's Musume      |
 | Haru no Uta                              | April 12, 2026    | April 29, 2026    | April 29, 2026    | \-                                          | Cover all the H!P       |
 | Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026      | May 05, 2026      | \-                                          | Matcha Dub Club         |
 | Tokyo Blur                               | May 20, 2025      | June 07, 2025     | May 06, 2026      | <ul><li>Timing</li></ul>                    | Kazen Pro               |
 | Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026      | May 08, 2026      | May 08, 2026      | \-                                          | Kirameki Factory        |
 | Hooke no Housoku                         | May 07, 2026      | May 09, 2026      | May 09, 2026      | \-                                          | Bunny's Collab          |
-| Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                          | Historic Hello!Pro      |
-| Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                          | Historic Hello!Pro      |
+| Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                          | Yesterday's Musume      |
+| Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                          | Yesterday's Musume      |
 | Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | Kirameki Factory        |
 | Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | Lou's Lounge            |
 | I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                          | KAORIJIMA               |
@@ -118,7 +118,7 @@
 | Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                    | Kirameki Factory        |
 | Prince Night                             | June 02, 2026     | July 12, 2026     | July 12, 2026     | \-                                          | Faithy collabs~         |
 | Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                          | DIACOLORS               |
-| Atto Odoroku Mirai ga Yattekuru!         | June 28, 2026     | July 19, 2026     | July 19, 2026     | \-                                          | Historic Hello!Pro      |
+| Atto Odoroku Mirai ga Yattekuru!         | June 28, 2026     | July 19, 2026     | July 19, 2026     | \-                                          | Yesterday's Musume      |
 | Massara Blue Jeans                       | June 30, 2026     | \-                | July 20, 2026     | <ul><li>Timing</li><li>Staff Only</li></ul> | Kirameki Factory        |
 | Neverending Shine                        | March 04, 2026    | June 04, 2026     | July 21, 2026     | <ul><li>Mixing</li></ul>                    | Project: Yume           |
 | Nanakorobi Yaoki                         | July 22, 2026     | July 29, 2026     | July 29, 2026     | \-                                          | Kirameki Factory        |
