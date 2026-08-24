@@ -23,7 +23,6 @@
 | MY DAYS FOR YOU            | August 01, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Heroine ni Narou Ka        | August 02, 2026 | December 01, 2026  | Project: Yume           |
 | Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Bye! Project            |
-| UBU to ZURU                | August 05, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Ai no Tane                 | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Bye! Project            |
 | Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
@@ -115,5 +114,6 @@
 | Samui ne                                 | July 23, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Bye! Project            |
 | Kono Machi                               | August 01, 2026   | August 09, 2026   | August 09, 2026   | \-                                          | Cover all the H!P       |
 | Nakidasu Kamo Shirenai yo                | May 07, 2026      | August 12, 2026   | August 12, 2026   | <ul><li>Timing</li></ul>                    | Project: Yume           |
+| UBU to ZURU                              | August 05, 2026   | August 23, 2026   | August 23, 2026   | \-                                          | Matcha Dub Club         |
 
 { .block-language-dataview}
