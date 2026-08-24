@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-07-10T15:33:02.186-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-08-24T06:59:28.322-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
 | Song                       | Date Assigned   | Rec Due            | Server                  |
 | -------------------------- | --------------- | ------------------ | ----------------------- |
 | Kingdom Come               | May 02, 2026    | \-                 | Kirameki Factory        |
-| Donkey Gongs               | June 02, 2026   | \-                 | Faithy collabs~         |
+| Donkey Gongs               | June 02, 2026   | October 31, 2026   | Faithy collabs~         |
 | Dantotsu de Aishite        | June 19, 2026   | August 31, 2026    | Project: Yume           |
 | Lonely but not Alone       | June 28, 2026   | \-                 | Anaa's Studio           |
-| YL                         | July 02, 2026   | November 05, 2026  | Secret                  |
 | Do-Did-Done                | July 02, 2026   | October 20, 2026   | Historic Hello!Pro      |
 | I Wish                     | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
-| Robo Kiss                  | July 15, 2026   | October 31, 2026   | Project: Yume           |
 | Come with me               | July 17, 2026   | \-                 | My-chan's Karaoke Party |
 | HANAGATAMI                 | July 23, 2026   | November 21, 2026  | Bye! Project            |
 | Teion Yakedo               | July 23, 2026   | January 09, 2027   | Bye! Project            |
@@ -29,40 +27,55 @@
 | Yes ka No ka Watashi ka    | August 23, 2026 | October 15, 2026   | Yesterday's Musume      |
 
 { .block-language-dataview}
+## Waiting
+| Song                      | Waiting On | Date Assigned    | Rec Due           | Waiting Since    | Server             |
+| ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ------------------ |
+| YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret             |
+| Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs   |
+| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Historic Hello!Pro |
+| Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
+| Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
+| Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
+
+{ .block-language-dataview}
+## In Queue
+| Song                         | Working On | Rec Date      | In My Lap Since | Server            |
+| ---------------------------- | ---------- | ------------- | --------------- | ----------------- |
+| Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume     |
+| Tokimeku Tokimeke            | Timing     | June 03, 2026 | June 03, 2026   | Project: Yume     |
+| CHO DAI                      | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
+| Osaka Koi no Uta             | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
+| HEAVY GATE                   | Timing     | June 04, 2026 | June 26, 2026   | Cover all the H!P |
+| Otomodachi                   | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume     |
+| Resonant Blue                | Timing     | May 19, 2026  | July 12, 2026   | Project: Yume     |
+| First Kiss                   | Tuning     | June 03, 2026 | June 29, 2026   | Kirameki Factory  |
+| Wonderful World              | Video      | June 04, 2026 | \-              | Project: Yume     |
+
+{ .block-language-dataview}
 ## In Progress
-| Song                   | Working On | Rec Date       | In My Lap Since | Server             |
-| ---------------------- | ---------- | -------------- | --------------- | ------------------ |
-| Possible Solo 7-18     | \-         | \-             | \-              | Solo               |
-| Possible Solo 2, 7-18  | \-         | \-             | \-              | Solo               |
-| Possible Solo 7-19     | \-         | \-             | \-              | Solo               |
-| Fantasy ga Hajimaru    | Recording  | \-             | June 05, 2026   | Project: Yume      |
-| More! Mi Amore! (Solo) | Recording  | \-             | June 05, 2026   | Kirameki Factory   |
-| MELODIES               | Timing     | April 27, 2026 | April 27, 2026  | Historic Hello!Pro |
-| HEAVY GATE             | Timing     | June 04, 2026  | June 26, 2026   | Cover all the H!P  |
-| First Kiss             | Tuning     | June 03, 2026  | June 29, 2026   | Kirameki Factory   |
-| Wonderful World        | Video      | June 04, 2026  | \-              | Project: Yume      |
+| Song                   | Working On | Rec Date | In My Lap Since | Server           |
+| ---------------------- | ---------- | -------- | --------------- | ---------------- |
+| Robo Kiss              | Recording  | \-       | \-              | Project: Yume    |
+| Fantasy ga Hajimaru    | Recording  | \-       | June 05, 2026   | Project: Yume    |
+| More! Mi Amore! (Solo) | Recording  | \-       | June 05, 2026   | Kirameki Factory |
 
 { .block-language-dataview}
 ## Waiting
-| Song                            | Waiting On | Date Assigned    | Rec Due            | Waiting Since    | Server             |
-| ------------------------------- | ---------- | ---------------- | ------------------ | ---------------- | ------------------ |
-| Hana ga Saku Taiyou Abite       | Recording  | October 20, 2025 | \-                 | October 20, 2025 | KokoLand Collabs   |
-| Aki Urara                       | Recording  | March 02, 2026   | October 01, 2026   | May 05, 2026     | Historic Hello!Pro |
-| Nanchuu Koi wo Yatteru You Know | Recording  | March 17, 2026   | July 25, 2026      | March 27, 2026   | Historic Hello!Pro |
-| Tokimeku Tokimeke               | Recording  | May 05, 2026     | \-                 | June 03, 2026    | Project: Yume      |
-| CHO DAI                         | Recording  | May 07, 2026     | \-                 | June 04, 2026    | Project: Yume      |
-| Osaka Koi no Uta                | Recording  | May 07, 2026     | \-                 | June 12, 2026    | Kirameki Factory   |
-| Nanchatte Ren'ai                | Recording  | May 07, 2026     | \-                 | June 12, 2026    | Project: Yume      |
-| Resonant Blue                   | Recording  | May 08, 2026     | \-                 | July 12, 2026    | Project: Yume      |
-| Otomodachi                      | Recording  | May 25, 2026     | September 01, 2026 | July 10, 2026    | Project: Yume      |
-| Appare Kaitenzushi!             | Recording  | May 25, 2026     | \-                 | May 26, 2026     | Cover all the H!P  |
-| Uchoten LOVE                    | Recording  | May 27, 2026     | July 15, 2026      | June 16, 2026    | Faithy collabs~    |
-| Ai to Taiyou ni Tsutsumarete    | Tuning     | April 05, 2026   | \-                 | June 05, 2026    | Project: Yume      |
+| Song                      | Waiting On | Date Assigned    | Rec Due           | Waiting Since    | Server             |
+| ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ------------------ |
+| YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret             |
+| Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs   |
+| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Historic Hello!Pro |
+| Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
+| Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
+| Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
 
 { .block-language-dataview}
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                                 | Server                  |
 | ---------------------------------------- | ----------------- | ----------------- | ----------------- | ------------------------------------------- | ----------------------- |
+| Nanchuu Koi wo Yatteru You Know          | March 17, 2026    | March 27, 2026    | \-                | \-                                          | Historic Hello!Pro      |
+| MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                          | Historic Hello!Pro      |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                          | DMs                     |
 | Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                          | Faithy collabs~         |
 | Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                          | Historic Hello!Pro      |
