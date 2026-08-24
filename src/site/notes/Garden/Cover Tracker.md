@@ -12,17 +12,17 @@
 | Do-Did-Done                | July 02, 2026   | October 20, 2026   | Yesterday's Musume      |
 | I Wish                     | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
 | Come with me               | July 17, 2026   | \-                 | My-chan's Karaoke Party |
-| HANAGATAMI                 | July 23, 2026   | November 21, 2026  | Bye! Project            |
-| Teion Yakedo               | July 23, 2026   | January 09, 2027   | Bye! Project            |
+| HANAGATAMI                 | July 23, 2026   | November 21, 2026  | Yesterday's Musume      |
+| Teion Yakedo               | July 23, 2026   | January 09, 2027   | Yesterday's Musume      |
 | Gekikara LOVE              | July 25, 2026   | October 01, 2026   | Project: Yume           |
-| ONLY YOU                   | July 27, 2026   | \-                 | Bye! Project            |
-| Only You                   | July 27, 2026   | \-                 | Bye! Project            |
+| ONLY YOU                   | July 27, 2026   | \-                 | Yesterday's Musume      |
+| Only You                   | July 27, 2026   | \-                 | Yesterday's Musume      |
 | Ketsuron Kara Itte Choudai | July 30, 2026   | \-                 | My-chan's Karaoke Party |
 | MY DAYS FOR YOU            | August 01, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Heroine ni Narou Ka        | August 02, 2026 | December 01, 2026  | Project: Yume           |
-| Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Bye! Project            |
+| Beat no Wakusei            | August 03, 2026 | September 15, 2026 | Yesterday's Musume      |
 | Ai no Tane                 | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
-| Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Bye! Project            |
+| Ki ni Naru                 | August 19, 2026 | December 16, 2026  | Yesterday's Musume      |
 | Morning Coffee             | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Yes ka No ka Watashi ka    | August 23, 2026 | October 15, 2026   | Yesterday's Musume      |
 
@@ -124,7 +124,7 @@
 | Nanakorobi Yaoki                         | July 22, 2026     | July 29, 2026     | July 29, 2026     | \-                                          | Kirameki Factory        |
 | Hatsukoi, Hanabie                        | July 24, 2026     | July 30, 2026     | July 30, 2026     | \-                                          | \-                      |
 | Oh my wish                               | July 15, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Kirameki Factory        |
-| Samui ne                                 | July 23, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Bye! Project            |
+| Samui ne                                 | July 23, 2026     | August 02, 2026   | August 02, 2026   | \-                                          | Yesterday's Musume      |
 | Kono Machi                               | August 01, 2026   | August 09, 2026   | August 09, 2026   | \-                                          | Cover all the H!P       |
 | Nakidasu Kamo Shirenai yo                | May 07, 2026      | August 12, 2026   | August 12, 2026   | <ul><li>Timing</li></ul>                    | Project: Yume           |
 | UBU to ZURU                              | August 05, 2026   | August 23, 2026   | August 23, 2026   | \-                                          | Matcha Dub Club         |
