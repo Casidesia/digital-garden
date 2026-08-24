@@ -19,7 +19,8 @@ Casi (Me!) (https://youtube.com/@casidesiamusic),
 Matcha (https://youtube.com/@ganbarematcha)
 
 Releases:
-| File | Artist | Staff Roles | Release Date |
-| ---- | ------ | ----------- | ------------ |
+| File                                                           | Artist                           | Staff Roles                                 | Release Date    |
+| -------------------------------------------------------------- | -------------------------------- | ------------------------------------------- | --------------- |
+| [[Covers/Published/Massara Blue Jeans\|Massara Blue Jeans]] | [[Berryz Koubou\|Berryz Koubou]] | <ul><li>Timing</li><li>Staff Only</li></ul> | August 19, 2026 |
 
 { .block-language-dataview}

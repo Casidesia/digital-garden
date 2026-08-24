@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/covered-artists/angerme/","updated":"2026-05-22T15:00:19.720-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/covered-artists/angerme/","updated":"2026-05-22T14:39:49.280-04:00","dg-note-properties":{}}
 ---
 
 | releaseDate       | Song                                                                         |

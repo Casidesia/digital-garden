@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/fast-pass/","updated":"2026-06-28T13:41:16.514-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","dateModified":"2026-04-21T12:15:32.745-04:00","Collab Status":"Waiting","coverType":"Collab","noteType":"[[Cover]]","discordServer":"Ceres Station","musician":"[[Covers/Covered Artists/ANGERME]]","Timing Spent":"16:00","coverRoles":["Timing"],"assigned":"2025-11-13","Custom":"no","soloLines":["[[Covers/Singers/HP/Hashisako Rin]]"],"releaseDate":"2026-06-28"}}
+{"dg-publish":true,"permalink":"/covers/published/fast-pass/","updated":"2026-06-28T20:56:07.946-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","dateModified":"2026-04-21T12:15:32.745-04:00","Collab Status":"Waiting","coverType":"Collab","noteType":"[[Cover]]","discordServer":"Ceres Station","musician":"[[Covers/Covered Artists/ANGERME]]","Timing Spent":"16:00","coverRoles":["Timing"],"assigned":"2025-11-13","Custom":"no","soloLines":["[[Covers/Singers/HP/Hashisako Rin]]"],"releaseDate":"2026-06-28"}}
 ---
 
 Artist: [[Covers/Covered Artists/ANGERME\|ANGERME]]
