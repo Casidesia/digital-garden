@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-08-24T09:07:00.636-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-08-24T19:29:21.604-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -61,17 +61,6 @@
 | Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume |
 | Robo Kiss                    | Recording  | \-            | \-              | Project: Yume |
 | Wonderful World              | Video      | June 04, 2026 | \-              | Project: Yume |
-
-{ .block-language-dataview}
-## Waiting
-| Song                      | Waiting On | Date Assigned    | Rec Due           | Waiting Since    | Server             |
-| ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ------------------ |
-| YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret             |
-| Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs   |
-| Aki Urara                 | Recording  | March 02, 2026   | October 01, 2026  | May 05, 2026     | Yesterday's Musume |
-| Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
-| Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
-| Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
 
 { .block-language-dataview}
 ## Part Done
