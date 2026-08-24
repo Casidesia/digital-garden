@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/in-progress/in-progress/more-mi-amore-solo/","updated":"2026-07-07T13:35:44.884-04:00","dg-note-properties":{"status":"in-progress","assigned":"2026-05-13","due":"2026-11-01","musician":"[[Juice=Juice]]","Custom":"yes","soloLines":null,"coverRoles":null,"coverGroup":null,"discordServer":"Kirameki Factory","coverType":"Solo","noteType":"[[Cover]]","category":"cover","statusInfo":"Recording","lastChangeDate":"2026-06-05"}}
+{"dg-publish":true,"permalink":"/covers/in-progress/in-progress/more-mi-amore-solo/","updated":"2026-08-24T09:06:10.632-04:00","dg-note-properties":{"status":"in-queue","assigned":"2026-05-13","due":"2026-11-01","musician":"[[Juice=Juice]]","Custom":"yes","soloLines":null,"coverRoles":null,"coverGroup":null,"discordServer":"Kirameki Factory","coverType":"Solo","noteType":"[[Cover]]","category":"cover","statusInfo":"Recording","lastChangeDate":"2026-06-05"}}
 ---
 
 Yells just in the parenthesis. If you notice other spots that fans usually yell, have at it! 

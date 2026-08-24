@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-08-24T06:59:28.322-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-08-24T09:07:00.636-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
@@ -42,6 +42,8 @@
 | Song                         | Working On | Rec Date      | In My Lap Since | Server            |
 | ---------------------------- | ---------- | ------------- | --------------- | ----------------- |
 | Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume     |
+| Fantasy ga Hajimaru          | Recording  | \-            | June 05, 2026   | Project: Yume     |
+| More! Mi Amore! (Solo)       | Recording  | \-            | June 05, 2026   | Kirameki Factory  |
 | Tokimeku Tokimeke            | Timing     | June 03, 2026 | June 03, 2026   | Project: Yume     |
 | CHO DAI                      | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
 | Osaka Koi no Uta             | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
@@ -49,15 +51,13 @@
 | Otomodachi                   | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume     |
 | Resonant Blue                | Timing     | May 19, 2026  | July 12, 2026   | Project: Yume     |
 | First Kiss                   | Tuning     | June 03, 2026 | June 29, 2026   | Kirameki Factory  |
-| Wonderful World              | Video      | June 04, 2026 | \-              | Project: Yume     |
 
 { .block-language-dataview}
-## In Progress
-| Song                   | Working On | Rec Date | In My Lap Since | Server           |
-| ---------------------- | ---------- | -------- | --------------- | ---------------- |
-| Robo Kiss              | Recording  | \-       | \-              | Project: Yume    |
-| Fantasy ga Hajimaru    | Recording  | \-       | June 05, 2026   | Project: Yume    |
-| More! Mi Amore! (Solo) | Recording  | \-       | June 05, 2026   | Kirameki Factory |
+## In Progress (Highest Priorities)
+| Song            | Working On | Rec Date      | In My Lap Since | Server        |
+| --------------- | ---------- | ------------- | --------------- | ------------- |
+| Robo Kiss       | Recording  | \-            | \-              | Project: Yume |
+| Wonderful World | Video      | June 04, 2026 | \-              | Project: Yume |
 
 { .block-language-dataview}
 ## Waiting
