@@ -6,11 +6,10 @@
 | Song                        | Date Assigned   | Rec Due            | Server                  |
 | --------------------------- | --------------- | ------------------ | ----------------------- |
 | Goback We Can't Go Back     | \-              | \-                 | Project: Yume           |
-| Kimi Dake ja nai sa friends | \-              | \-                 | Project: Yume           |
 | Seishun Exabyte             | \-              | October 31, 2026   | Project: Yume           |
+| Kimi Dake ja nai sa friends | \-              | \-                 | Project: Yume           |
 | Kingdom Come                | May 02, 2026    | \-                 | Kirameki Factory        |
 | Donkey Gongs                | June 02, 2026   | October 31, 2026   | Faithy collabs~         |
-| Dantotsu de Aishite         | June 19, 2026   | August 31, 2026    | Project: Yume           |
 | Lonely but not Alone        | June 28, 2026   | \-                 | Anaa's Studio           |
 | Do-Did-Done                 | July 02, 2026   | October 20, 2026   | Yesterday's Musume      |
 | I Wish                      | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
@@ -42,40 +41,40 @@
 
 { .block-language-dataview}
 ## In Queue
-| Song                   | Working On | Rec Date      | In My Lap Since | Server            |
-| ---------------------- | ---------- | ------------- | --------------- | ----------------- |
-| Fantasy ga Hajimaru    | Recording  | \-            | June 05, 2026   | Project: Yume     |
-| More! Mi Amore! (Solo) | Recording  | \-            | June 05, 2026   | Kirameki Factory  |
-| Tokimeku Tokimeke      | Timing     | June 03, 2026 | June 03, 2026   | Project: Yume     |
-| CHO DAI                | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
-| Osaka Koi no Uta       | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
-| HEAVY GATE             | Timing     | June 04, 2026 | June 26, 2026   | Cover all the H!P |
-| Otomodachi             | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume     |
-| Resonant Blue          | Timing     | May 19, 2026  | July 12, 2026   | Project: Yume     |
-| First Kiss             | Tuning     | June 03, 2026 | June 29, 2026   | Kirameki Factory  |
+| Song                         | Working On | Rec Date      | In My Lap Since | Server            |
+| ---------------------------- | ---------- | ------------- | --------------- | ----------------- |
+| Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume     |
+| Fantasy ga Hajimaru          | Recording  | \-            | June 05, 2026   | Project: Yume     |
+| More! Mi Amore! (Solo)       | Recording  | \-            | June 05, 2026   | Kirameki Factory  |
+| Tokimeku Tokimeke            | Timing     | June 03, 2026 | June 03, 2026   | Project: Yume     |
+| CHO DAI                      | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
+| Osaka Koi no Uta             | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
+| HEAVY GATE                   | Timing     | June 04, 2026 | June 26, 2026   | Cover all the H!P |
+| Resonant Blue                | Timing     | May 19, 2026  | July 12, 2026   | Project: Yume     |
+| First Kiss                   | Tuning     | June 03, 2026 | June 29, 2026   | Kirameki Factory  |
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
-| Song                         | Working On | Rec Date      | In My Lap Since | Server        |
-| ---------------------------- | ---------- | ------------- | --------------- | ------------- |
-| Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume |
-| Robo Kiss                    | Recording  | \-            | \-              | Project: Yume |
-| Wonderful World              | Video      | June 04, 2026 | \-              | Project: Yume |
+| Song            | Working On | Rec Date      | In My Lap Since | Server        |
+| --------------- | ---------- | ------------- | --------------- | ------------- |
+| Robo Kiss       | Recording  | \-            | \-              | Project: Yume |
+| Otomodachi      | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume |
+| Wonderful World | Video      | June 04, 2026 | \-              | Project: Yume |
 
 { .block-language-dataview}
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date          | Part Done Date    | Staff Roles                             | Server                  |
 | ---------------------------------------- | ----------------- | ----------------- | ----------------- | --------------------------------------- | ----------------------- |
-| MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                      | Yesterday's Musume      |
 | Nanchuu Koi wo Yatteru You Know          | March 17, 2026    | March 27, 2026    | \-                | \-                                      | Yesterday's Musume      |
+| MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                      | Yesterday's Musume      |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                      | DMs                     |
 | Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                      | Faithy collabs~         |
 | Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                      | Yesterday's Musume      |
 | Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                      | Yesterday's Musume      |
 | Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                | Bunny's Collab          |
 | Aisaretai no ni                          | March 29, 2026    | April 09, 2026    | April 09, 2026    | \-                                      | Lou's Lounge            |
-| Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
+| Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                      | Chorus Party            |
 | Toki wo Koe Sora wo Koe                  | April 23, 2026    | April 26, 2026    | April 23, 2026    | \-                                      | Secret                  |
 | Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                      | Yesterday's Musume      |
@@ -85,9 +84,9 @@
 | Hooke no Housoku                         | May 07, 2026      | May 09, 2026      | May 09, 2026      | \-                                      | Bunny's Collab          |
 | Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                      | Yesterday's Musume      |
 | Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                      | Yesterday's Musume      |
-| I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | KAORIJIMA               |
 | Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Kirameki Factory        |
 | Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Lou's Lounge            |
+| I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | KAORIJIMA               |
 | Chance of LOVE                           | April 12, 2026    | May 26, 2026      | May 26, 2026      | \-                                      | Cover all the H!P       |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 08, 2026      | May 26, 2026      | May 26, 2026      | \-                                      | Kirameki Factory        |
 | Happy Birthday to Me                     | May 08, 2026      | May 29, 2026      | May 29, 2026      | \-                                      | Kirameki Factory        |
@@ -106,8 +105,8 @@
 | Mappira da Tteba!                        | June 08, 2026     | July 09, 2026     | July 09, 2026     | <ul><li>Timing</li></ul>                | Lou's Lounge            |
 | Wake-up Call ~Mezameru Toki~             | May 27, 2026      | July 09, 2026     | July 09, 2026     | \-                                      | Faithy collabs~         |
 | Kataomoi                                 | April 29, 2026    | May 21, 2026      | July 10, 2026     | <ul><li>Timing</li></ul>                | Kirameki Factory        |
-| Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | DIACOLORS               |
 | Prince Night                             | June 02, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | Faithy collabs~         |
+| Oyogenai Mermaid                         | July 04, 2026     | July 12, 2026     | July 12, 2026     | \-                                      | DIACOLORS               |
 | Atto Odoroku Mirai ga Yattekuru!         | June 28, 2026     | July 19, 2026     | July 19, 2026     | \-                                      | Yesterday's Musume      |
 | Neverending Shine                        | March 04, 2026    | June 04, 2026     | July 21, 2026     | <ul><li>Mixing</li></ul>                | Project: Yume           |
 | Nanakorobi Yaoki                         | July 22, 2026     | July 29, 2026     | July 29, 2026     | \-                                      | Kirameki Factory        |
