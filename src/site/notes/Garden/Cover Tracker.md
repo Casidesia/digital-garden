@@ -10,7 +10,6 @@
 | Kimi Dake ja nai sa friends | \-              | \-                 | Project: Yume           |
 | Kingdom Come                | May 02, 2026    | \-                 | Kirameki Factory        |
 | Donkey Gongs                | June 02, 2026   | October 31, 2026   | Faithy collabs~         |
-| Lonely but not Alone        | June 28, 2026   | \-                 | Anaa's Studio           |
 | Do-Did-Done                 | July 02, 2026   | October 20, 2026   | Yesterday's Musume      |
 | I Wish                      | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
 | Come with me                | July 17, 2026   | \-                 | My-chan's Karaoke Party |
@@ -38,6 +37,8 @@
 | Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume      |
 | Appare Kaitenzushi!       | Recording  | May 25, 2026     | \-                | May 26, 2026     | Cover all the H!P  |
 | Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~    |
+| Dantotsu de Aishite       | Recording  | June 19, 2026    | August 31, 2026   | \-               | Project: Yume      |
+| Wonderful World           | Video      | March 09, 2026   | \-                | \-               | Project: Yume      |
 
 { .block-language-dataview}
 ## In Queue
@@ -55,11 +56,10 @@
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
-| Song            | Working On | Rec Date      | In My Lap Since | Server        |
-| --------------- | ---------- | ------------- | --------------- | ------------- |
-| Robo Kiss       | Recording  | \-            | \-              | Project: Yume |
-| Otomodachi      | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume |
-| Wonderful World | Video      | June 04, 2026 | \-              | Project: Yume |
+| Song       | Working On | Rec Date      | In My Lap Since | Server        |
+| ---------- | ---------- | ------------- | --------------- | ------------- |
+| Robo Kiss  | Recording  | \-            | \-              | Project: Yume |
+| Otomodachi | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume |
 
 { .block-language-dataview}
 ## Part Done
@@ -76,7 +76,6 @@
 | Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                      | Chorus Party            |
-| Toki wo Koe Sora wo Koe                  | April 23, 2026    | April 26, 2026    | April 23, 2026    | \-                                      | Secret                  |
 | Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                      | Yesterday's Musume      |
 | Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026      | May 05, 2026      | \-                                      | Matcha Dub Club         |
 | Tokyo Blur                               | May 20, 2025      | June 07, 2025     | May 06, 2026      | <ul><li>Timing</li></ul>                | Kazen Pro               |
@@ -116,5 +115,6 @@
 | Kono Machi                               | August 01, 2026   | August 09, 2026   | August 09, 2026   | \-                                      | Cover all the H!P       |
 | Nakidasu Kamo Shirenai yo                | May 07, 2026      | August 12, 2026   | August 12, 2026   | <ul><li>Timing</li></ul>                | Project: Yume           |
 | UBU to ZURU                              | August 05, 2026   | August 23, 2026   | August 23, 2026   | \-                                      | Matcha Dub Club         |
+| Lonely but not Alone                     | June 28, 2026     | August 27, 2026   | August 27, 2026   | \-                                      | Anaa's Studio           |
 
 { .block-language-dataview}
