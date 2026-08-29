@@ -22,9 +22,7 @@
 | MY DAYS FOR YOU             | August 01, 2026 | September 27, 2026 | Matcha Dub Club         |
 | Heroine ni Narou Ka         | August 02, 2026 | December 01, 2026  | Project: Yume           |
 | Beat no Wakusei             | August 03, 2026 | September 15, 2026 | Yesterday's Musume      |
-| Ai no Tane                  | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Ki ni Naru                  | August 19, 2026 | December 16, 2026  | Yesterday's Musume      |
-| Morning Coffee              | August 19, 2026 | October 01, 2026   | AKOGARE Collection      |
 | Yes ka No ka Watashi ka     | August 23, 2026 | October 15, 2026   | Yesterday's Musume      |
 
 { .block-language-dataview}
@@ -72,8 +70,8 @@
 | Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                      | Yesterday's Musume      |
 | Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                | Bunny's Collab          |
 | Aisaretai no ni                          | March 29, 2026    | April 09, 2026    | April 09, 2026    | \-                                      | Lou's Lounge            |
-| Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Blah Blah Blah                           | March 04, 2026    | April 16, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
+| Kaigan Seisou Danshi                     | April 12, 2026    | April 13, 2026    | April 16, 2026    | \-                                      | Yesterday's Musume      |
 | Naimono Love                             | March 04, 2026    | April 19, 2026    | April 19, 2026    | \-                                      | Chorus Party            |
 | Teka no Happy                            | March 23, 2026    | April 28, 2026    | April 28, 2026    | \-                                      | Yesterday's Musume      |
 | Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026      | May 05, 2026      | \-                                      | Matcha Dub Club         |
@@ -82,9 +80,9 @@
 | Hooke no Housoku                         | May 07, 2026      | May 09, 2026      | May 09, 2026      | \-                                      | Bunny's Collab          |
 | Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026      | May 11, 2026      | \-                                      | Yesterday's Musume      |
 | Fiesta! Fiesta!                          | April 13, 2026    | May 13, 2026      | May 12, 2026      | \-                                      | Yesterday's Musume      |
+| I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | KAORIJIMA               |
 | Kanashimi Twilight                       | May 10, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Kirameki Factory        |
 | Seishun Night                            | May 13, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | Lou's Lounge            |
-| I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026      | May 21, 2026      | \-                                      | KAORIJIMA               |
 | Chance of LOVE                           | April 12, 2026    | May 26, 2026      | May 26, 2026      | \-                                      | Cover all the H!P       |
 | SEXY BOY ~Soyokaze ni Yorisotte~         | May 08, 2026      | May 26, 2026      | May 26, 2026      | \-                                      | Kirameki Factory        |
 | Happy Birthday to Me                     | May 08, 2026      | May 29, 2026      | May 29, 2026      | \-                                      | Kirameki Factory        |
@@ -115,5 +113,7 @@
 | Nakidasu Kamo Shirenai yo                | May 07, 2026      | August 12, 2026   | August 12, 2026   | <ul><li>Timing</li></ul>                | Project: Yume           |
 | UBU to ZURU                              | August 05, 2026   | August 23, 2026   | August 23, 2026   | \-                                      | Matcha Dub Club         |
 | Lonely but not Alone                     | June 28, 2026     | August 27, 2026   | August 27, 2026   | \-                                      | Anaa's Studio           |
+| Ai no Tane                               | August 19, 2026   | August 29, 2026   | August 29, 2026   | \-                                      | AKOGARE Collection      |
+| Morning Coffee                           | August 19, 2026   | August 29, 2026   | August 29, 2026   | \-                                      | AKOGARE Collection      |
 
 { .block-language-dataview}
