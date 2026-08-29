@@ -18,6 +18,7 @@
 ## Collabs
 | File                                                                               | Artist                                                         | Staff Roles                             | Release Date    |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- | --------------- |
+| [[Covers/Published/Go Girl Koi no Victory\|Go Girl Koi no Victory]]             | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]   | \-                                      | August 29, 2026 |
 | [[Covers/Published/Haru no Uta\|Haru no Uta]]                                   | Morning Musume (Elders Club Ver.)                              | \-                                      | August 16, 2026 |
 | [[Covers/Published/Tomodachi wa Tomodachi Nanda\|Tomodachi wa Tomodachi Nanda]] | [[Berryz Koubou\|Berryz Koubou]]                               | \-                                      | August 10, 2026 |
 | [[Covers/Published/Zenzen Okiagarenai SUNDAY\|Zenzen Okiagarenai SUNDAY]]       | [[Covers/Covered Artists/ANGERME\|ANGERME]]                 | \-                                      | July 24, 2026   |

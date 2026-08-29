@@ -69,7 +69,6 @@
 | MELODIES                                 | April 05, 2026    | April 27, 2026    | \-                | \-                                      | Yesterday's Musume      |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026  | January 16, 2026  | \-                                      | DMs                     |
 | Fukyouwaon                               | February 09, 2026 | February 18, 2026 | February 18, 2026 | \-                                      | Faithy collabs~         |
-| Go Girl Koi no Victory                   | March 09, 2026    | March 19, 2026    | March 19, 2026    | \-                                      | Yesterday's Musume      |
 | Seishun Collection                       | March 19, 2026    | March 20, 2026    | March 20, 2026    | \-                                      | Yesterday's Musume      |
 | Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025 | March 31, 2026    | <ul><li>Timing</li></ul>                | Bunny's Collab          |
 | Aisaretai no ni                          | March 29, 2026    | April 09, 2026    | April 09, 2026    | \-                                      | Lou's Lounge            |

@@ -10,5 +10,6 @@
 | June 13, 2026     | [[Covers/Published/Style of my Love\|Style of my Love]]               |
 | July 13, 2026     | [[Covers/Published/SaiKIYOU\|SaiKIYOU]]                               |
 | July 17, 2026     | [[Covers/Published/Toki wo Koe Sora wo Koe\|Toki wo Koe Sora wo Koe]] |
+| August 29, 2026   | [[Covers/Published/Go Girl Koi no Victory\|Go Girl Koi no Victory]]   |
 
 { .block-language-dataview}
