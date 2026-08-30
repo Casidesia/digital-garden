@@ -71,8 +71,8 @@
 | kirei kawaii mirai                   | PINK CRES.                  | \-                                        |
 | love candy                           | PINK CRES.                  | \-                                        |
 | katasumi                             | PINK CRES.                  | \-                                        |
-| my name is identity                  | PINK CRES.                  | \-                                        |
 | roulette                             | PINK CRES.                  | \-                                        |
+| my name is identity                  | PINK CRES.                  | \-                                        |
 | Fly Up So High                       | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Imagine It                           | PRODUCE JAPAN 101 THE GIRLS | \-                                        |
 | Leap High                            | PRODUCE JAPAN 101 THE GIRLS | \-                                        |

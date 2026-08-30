@@ -6,13 +6,12 @@
 | Song                        | Date Assigned   | Rec Due            | Server                  |
 | --------------------------- | --------------- | ------------------ | ----------------------- |
 | Goback We Can't Go Back     | \-              | \-                 | Project: Yume           |
-| Seishun Exabyte             | \-              | October 31, 2026   | Project: Yume           |
 | Kimi Dake ja nai sa friends | \-              | \-                 | Project: Yume           |
+| Seishun Exabyte             | \-              | October 31, 2026   | Project: Yume           |
 | Kingdom Come                | May 02, 2026    | \-                 | Kirameki Factory        |
 | Donkey Gongs                | June 02, 2026   | October 31, 2026   | Faithy collabs~         |
 | Do-Did-Done                 | July 02, 2026   | October 20, 2026   | Yesterday's Musume      |
 | I Wish                      | July 15, 2026   | October 24, 2026   | Kirameki Factory        |
-| Come with me                | July 17, 2026   | \-                 | My-chan's Karaoke Party |
 | HANAGATAMI                  | July 23, 2026   | November 21, 2026  | Yesterday's Musume      |
 | Teion Yakedo                | July 23, 2026   | January 09, 2027   | Yesterday's Musume      |
 | Gekikara LOVE               | July 25, 2026   | October 01, 2026   | Project: Yume           |
@@ -24,6 +23,7 @@
 | Beat no Wakusei             | August 03, 2026 | September 15, 2026 | Yesterday's Musume      |
 | Ki ni Naru                  | August 19, 2026 | December 16, 2026  | Yesterday's Musume      |
 | Yes ka No ka Watashi ka     | August 23, 2026 | October 15, 2026   | Yesterday's Musume      |
+| Suki na Senpai              | August 30, 2026 | \-                 | Project: Yume           |
 
 { .block-language-dataview}
 ## Waiting
@@ -43,8 +43,8 @@
 | Song                         | Working On | Rec Date      | In My Lap Since | Server            |
 | ---------------------------- | ---------- | ------------- | --------------- | ----------------- |
 | Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume     |
-| Fantasy ga Hajimaru          | Recording  | \-            | June 05, 2026   | Project: Yume     |
 | More! Mi Amore! (Solo)       | Recording  | \-            | June 05, 2026   | Kirameki Factory  |
+| Fantasy ga Hajimaru          | Recording  | \-            | June 05, 2026   | Project: Yume     |
 | Tokimeku Tokimeke            | Timing     | June 03, 2026 | June 03, 2026   | Project: Yume     |
 | CHO DAI                      | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
 | Osaka Koi no Uta             | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
@@ -54,10 +54,11 @@
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
-| Song       | Working On | Rec Date      | In My Lap Since | Server        |
-| ---------- | ---------- | ------------- | --------------- | ------------- |
-| Robo Kiss  | Recording  | \-            | \-              | Project: Yume |
-| Otomodachi | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume |
+| Song         | Working On | Rec Date      | In My Lap Since | Server                  |
+| ------------ | ---------- | ------------- | --------------- | ----------------------- |
+| Robo Kiss    | Recording  | \-            | \-              | Project: Yume           |
+| Come with me | Recording  | \-            | \-              | My-chan's Karaoke Party |
+| Otomodachi   | Timing     | July 10, 2026 | July 10, 2026   | Project: Yume           |
 
 { .block-language-dataview}
 ## Part Done
