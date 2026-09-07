@@ -7,7 +7,7 @@
 | -------------------------- | ------------------ | ----------------- | ----------------------- |
 | Goback We Can't Go Back    | \-                 | \-                | Project: Yume           |
 | Seishun Exabyte            | \-                 | October 31, 2026  | Project: Yume           |
-| Yes ka No ka Watashi ka    | \-                 | \-                | \-                      |
+| Yes ka No ka Watashi ka    | \-                 | \-                | Yesterday's Musume      |
 | Donkey Gongs               | June 02, 2026      | October 31, 2026  | Faithy collabs~         |
 | Do-Did-Done                | July 02, 2026      | October 20, 2026  | Yesterday's Musume      |
 | Teion Yakedo               | July 23, 2026      | January 09, 2027  | Yesterday's Musume      |

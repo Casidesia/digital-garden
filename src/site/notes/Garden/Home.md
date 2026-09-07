@@ -14,8 +14,6 @@ For others: [[Garden/Cover Tracker\|Cover Tracker]] and [[Garden/Cover Wishlist/
 
 I am a permanent member of: 
 - [[Covers/Cover Groups/Kanzen Pro\|Kanzen Pro]], 4th gen
-- [[Covers/Cover Groups/Kirameki Factory\|Kirameki Factory]], 2nd Gen
-- [[Covers/Cover Groups/Echeveria\|Echeveria]]
 - [[Covers/Cover Groups/DIACOLORS\|DIACOLORS]], where I cover [[Covers/Singers/HP/Kasahara Momona\|Kasahara Momona]]'s lines
 - AKOGARE Collection as Fukuda Asuka from Morning Musume 
 
