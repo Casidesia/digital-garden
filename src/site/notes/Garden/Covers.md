@@ -21,6 +21,7 @@
 | [[Covers/Published/Go Girl Koi no Victory\|Go Girl Koi no Victory]]             | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]   | \-                                      | August 29, 2026 |
 | [[Covers/Published/Haru no Uta\|Haru no Uta]]                                   | Morning Musume (Elders Club Ver.)                              | \-                                      | August 16, 2026 |
 | [[Covers/Published/Tomodachi wa Tomodachi Nanda\|Tomodachi wa Tomodachi Nanda]] | [[Berryz Koubou\|Berryz Koubou]]                               | \-                                      | August 10, 2026 |
+| [[Covers/Published/Kataomoi\|Kataomoi]]                                         | [[Buono\|Buono]]                                               | <ul><li>Timing</li></ul>                | August 05, 2026 |
 | [[Covers/Published/Zenzen Okiagarenai SUNDAY\|Zenzen Okiagarenai SUNDAY]]       | [[Covers/Covered Artists/ANGERME\|ANGERME]]                 | \-                                      | July 24, 2026   |
 | [[Covers/Published/FireWorks\|FireWorks]]                                       | [[Covers/Covered Artists/Tsubaki Factory\|Tsubaki Factory]] | <ul><li>Timing</li><li>Mixing</li></ul> | July 23, 2026   |
 | [[Covers/Published/Toki wo Koe Sora wo Koe\|Toki wo Koe Sora wo Koe]]           | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]   | \-                                      | July 17, 2026   |
@@ -35,5 +36,7 @@
 | [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                             | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]                 | <ul><li>Tuning</li></ul>                | April 15, 2026  |
 | [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                               | NewJeans                                                       | \-                                      | April 29, 2025  |
 | [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]]     | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]]   | <ul><li>Video</li></ul>                 | June 04, 2024   |
+| [[Covers/Published/Fiesta! Fiesta!\|Fiesta! Fiesta!]]                           | [[Juice=Juice\|Juice=Juice]]                                   | \-                                      | \-              |
+| [[Covers/Published/Neverending Shine\|Neverending Shine]]                       | Morning Musume                                                 | <ul><li>Mixing</li></ul>                | \-              |
 
 { .block-language-dataview}

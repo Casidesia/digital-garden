@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/published/go-girl-koi-no-victory/","updated":"2026-08-29T11:13:52.906-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","noteType":"[[Cover]]","coverType":"Collab","discordServer":"Yesterday's Musume","musician":"[[Covers/Covered Artists/Morning Musume]]","coverRoles":null,"assigned":"2026-03-09","soloLines":["no solo","\"Yellow Group\" "],"dateModified":"2026-04-21T11:36:36.312-04:00","Custom":"no","lastChangeDate":"2026-03-19","recordingDate":"2026-03-19","partDoneDate":"2026-03-19","releaseDate":"2026-08-29"}}
+{"dg-publish":true,"permalink":"/covers/published/go-girl-koi-no-victory/","updated":"2026-09-07T12:25:37.373-04:00","dg-note-properties":{"status":"done","priority":"none","taskSourceType":"taskNotes","category":"cover","noteType":"[[Cover]]","coverType":"Collab","discordServer":"Yesterday's Musume","musician":"[[Covers/Covered Artists/Morning Musume]]","coverRoles":null,"assigned":"2026-03-09","soloLines":["no solo","\"Yellow Group\" "],"dateModified":"2026-04-21T11:36:36.312-04:00","Custom":"no","lastChangeDate":"2026-03-19","recordingDate":"2026-03-19","releaseDate":"2026-08-29"}}
 ---
 
 
