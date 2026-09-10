@@ -36,8 +36,8 @@
 | [[Covers/Published/Tanpopo (Song)\|Tanpopo (Song)]]                             | [[Covers/Covered Artists/Tanpopo\|Tanpopo]]                 | <ul><li>Tuning</li></ul>                | April 15, 2026  |
 | [[Covers/Published/Get Up (YTTB)\|Get Up (YTTB)]]                               | NewJeans                                                       | \-                                      | April 29, 2025  |
 | [[Covers/Published/Expose Burn Out (w Hakuya)\|Expose Burn Out (w Hakuya)]]     | [[Covers/Covered Artists/RAISE A SUILEN\|RAISE A SUILEN]]   | <ul><li>Video</li></ul>                 | June 04, 2024   |
-| [[Covers/Published/Neverending Shine\|Neverending Shine]]                       | Morning Musume                                                 | <ul><li>Mixing</li></ul>                | \-              |
 | [[Covers/Published/Fiesta! Fiesta!\|Fiesta! Fiesta!]]                           | [[Juice=Juice\|Juice=Juice]]                                   | \-                                      | \-              |
+| [[Covers/Published/Neverending Shine\|Neverending Shine]]                       | Morning Musume                                                 | <ul><li>Mixing</li></ul>                | \-              |
 | [[Covers/Published/Wonderful World\|Wonderful World]]                           | [[Juice=Juice\|Juice=Juice]]                                   | <ul><li>Timing</li></ul>                | \-              |
 
 { .block-language-dataview}
