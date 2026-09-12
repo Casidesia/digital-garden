@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-09-12T03:52:28.947-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/cover-tracker/","updated":"2026-09-12T03:54:09.275-04:00","dg-note-properties":{}}
 ---
 
 ## To Record
 | Song                        | Date Assigned      | Rec Due           | Server                  |
 | --------------------------- | ------------------ | ----------------- | ----------------------- |
-| Naisho da yo                | September 01, 2026 | \-                | Project: Yume           |
+| Goback We Can't Go Back     | July 28, 2026      | \-                | Project: Yume           |
 | Suki na Senpai              | August 30, 2026    | \-                | Project: Yume           |
-| Goback We Can't Go Back     | \-                 | \-                | Project: Yume           |
+| Naisho da yo                | September 01, 2026 | \-                | Project: Yume           |
 | Gekikara LOVE               | July 25, 2026      | October 01, 2026  | Project: Yume           |
-| Seishun Exabyte             | \-                 | October 31, 2026  | Project: Yume           |
+| Seishun Exabyte             | July 13, 2026      | October 31, 2026  | Project: Yume           |
+| Forget me not               | September 10, 2026 | November 30, 2026 | Ceres Station           |
 | Sylvatica Nante Shiranai    | September 10, 2026 | November 30, 2026 | \-                      |
-| Forget me not               | \-                 | November 30, 2026 | Ceres Station           |
 | Heroine ni Narou Ka         | August 02, 2026    | December 01, 2026 | Project: Yume           |
-| Onna Gokoro to Nanto Yara   | September 04, 2026 | December 31, 2026 | My-chan's Karaoke Party |
 | Ketsuron Kara Itte Choudai  | July 30, 2026      | December 31, 2026 | My-chan's Karaoke Party |
+| Onna Gokoro to Nanto Yara   | September 04, 2026 | December 31, 2026 | My-chan's Karaoke Party |
 | Eli, Eli, Lema Sabachthani  | September 10, 2026 | January 20, 2027  | Ceres Station           |
 | Junketsu no Wryness         | September 10, 2026 | January 30, 2027  | Ceres Station           |
 | Kyoudou Gensou Utopia       | September 10, 2026 | January 30, 2027  | Ceres Station           |
