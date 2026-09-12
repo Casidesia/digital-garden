@@ -5,6 +5,7 @@
 ## To Record
 | Song                        | Date Assigned      | Rec Due           | Server                  |
 | --------------------------- | ------------------ | ----------------- | ----------------------- |
+| Osaka Koi no Uta            | May 07, 2026       | \-                | Kirameki Factory        |
 | Goback We Can't Go Back     | July 28, 2026      | \-                | Project: Yume           |
 | Suki na Senpai              | August 30, 2026    | \-                | Project: Yume           |
 | Naisho da yo                | September 01, 2026 | \-                | Project: Yume           |
@@ -28,25 +29,22 @@
 
 { .block-language-dataview}
 ## Waiting
-| Song                      | Waiting On | Date Assigned    | Rec Due           | Waiting Since    | Server           |
-| ------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ---------------- |
-| YL                        | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret           |
-| Hana ga Saku Taiyou Abite | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs |
-| Tokimeku Tokimeke         | Recording  | May 05, 2026     | \-                | June 03, 2026    | Project: Yume    |
-| Nanchatte Ren'ai          | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume    |
-| Uchoten LOVE              | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~  |
-| Dantotsu de Aishite       | Recording  | June 19, 2026    | August 31, 2026   | \-               | Project: Yume    |
+| Song                         | Waiting On | Date Assigned    | Rec Due           | Waiting Since    | Server           |
+| ---------------------------- | ---------- | ---------------- | ----------------- | ---------------- | ---------------- |
+| YL                           | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret           |
+| Hana ga Saku Taiyou Abite    | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs |
+| Ai to Taiyou ni Tsutsumarete | Recording  | April 05, 2026   | \-                | June 05, 2026    | Project: Yume    |
+| Tokimeku Tokimeke            | Recording  | May 05, 2026     | \-                | June 03, 2026    | Project: Yume    |
+| Nanchatte Ren'ai             | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume    |
+| Uchoten LOVE                 | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~  |
+| Dantotsu de Aishite          | Recording  | June 19, 2026    | August 31, 2026   | \-               | Project: Yume    |
 
 { .block-language-dataview}
 ## In Queue
-| Song                         | Working On | Rec Date      | In My Lap Since | Server            |
-| ---------------------------- | ---------- | ------------- | --------------- | ----------------- |
-| Ai to Taiyou ni Tsutsumarete | Mixing     | June 05, 2026 | June 05, 2026   | Project: Yume     |
-| CHO DAI                      | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume     |
-| Fantasy ga Hajimaru          | Timing     | \-            | June 05, 2026   | Project: Yume     |
-| Osaka Koi no Uta             | Timing     | June 12, 2026 | June 12, 2026   | Kirameki Factory  |
-| HEAVY GATE                   | Timing     | June 04, 2026 | June 26, 2026   | Cover all the H!P |
-| First Kiss                   | Tuning     | June 03, 2026 | June 29, 2026   | Kirameki Factory  |
+| Song                | Working On | Rec Date      | In My Lap Since | Server        |
+| ------------------- | ---------- | ------------- | --------------- | ------------- |
+| CHO DAI             | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume |
+| Fantasy ga Hajimaru | Timing     | \-            | June 05, 2026   | Project: Yume |
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
@@ -87,6 +85,7 @@
 | Jun'ai Crusher                           | May 02, 2026      | May 31, 2026       | \-                                      | Chorus Party            |
 | Itoshima Distance                        | May 15, 2026      | June 03, 2026      | \-                                      | Mochi's Bean Factory    |
 | Wakatteiru no ni Gomen ne                | May 11, 2026      | June 03, 2026      | \-                                      | Mochi's Bean Factory    |
+| HEAVY GATE                               | May 28, 2026      | June 04, 2026      | <ul><li>Timing</li></ul>                | Cover all the H!P       |
 | Goal ~Ashita wa Acchi Da Yo~             | May 28, 2026      | June 05, 2026      | <ul><li>Tuning</li><li>Timing</li></ul> | Lou's Lounge            |
 | Moshi mo...                              | June 02, 2026     | June 05, 2026      | \-                                      | KAORIJIMA               |
 | Koi wa Magnet                            | May 07, 2026      | June 06, 2026      | \-                                      | Kirameki Factory        |
