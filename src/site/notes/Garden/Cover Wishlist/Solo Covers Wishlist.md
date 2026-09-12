@@ -66,11 +66,11 @@
 | Hikari                                   | Ms. OOJA                          | \-                                  |
 | Come                                     | Namie Amuro                       | \-                                  |
 | Kesenai Tsumi                            | Nana Kitade                       | \-                                  |
-| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | DISCOTHEQUE                              | Nana Mizuki                       | \-                                  |
+| ETERNAL BLAZE                            | Nana Mizuki                       | \-                                  |
 | EXTERMINATE                              | Nana Mizuki                       | \-                                  |
-| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GIMMICK GAME                             | Nana Mizuki                       | \-                                  |
+| Fate (Redo)                              | Nana Mizuki                       | \-                                  |
 | GUILTY                                   | Nana Mizuki                       | \-                                  |
 | Hakudo                                   | Nana Mizuki                       | \-                                  |
 | innocent starter                         | Nana Mizuki                       | \-                                  |
