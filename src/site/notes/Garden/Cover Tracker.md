@@ -19,6 +19,7 @@
 | Eli, Eli, Lema Sabachthani  | September 10, 2026 | January 20, 2027  | Ceres Station           |
 | Junketsu no Wryness         | September 10, 2026 | January 30, 2027  | Ceres Station           |
 | Kyoudou Gensou Utopia       | September 10, 2026 | January 30, 2027  | Ceres Station           |
+| Horror Queen (PY)           | September 12, 2026 | February 15, 2027 | Project: Yume           |
 | Mayuki no Teaching          | September 10, 2026 | March 30, 2027    | \-                      |
 | Princess Marguerite         | September 10, 2026 | March 30, 2027    | Ceres Station           |
 | Himitsu no Hana ga Hokorobu | September 10, 2026 | March 30, 2027    | Ceres Station           |
@@ -37,21 +38,22 @@
 | Tokimeku Tokimeke            | Recording  | May 05, 2026     | \-                | June 03, 2026    | Project: Yume    |
 | Nanchatte Ren'ai             | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume    |
 | Uchoten LOVE                 | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~  |
+| First Kiss                   | Recording  | May 30, 2026     | \-                | June 29, 2026    | Kirameki Factory |
 | Dantotsu de Aishite          | Recording  | June 19, 2026    | August 31, 2026   | \-               | Project: Yume    |
 
 { .block-language-dataview}
 ## In Queue
-| Song                | Working On | Rec Date      | In My Lap Since | Server        |
-| ------------------- | ---------- | ------------- | --------------- | ------------- |
-| CHO DAI             | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume |
-| Fantasy ga Hajimaru | Timing     | \-            | June 05, 2026   | Project: Yume |
+| Song    | Working On | Rec Date      | In My Lap Since | Server        |
+| ------- | ---------- | ------------- | --------------- | ------------- |
+| CHO DAI | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume |
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
-| Song         | Working On | Rec Date | In My Lap Since | Server                  |
-| ------------ | ---------- | -------- | --------------- | ----------------------- |
-| Robo Kiss    | Recording  | \-       | \-              | Project: Yume           |
-| Come with me | Recording  | \-       | \-              | My-chan's Karaoke Party |
+| Song                | Working On | Rec Date | In My Lap Since | Server                  |
+| ------------------- | ---------- | -------- | --------------- | ----------------------- |
+| Robo Kiss           | Recording  | \-       | \-              | Project: Yume           |
+| Come with me        | Recording  | \-       | \-              | My-chan's Karaoke Party |
+| Fantasy ga Hajimaru | Timing     | \-       | June 05, 2026   | Project: Yume           |
 
 { .block-language-dataview}
 ## Part Done
@@ -116,5 +118,7 @@
 | HANAGATAMI                               | July 23, 2026     | September 07, 2026 | \-                                      | Yesterday's Musume      |
 | MY DAYS FOR YOU                          | August 01, 2026   | September 07, 2026 | \-                                      | Matcha Dub Club         |
 | Donkey Gongs                             | June 02, 2026     | September 11, 2026 | \-                                      | Faithy collabs~         |
+| Sexy Cat no Enzetsu                      | \-                | September 17, 2026 | \-                                      | Lou's Lounge            |
+| Naichau Kamo                             | \-                | September 17, 2026 | \-                                      | Lou's Lounge            |
 
 { .block-language-dataview}
