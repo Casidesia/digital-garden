@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/covered-artists/raise-a-suilen/","updated":"2026-05-22T15:00:19.648-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covers/covered-artists/raise-a-suilen/","updated":"2026-05-22T14:39:48.957-04:00","dg-note-properties":{}}
 ---
 
 | releaseDate   | Song                                                                           |

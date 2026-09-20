@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covers/cover-groups/echeveria/","updated":"2026-06-06T14:54:00.650-04:00","dg-note-properties":{"Members":["[[Misc/People/online/Brit|Brit]]","[[Misc/People/online/Rae]]","[[Misc/People/irl/Casi]]"]}}
+{"dg-publish":true,"permalink":"/covers/cover-groups/echeveria/","updated":"2026-08-26T08:50:22.328-04:00","dg-note-properties":{"Members":["[[Misc/People/online/Brit|Brit]]","[[Misc/People/online/Rae]]","[[Misc/People/irl/Casi]]"]}}
 ---
 
 Echeveria is a Trio who cover mainly  [[Covers/Covered Artists/Tanpopo\|Tanpopo]], Pucchimoni, and Buono, as well as random other songs we made a song for a trio!

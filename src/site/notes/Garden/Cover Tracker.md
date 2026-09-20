@@ -9,7 +9,6 @@
 | Goback We Can't Go Back     | July 28, 2026      | \-                | Project: Yume           |
 | Suki na Senpai              | August 30, 2026    | \-                | Project: Yume           |
 | Naisho da yo                | September 01, 2026 | \-                | Project: Yume           |
-| Gekikara LOVE               | July 25, 2026      | October 01, 2026  | Project: Yume           |
 | Seishun Exabyte             | July 13, 2026      | October 31, 2026  | Project: Yume           |
 | Forget me not               | September 10, 2026 | November 30, 2026 | Ceres Station           |
 | Sylvatica Nante Shiranai    | September 10, 2026 | November 30, 2026 | \-                      |
@@ -20,9 +19,9 @@
 | Junketsu no Wryness         | September 10, 2026 | January 30, 2027  | Ceres Station           |
 | Kyoudou Gensou Utopia       | September 10, 2026 | January 30, 2027  | Ceres Station           |
 | Horror Queen (PY)           | September 12, 2026 | February 15, 2027 | Project: Yume           |
+| Himitsu no Hana ga Hokorobu | September 10, 2026 | March 30, 2027    | Ceres Station           |
 | Mayuki no Teaching          | September 10, 2026 | March 30, 2027    | \-                      |
 | Princess Marguerite         | September 10, 2026 | March 30, 2027    | Ceres Station           |
-| Himitsu no Hana ga Hokorobu | September 10, 2026 | March 30, 2027    | Ceres Station           |
 | Aru Niwashi no Monogatari   | September 10, 2026 | May 30, 2027      | Ceres Station           |
 | Hitoribocchi no Snow        | September 10, 2026 | May 30, 2027      | Ceres Station           |
 | Eien no Mayuki no Owari     | September 10, 2026 | July 30, 2027     | Ceres Station           |
@@ -35,7 +34,6 @@
 | YL                           | \-         | July 02, 2026    | November 05, 2026 | \-               | Secret           |
 | Hana ga Saku Taiyou Abite    | Recording  | October 20, 2025 | \-                | October 20, 2025 | KokoLand Collabs |
 | Ai to Taiyou ni Tsutsumarete | Recording  | April 05, 2026   | \-                | June 05, 2026    | Project: Yume    |
-| Tokimeku Tokimeke            | Recording  | May 05, 2026     | \-                | June 03, 2026    | Project: Yume    |
 | Nanchatte Ren'ai             | Recording  | May 07, 2026     | \-                | June 12, 2026    | Project: Yume    |
 | Uchoten LOVE                 | Recording  | May 27, 2026     | July 15, 2026     | June 16, 2026    | Faithy collabs~  |
 | First Kiss                   | Recording  | May 30, 2026     | \-                | June 29, 2026    | Kirameki Factory |
@@ -43,24 +41,26 @@
 
 { .block-language-dataview}
 ## In Queue
-| Song    | Working On | Rec Date      | In My Lap Since | Server        |
-| ------- | ---------- | ------------- | --------------- | ------------- |
-| CHO DAI | Timing     | June 04, 2026 | June 04, 2026   | Project: Yume |
+| Song              | Working On | Rec Date           | In My Lap Since | Server        |
+| ----------------- | ---------- | ------------------ | --------------- | ------------- |
+| Gekikara LOVE     | Timing     | September 19, 2026 | \-              | Project: Yume |
+| Tokimeku Tokimeke | Timing     | June 03, 2026      | June 03, 2026   | Project: Yume |
+| CHO DAI           | Timing     | June 04, 2026      | June 04, 2026   | Project: Yume |
 
 { .block-language-dataview}
 ## In Progress (Highest Priorities)
 | Song                | Working On | Rec Date | In My Lap Since | Server                  |
 | ------------------- | ---------- | -------- | --------------- | ----------------------- |
-| Robo Kiss           | Recording  | \-       | \-              | Project: Yume           |
 | Come with me        | Recording  | \-       | \-              | My-chan's Karaoke Party |
+| Robo Kiss           | Recording  | \-       | \-              | Project: Yume           |
 | Fantasy ga Hajimaru | Timing     | \-       | June 05, 2026   | Project: Yume           |
 
 { .block-language-dataview}
 ## Part Done
 | Song                                     | Date Assigned     | Rec Date           | Staff Roles                             | Server                  |
 | ---------------------------------------- | ----------------- | ------------------ | --------------------------------------- | ----------------------- |
-| Sexy boy                                 | \-                | \-                 | \-                                      | \-                      |
 | Junjou Evidence                          | May 11, 2026      | \-                 | \-                                      | Kirameki Factory        |
+| Sexy boy                                 | \-                | \-                 | \-                                      | \-                      |
 | Tokyo Blur                               | May 20, 2025      | June 07, 2025      | <ul><li>Timing</li></ul>                | Kazen Pro               |
 | Onna no Aiso wa Buki ja nai              | November 01, 2025 | November 12, 2025  | <ul><li>Timing</li></ul>                | Bunny's Collab          |
 | Bot Bakka                                | January 02, 2026  | January 16, 2026   | \-                                      | DMs                     |
@@ -73,15 +73,15 @@
 | Naimono Love                             | March 04, 2026    | April 19, 2026     | \-                                      | Chorus Party            |
 | MELODIES                                 | April 05, 2026    | April 27, 2026     | \-                                      | Yesterday's Musume      |
 | Teka no Happy                            | March 23, 2026    | April 28, 2026     | \-                                      | Yesterday's Musume      |
-| Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026       | \-                                      | Matcha Dub Club         |
 | Aki Urara                                | March 02, 2026    | May 05, 2026       | <ul><li>Timing</li></ul>                | Yesterday's Musume      |
+| Maji desu ka Ska!                        | April 25, 2026    | May 05, 2026       | \-                                      | Matcha Dub Club         |
 | Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026      | May 08, 2026       | \-                                      | Kirameki Factory        |
 | Hooke no Housoku                         | May 07, 2026      | May 09, 2026       | \-                                      | Bunny's Collab          |
 | Baisekou Daiseikou!                      | April 15, 2026    | May 11, 2026       | \-                                      | Yesterday's Musume      |
 | Resonant Blue                            | May 08, 2026      | May 19, 2026       | <ul><li>Timing</li></ul>                | Project: Yume           |
 | Kanashimi Twilight                       | May 10, 2026      | May 21, 2026       | \-                                      | Kirameki Factory        |
-| Seishun Night                            | May 13, 2026      | May 21, 2026       | \-                                      | Lou's Lounge            |
 | I Need You ~Yozora no Kanransha~         | May 04, 2026      | May 21, 2026       | \-                                      | KAORIJIMA               |
+| Seishun Night                            | May 13, 2026      | May 21, 2026       | \-                                      | Lou's Lounge            |
 | Chance of LOVE                           | April 12, 2026    | May 26, 2026       | \-                                      | Cover all the H!P       |
 | Happy Birthday to Me                     | May 08, 2026      | May 29, 2026       | \-                                      | Kirameki Factory        |
 | Jun'ai Crusher                           | May 02, 2026      | May 31, 2026       | \-                                      | Chorus Party            |
