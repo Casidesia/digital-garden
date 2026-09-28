@@ -39,5 +39,6 @@
 | [[Covers/Published/Neverending Shine\|Neverending Shine]]                       | Morning Musume                                                 | <ul><li>Mixing</li></ul>                | \-              |
 | [[Covers/Published/Fiesta! Fiesta!\|Fiesta! Fiesta!]]                           | [[Juice=Juice\|Juice=Juice]]                                   | \-                                      | \-              |
 | [[Covers/Published/Wonderful World\|Wonderful World]]                           | [[Juice=Juice\|Juice=Juice]]                                   | <ul><li>Timing</li></ul>                | \-              |
+| [[Covers/Published/Blah Blah Blah\|Blah Blah Blah]]                             | [[ITZY\|ITZY]]                                                 | \-                                      | \-              |
 
 { .block-language-dataview}
