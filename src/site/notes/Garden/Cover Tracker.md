@@ -8,7 +8,6 @@
 | Osaka Koi no Uta            | May 07, 2026       | \-                | Kirameki Factory        |
 | Goback We Can't Go Back     | July 28, 2026      | \-                | Project: Yume           |
 | Suki na Senpai              | August 30, 2026    | \-                | Project: Yume           |
-| Nobishiro Beyond the World  | September 20, 2026 | \-                | Chorus Party            |
 | YL                          | July 02, 2026      | November 05, 2026 | Secret                  |
 | Heroine ni Narou Ka         | August 02, 2026    | December 01, 2026 | Project: Yume           |
 | Ketsuron Kara Itte Choudai  | July 30, 2026      | December 31, 2026 | My-chan's Karaoke Party |
@@ -119,5 +118,6 @@
 | Sexy Cat no Enzetsu                      | \-                 | September 17, 2026 | \-                                      | Lou's Lounge            |
 | Forget me not                            | September 10, 2026 | September 20, 2026 | \-                                      | Ceres Station           |
 | Sylvatica Nante Shiranai                 | September 10, 2026 | September 20, 2026 | \-                                      | \-                      |
+| Nobishiro Beyond the World               | September 20, 2026 | September 22, 2026 | \-                                      | Chorus Party            |
 
 { .block-language-dataview}
