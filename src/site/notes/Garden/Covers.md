@@ -40,5 +40,6 @@
 | [[Covers/Published/Fiesta! Fiesta!\|Fiesta! Fiesta!]]                           | [[Juice=Juice\|Juice=Juice]]                                   | \-                                      | \-              |
 | [[Covers/Published/Wonderful World\|Wonderful World]]                           | [[Juice=Juice\|Juice=Juice]]                                   | <ul><li>Timing</li></ul>                | \-              |
 | [[Covers/Published/Blah Blah Blah\|Blah Blah Blah]]                             | [[ITZY\|ITZY]]                                                 | \-                                      | \-              |
+| [[Covers/Published/Teka no Happy\|Teka no Happy]]                               | [[Covers/Covered Artists/Morning Musume\|Morning Musume]]   | \-                                      | \-              |
 
 { .block-language-dataview}

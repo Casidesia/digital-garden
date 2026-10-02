@@ -3,44 +3,44 @@
 ---
 
 ## To Record
-| Song                        | Date Assigned      | Rec Due           | Server                  |
-| --------------------------- | ------------------ | ----------------- | ----------------------- |
-| Osaka Koi no Uta            | May 07, 2026       | \-                | Kirameki Factory        |
-| Goback We Can't Go Back     | July 28, 2026      | \-                | Project: Yume           |
-| Suki na Senpai              | August 30, 2026    | \-                | Project: Yume           |
-| YL                          | July 02, 2026      | November 05, 2026 | Secret                  |
-| Heroine ni Narou Ka         | August 02, 2026    | December 01, 2026 | Project: Yume           |
-| Ketsuron Kara Itte Choudai  | July 30, 2026      | December 31, 2026 | My-chan's Karaoke Party |
-| Onna Gokoro to Nanto Yara   | September 04, 2026 | December 31, 2026 | My-chan's Karaoke Party |
-| Eli, Eli, Lema Sabachthani  | September 10, 2026 | January 20, 2027  | Ceres Station           |
-| Junketsu no Wryness         | September 10, 2026 | January 30, 2027  | Ceres Station           |
-| Kyoudou Gensou Utopia       | September 10, 2026 | January 30, 2027  | Ceres Station           |
-| Horror Queen (PY)           | September 12, 2026 | February 15, 2027 | Project: Yume           |
-| Mayuki no Teaching          | September 10, 2026 | March 30, 2027    | \-                      |
-| Princess Marguerite         | September 10, 2026 | March 30, 2027    | Ceres Station           |
-| Himitsu no Hana ga Hokorobu | September 10, 2026 | March 30, 2027    | Ceres Station           |
-| Aru Niwashi no Monogatari   | September 10, 2026 | May 30, 2027      | Ceres Station           |
-| Hitoribocchi no Snow        | September 10, 2026 | May 30, 2027      | Ceres Station           |
-| Eien no Mayuki no Owari     | September 10, 2026 | July 30, 2027     | Ceres Station           |
-| Shoujo Junketsu             | September 10, 2026 | July 30, 2027     | Ceres Station           |
+| Song                                 | Date Assigned      | Rec Due           | Server                  |
+| ------------------------------------ | ------------------ | ----------------- | ----------------------- |
+| Osaka Koi no Uta                     | May 07, 2026       | \-                | Kirameki Factory        |
+| Goback We Can't Go Back              | July 28, 2026      | \-                | Project: Yume           |
+| Suki na Senpai                       | August 30, 2026    | \-                | Project: Yume           |
+| Ai ga Ai no Mama de Iraremasu You ni | October 02, 2026   | \-                | Chorus Party            |
+| Heroine ni Narou Ka                  | August 02, 2026    | December 01, 2026 | Project: Yume           |
+| Ketsuron Kara Itte Choudai           | July 30, 2026      | December 31, 2026 | My-chan's Karaoke Party |
+| Onna Gokoro to Nanto Yara            | September 04, 2026 | December 31, 2026 | My-chan's Karaoke Party |
+| Eli, Eli, Lema Sabachthani           | September 10, 2026 | January 20, 2027  | Ceres Station           |
+| Junketsu no Wryness                  | September 10, 2026 | January 30, 2027  | Ceres Station           |
+| Kyoudou Gensou Utopia                | September 10, 2026 | January 30, 2027  | Ceres Station           |
+| Horror Queen (PY)                    | September 12, 2026 | February 15, 2027 | Project: Yume           |
+| Mayuki no Teaching                   | September 10, 2026 | March 30, 2027    | \-                      |
+| Princess Marguerite                  | September 10, 2026 | March 30, 2027    | Ceres Station           |
+| Himitsu no Hana ga Hokorobu          | September 10, 2026 | March 30, 2027    | Ceres Station           |
+| Aru Niwashi no Monogatari            | September 10, 2026 | May 30, 2027      | Ceres Station           |
+| Hitoribocchi no Snow                 | September 10, 2026 | May 30, 2027      | Ceres Station           |
+| Eien no Mayuki no Owari              | September 10, 2026 | July 30, 2027     | Ceres Station           |
+| Shoujo Junketsu                      | September 10, 2026 | July 30, 2027     | Ceres Station           |
 
 { .block-language-dataview}
 ## Waiting
-| Song                         | Waiting On | Date Assigned      | Rec Due          | Waiting Since    | Server           |
-| ---------------------------- | ---------- | ------------------ | ---------------- | ---------------- | ---------------- |
-| Naisho da yo                 | \-         | September 01, 2026 | \-               | \-               | Project: Yume    |
-| Hana ga Saku Taiyou Abite    | Recording  | October 20, 2025   | \-               | October 20, 2025 | KokoLand Collabs |
-| Ai to Taiyou ni Tsutsumarete | Recording  | April 05, 2026     | \-               | June 05, 2026    | Project: Yume    |
-| Nanchatte Ren'ai             | Recording  | May 07, 2026       | \-               | June 12, 2026    | Project: Yume    |
-| Uchoten LOVE                 | Recording  | May 27, 2026       | July 15, 2026    | June 16, 2026    | Faithy collabs~  |
-| First Kiss                   | Recording  | May 30, 2026       | \-               | June 29, 2026    | Kirameki Factory |
-| Dantotsu de Aishite          | Recording  | June 19, 2026      | August 31, 2026  | \-               | Project: Yume    |
-| Seishun Exabyte              | Recording  | July 13, 2026      | October 31, 2026 | \-               | Project: Yume    |
+| Song                         | Waiting On | Date Assigned    | Rec Due          | Waiting Since    | Server           |
+| ---------------------------- | ---------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| Hana ga Saku Taiyou Abite    | Recording  | October 20, 2025 | \-               | October 20, 2025 | KokoLand Collabs |
+| Ai to Taiyou ni Tsutsumarete | Recording  | April 05, 2026   | \-               | June 05, 2026    | Project: Yume    |
+| Nanchatte Ren'ai             | Recording  | May 07, 2026     | \-               | June 12, 2026    | Project: Yume    |
+| Uchoten LOVE                 | Recording  | May 27, 2026     | July 15, 2026    | June 16, 2026    | Faithy collabs~  |
+| First Kiss                   | Recording  | May 30, 2026     | \-               | June 29, 2026    | Kirameki Factory |
+| Dantotsu de Aishite          | Recording  | June 19, 2026    | August 31, 2026  | \-               | Project: Yume    |
+| Seishun Exabyte              | Recording  | July 13, 2026    | October 31, 2026 | \-               | Project: Yume    |
 
 { .block-language-dataview}
 ## In Queue
 | Song              | Working On | Rec Date           | In My Lap Since | Server        |
 | ----------------- | ---------- | ------------------ | --------------- | ------------- |
+| Naisho da yo      | \-         | \-                 | \-              | Project: Yume |
 | Gekikara LOVE     | Timing     | September 19, 2026 | \-              | Project: Yume |
 | Tokimeku Tokimeke | Timing     | June 03, 2026      | June 03, 2026   | Project: Yume |
 | CHO DAI           | Timing     | June 04, 2026      | June 04, 2026   | Project: Yume |
@@ -69,7 +69,6 @@
 | Kaigan Seisou Danshi                     | April 12, 2026     | April 13, 2026     | \-                                      | Yesterday's Musume      |
 | Naimono Love                             | March 04, 2026     | April 19, 2026     | \-                                      | Chorus Party            |
 | MELODIES                                 | April 05, 2026     | April 27, 2026     | \-                                      | Yesterday's Musume      |
-| Teka no Happy                            | March 23, 2026     | April 28, 2026     | \-                                      | Yesterday's Musume      |
 | Maji desu ka Ska!                        | April 25, 2026     | May 05, 2026       | \-                                      | Matcha Dub Club         |
 | Aki Urara                                | March 02, 2026     | May 05, 2026       | <ul><li>Timing</li></ul>                | Yesterday's Musume      |
 | Ame no Furanai Hoshi de wa Aisenai Darou | May 08, 2026       | May 08, 2026       | \-                                      | Kirameki Factory        |
@@ -119,5 +118,6 @@
 | Forget me not                            | September 10, 2026 | September 20, 2026 | \-                                      | Ceres Station           |
 | Sylvatica Nante Shiranai                 | September 10, 2026 | September 20, 2026 | \-                                      | \-                      |
 | Nobishiro Beyond the World               | September 20, 2026 | September 22, 2026 | \-                                      | Chorus Party            |
+| YL                                       | July 02, 2026      | October 01, 2026   | \-                                      | Secret                  |
 
 { .block-language-dataview}
